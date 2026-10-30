@@ -6,7 +6,7 @@ rows = [("Pre-existing inflation (where end-2019 trends led)†", "+8.2", "+6.1 
         ("COVID supply chains*", "+4.2", "+2.5 to +9.3"), ("Worker shortage", "+2.5", "+1.4 to +3.7"),
         ("Relief paid under Biden (from Mar 2021)", "+2.1", "+1.2 to +4.6"), ("Relief paid under Trump (before Mar 2021)", "+1.7", "+1.1 to +4.4"),
         ("War in Ukraine (energy & food)", "+1.5", "+0.2 to +2.2"), ("Pent-up demand", "+1.2", "+0.7 to +1.8"),
-        ("Fed, net (2020–21 cuts +0.8, 2022–23 hikes −0.4)", "+0.4", "0.0 to +1.5"),
+        ("Fed, net (2020–21 cuts & bond buying +0.8, hikes −0.4)", "+0.4", "0.0 to +1.5"),
         ("Profit margins (“greedflation”)*", "0.0 to +0.6", "−0.2 to +0.1 for the 0.0"),
         ("COVID shutdown drag", "−4.3", "−10.6 to −1.9"),
         ("Other & not explained", "−0.2", "leftover, no range"), ("Actual inflation, 2021–24 added up", "17.3", "measured")]
