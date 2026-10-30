@@ -1,0 +1,6 @@
+evidence,p5,p50,p95,ess
+no panel,0.886,4.018,8.295,6000.0
+category panel as estimated,2.459,5.282,9.376,3781.705
+panel s.e. halved,3.881,6.382,10.247,1351.286
+panel s.e. quartered,4.671,7.094,10.441,452.268
+direct effect known almost exactly (s.e. 0.05),5.135,7.333,10.893,116.083

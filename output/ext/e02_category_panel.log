@@ -1,0 +1,8 @@
+import shares (2019): {5: 0.35, 12: 0.35, 20: 0.35, 24: 0.39, 29: 0.47, 32: 0.17, 35: 0.33, 39: 0.51, 52: 0.4, 53: 0.16, 60: 0.01, 61: 0.4, 63: 0.4, 66: 0.4, 69: 0.01, 70: 0.89, 71: 0.51, 105: 0.89, 109: 0.89, 121: 0.27, 126: 0.4, 131: 0.27, 137: 0.27, 141: 0.09, 142: 0.01}
+                                     variant      exposure sample_end dependent  demand_control   nobs  lag_sum  lag_sum_se  effect_2021_24  effect_se  peak_yoy peak_month
+0                             goods exposure         goods    2024-12       all           False  27456    1.119       0.444           1.489      0.626     1.017    2022-05
+1                      import-share exposure  import_share    2024-12       all           False  27456    2.307       0.783           1.263      0.437     0.836    2022-07
+2               goods + goods-demand control         goods    2024-12       all            True  27456    1.199       0.446           1.579      0.627     1.123    2022-07
+3            goods, estimated 1999-2019 only         goods    2019-12       all           False  22176    1.640       0.618           2.513      0.918     1.257    2022-10
+4  goods, supply-labelled price changes only         goods    2024-12    supply           False  27456    0.764       0.257           1.111      0.374     0.616    2022-08
+model direct supply-chain term, 2021-24 total (log points, before wage/expectation feedback): {'point': 0.537, 'p5': np.float64(-0.151), 'p95': np.float64(1.363), 'sd': np.float64(0.466)}

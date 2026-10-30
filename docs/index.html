@@ -1,0 +1,440 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>What Caused America's Inflation</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* Layout: one reading column, figures break slightly wider; plain article structure so it imports cleanly into Medium */
+:root {
+  --bg: #fbfbfa; --fg: #1b1c1e; --muted: #5b5e63; --rule: #dfe0e2; --accent: #1f5fa8; --figbg: #ffffff;
+  --serif: "Literata", Georgia, "Times New Roman", serif;
+  --sans: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #16171a; --fg: #e8e9eb; --muted: #a3a7ad; --rule: #34363b; --accent: #7fb0ea; --figbg: #ffffff; color-scheme: dark } }
+:root[data-theme="dark"] { --bg: #16171a; --fg: #e8e9eb; --muted: #a3a7ad; --rule: #34363b; --accent: #7fb0ea; --figbg: #ffffff; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font-family: var(--serif); font-size: 18px; line-height: 1.65;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 48px 72px; }
+article { max-width: 680px; margin: 0 auto; }
+h1, h2, h3 { font-family: var(--sans); text-wrap: balance; line-height: 1.2; }
+h1 { font-size: clamp(30px, 6vw, 42px); font-weight: 600; margin: 0 0 12px; letter-spacing: -0.01em; }
+h2 { font-size: 24px; font-weight: 600; margin: 48px 0 8px; padding-top: 20px; border-top: 1px solid var(--rule); }
+h3 { font-size: 18px; font-weight: 600; margin: 32px 0 4px; }
+p { margin: 0 0 18px; }
+.dek { font-size: 21px; color: var(--muted); margin-bottom: 28px; }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+ul { padding-left: 22px; margin: 0 0 18px; }
+li { margin-bottom: 8px; }
+figure { margin: 28px 0 32px; }
+figure.wide { margin-left: calc(50% - min(50vw - 16px, 560px)); margin-right: calc(50% - min(50vw - 16px, 560px)); }
+figure img { display: block; width: 100%; max-width: 100%; height: auto; background: var(--figbg); border-radius: 4px; }
+figcaption { font-family: var(--sans); font-size: 14px; color: var(--muted); margin-top: 8px; line-height: 1.5; }
+.num { font-family: var(--mono); font-size: 0.92em; font-variant-numeric: tabular-nums; }
+.eq { font-family: var(--mono); font-size: 15px; background: color-mix(in srgb, var(--rule) 45%, transparent);
+  padding: 10px 12px; border-radius: 4px; overflow-x: auto; white-space: pre; margin: 0 0 18px; }
+.note { font-family: var(--sans); font-size: 15px; color: var(--muted); }
+ol.sources { font-family: var(--sans); font-size: 15px; padding-left: 24px; }
+ol.sources li { margin-bottom: 10px; }
+.tw { overflow-x: auto; margin: 0 0 20px; }
+.tw table { border-collapse: collapse; font-family: var(--sans); font-size: 14px; font-variant-numeric: tabular-nums; }
+.tw th, .tw td { border-bottom: 1px solid var(--rule); padding: 6px 8px; text-align: left; vertical-align: top; }
+table.data { font-size: 12.5px; }
+table.data td { white-space: nowrap; text-align: right; }
+table.data td:nth-last-child(-n+2) { text-align: left; white-space: nowrap; }
+table.data th[scope=row] { position: sticky; left: 0; background: var(--bg); min-width: 190px; max-width: 230px; white-space: normal; font-weight: 600; text-align: left; }
+table.data tr.key td, table.data tr.key th { background: color-mix(in srgb, var(--rule) 35%, var(--bg)); }
+table.data .rg { display: block; color: var(--muted); font-size: 11px; }
+ol.eqs { font-family: var(--sans); font-size: 14.5px; padding-left: 0; list-style: none; }
+ol.eqs li { margin-bottom: 8px; }
+ol.eqs b { font-family: var(--mono); font-weight: 400; }
+</style>
+
+<article>
+<h1>What Caused America's Inflation</h1>
+<p class="dek">One model puts every claimed cause of US inflation from 2020 through 2024 on the same scale, quarter by quarter, with uncertainty ranges, and shows openly what it can't explain. Every number has a public source.</p>
+
+<p>Inflation, measured by the PCE price index (the Fed's target measure), was 1.5% at the start of 2020. It peaked at 6.9% in the second quarter of 2022 and was back to 2.5% by the end of 2024. Depending on who you ask, the cause was Biden's stimulus, Trump's stimulus, the Fed printing money, the war in Ukraine, broken supply chains, pent-up demand, or corporate greed.</p>
+
+<p>Each claim usually comes with its own chart and method, so they can't be compared. I built one model that measures all of them the same way. Adding up the four years 2021–2024, prices rose by 17.3 points of inflation. 8.2 of those points are the model's “pre-existing” line: where its equations take inflation if nothing new had happened after 2019 (explained <a href="#pre-existing">below</a>). The other <strong>9.0 points</strong> are what needs explaining. The model accounts for all but about 1 point of the total, and that gap is shown, not hidden.</p>
+
+<p class="note">A <a href="report.html">technical report</a> gives the equations, robustness checks and comparison with published research.</p>
+
+<h2 id="chart">The answer in one chart</h2>
+<figure class="wide">
+  <img src="causes_chart_best.png" alt="Line chart of each cause's contribution to PCE inflation by quarter, 2020 to 2024, with actual inflation, the model's estimate, and shaded 90% ranges">
+  <figcaption>Each line is how many points of inflation (year over year, PCE price index) one cause added in each quarter. Shading is the 90% range of the best estimate: the model checked against actual wage growth, category prices and other countries' relief. The lines, including “other &amp; not explained”, add up to actual inflation (black) every quarter. The war line turns negative in 2023 because energy and food prices fell back from their 2022 peak; that fall is counted under the war too.</figcaption>
+</figure>
+
+<h3>Every number in the chart</h3>
+<p class="note">Points of year-over-year PCE inflation in the four quarters ending each date. Under each value: its 90% range (the chart's shading; the Fed lines aren't shaded because only their net total was checked against outside evidence). The 2021–24 total adds the four fourth-quarter values. Its range comes from the best estimate's redraws, so the middle of a range need not sit at the point value. Rows other than actual inflation and the model estimate add up to actual inflation. Source numbers refer to the <a href="#sources">Sources</a> list at the end; equations are listed below the table. The same numbers with 68% ranges, one row per cause and quarter: <a href="reproduce_long.csv">reproduce_long.csv</a>; the model's own (wider) ranges: <a href="reproduce.html">full table</a>.</p>
+<div class="tw"><table class="data"><thead><tr><th>Line</th>
+<th>2020<br>Q1</th>
+<th>2020<br>Q2</th>
+<th>2020<br>Q3</th>
+<th>2020<br>Q4</th>
+<th>2021<br>Q1</th>
+<th>2021<br>Q2</th>
+<th>2021<br>Q3</th>
+<th>2021<br>Q4</th>
+<th>2022<br>Q1</th>
+<th>2022<br>Q2</th>
+<th>2022<br>Q3</th>
+<th>2022<br>Q4</th>
+<th>2023<br>Q1</th>
+<th>2023<br>Q2</th>
+<th>2023<br>Q3</th>
+<th>2023<br>Q4</th>
+<th>2024<br>Q1</th>
+<th>2024<br>Q2</th>
+<th>2024<br>Q3</th>
+<th>2024<br>Q4</th>
+<th>2021–24 total</th><th>90% range of total</th><th>Data (Sources #)</th><th>Equations</th></tr></thead><tbody>
+<tr class="key"><th scope=row>Actual PCE inflation</th><td>+1.55</td><td>+0.57</td><td>+1.12</td><td>+1.24</td><td>+1.98</td><td>+3.92</td><td>+4.52</td><td>+5.73</td><td>+6.56</td><td>+6.88</td><td>+6.75</td><td>+6.07</td><td>+5.08</td><td>+3.99</td><td>+3.43</td><td>+2.95</td><td>+2.84</td><td>+2.70</td><td>+2.43</td><td>+2.52</td><td><strong>+17.3</strong></td><td></td><td>1</td><td>E2</td></tr>
+<tr class="key"><th scope=row>Model estimate: the model run on all the actual data (not a sum of the rows below)</th><td>+1.40</td><td>+0.34</td><td>+0.64</td><td>+0.78</td><td>+1.46</td><td>+3.02</td><td>+3.48</td><td>+4.77</td><td>+5.57</td><td>+6.01</td><td>+6.11</td><td>+5.36</td><td>+4.41</td><td>+3.43</td><td>+3.65</td><td>+3.61</td><td>+3.46</td><td>+3.60</td><td>+2.81</td><td>+2.49</td><td><strong>+16.2</strong></td><td></td><td>all below</td><td>E10–E12</td></tr>
+<tr><th scope=row>Pre-existing inflation (end-2019 momentum)</th><td>+1.64</td><td>+1.40</td><td>+1.57</td><td>+1.59</td><td>+1.56</td><td>+1.69</td><td>+1.73</td><td>+1.79</td><td>+1.86</td><td>+1.93</td><td>+1.98</td><td>+2.04</td><td>+2.09</td><td>+2.12</td><td>+2.17</td><td>+2.19</td><td>+2.20</td><td>+2.20</td><td>+2.20</td><td>+2.21</td><td><strong>+8.2</strong></td><td></td><td>11, 13</td><td>E14</td></tr>
+<tr><th scope=row>COVID supply chains</th><td>+0.01<span class="rg">−0.1 to +0.1</span></td><td>+0.21<span class="rg">+0.0 to +0.4</span></td><td>+0.53<span class="rg">+0.3 to +0.9</span></td><td>+0.72<span class="rg">+0.4 to +1.1</span></td><td>+0.88<span class="rg">+0.5 to +1.4</span></td><td>+1.00<span class="rg">+0.7 to +1.6</span></td><td>+1.06<span class="rg">+0.7 to +1.8</span></td><td>+1.33<span class="rg">+0.9 to +2.3</span></td><td>+1.75<span class="rg">+1.2 to +2.9</span></td><td>+1.89<span class="rg">+1.3 to +3.2</span></td><td>+1.98<span class="rg">+1.3 to +3.4</span></td><td>+1.83<span class="rg">+1.2 to +3.4</span></td><td>+1.55<span class="rg">+1.0 to +3.2</span></td><td>+1.23<span class="rg">+0.7 to +3.0</span></td><td>+0.79<span class="rg">+0.2 to +2.6</span></td><td>+0.56<span class="rg">−0.1 to +2.4</span></td><td>+0.39<span class="rg">−0.3 to +2.2</span></td><td>+0.36<span class="rg">−0.2 to +2.0</span></td><td>+0.41<span class="rg">−0.1 to +2.0</span></td><td>+0.48<span class="rg">+0.0 to +2.0</span></td><td><strong>+4.2</strong></td><td>+2.5 to +9.3</td><td>10</td><td>E11</td></tr>
+<tr><th scope=row>War in Ukraine (energy & food, Jan 2022–Mar 2023, plus knock-on)</th><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>+0.49<span class="rg">+0.4 to +0.6</span></td><td>+1.13<span class="rg">+1.0 to +1.3</span></td><td>+0.95<span class="rg">+0.7 to +1.2</span></td><td>+0.83<span class="rg">+0.5 to +1.1</span></td><td>+0.18<span class="rg">−0.2 to +0.5</span></td><td>−0.37<span class="rg">−0.9 to −0.0</span></td><td>−0.03<span class="rg">−0.6 to +0.4</span></td><td>+0.23<span class="rg">−0.3 to +0.6</span></td><td>+0.50<span class="rg">−0.0 to +0.8</span></td><td>+0.53<span class="rg">+0.1 to +0.8</span></td><td>+0.47<span class="rg">+0.1 to +0.7</span></td><td>+0.42<span class="rg">+0.1 to +0.7</span></td><td><strong>+1.5</strong></td><td>+0.2 to +2.2</td><td>1</td><td>E11</td></tr>
+<tr><th scope=row>Worker shortage</th><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>−0.01<span class="rg">−0.0 to −0.0</span></td><td>+0.15<span class="rg">+0.0 to +0.3</span></td><td>+0.36<span class="rg">+0.1 to +0.5</span></td><td>+0.43<span class="rg">+0.2 to +0.5</span></td><td>+0.41<span class="rg">+0.1 to +0.5</span></td><td>+0.37<span class="rg">+0.1 to +0.5</span></td><td>+0.50<span class="rg">+0.2 to +0.7</span></td><td>+0.61<span class="rg">+0.3 to +0.8</span></td><td>+0.81<span class="rg">+0.4 to +1.1</span></td><td>+0.94<span class="rg">+0.5 to +1.2</span></td><td>+0.81<span class="rg">+0.4 to +1.1</span></td><td>+0.80<span class="rg">+0.4 to +1.1</span></td><td>+0.81<span class="rg">+0.4 to +1.2</span></td><td>+0.74<span class="rg">+0.4 to +1.1</span></td><td>+0.68<span class="rg">+0.4 to +1.1</span></td><td>+0.65<span class="rg">+0.4 to +1.1</span></td><td>+0.63<span class="rg">+0.4 to +1.1</span></td><td>+0.58<span class="rg">+0.3 to +1.0</span></td><td>+0.54<span class="rg">+0.3 to +1.0</span></td><td><strong>+2.5</strong></td><td>+1.4 to +3.7</td><td>11, 13</td><td>E9, E10</td></tr>
+<tr><th scope=row>Relief paid under Biden (payments from March 2021)</th><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>+0.07<span class="rg">+0.0 to +0.2</span></td><td>+0.27<span class="rg">+0.1 to +0.6</span></td><td>+0.54<span class="rg">+0.2 to +1.1</span></td><td>+0.74<span class="rg">+0.3 to +1.4</span></td><td>+0.79<span class="rg">+0.3 to +1.4</span></td><td>+0.74<span class="rg">+0.2 to +1.3</span></td><td>+0.65<span class="rg">+0.2 to +1.2</span></td><td>+0.58<span class="rg">+0.2 to +1.2</span></td><td>+0.58<span class="rg">+0.3 to +1.3</span></td><td>+0.54<span class="rg">+0.3 to +1.3</span></td><td>+0.48<span class="rg">+0.3 to +1.3</span></td><td>+0.44<span class="rg">+0.3 to +1.3</span></td><td>+0.43<span class="rg">+0.3 to +1.3</span></td><td>+0.42<span class="rg">+0.3 to +1.3</span></td><td>+0.39<span class="rg">+0.3 to +1.3</span></td><td><strong>+2.1</strong></td><td>+1.2 to +4.6</td><td>2, 3, 4, 13</td><td>E3, E4, E8, E10–E12</td></tr>
+<tr><th scope=row>Relief paid under Trump (payments before March 2021)</th><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>+0.10<span class="rg">+0.0 to +0.3</span></td><td>+0.30<span class="rg">+0.1 to +0.7</span></td><td>+0.50<span class="rg">+0.2 to +1.0</span></td><td>+0.66<span class="rg">+0.3 to +1.3</span></td><td>+0.69<span class="rg">+0.3 to +1.3</span></td><td>+0.64<span class="rg">+0.2 to +1.2</span></td><td>+0.53<span class="rg">+0.2 to +1.1</span></td><td>+0.47<span class="rg">+0.2 to +1.1</span></td><td>+0.47<span class="rg">+0.3 to +1.2</span></td><td>+0.41<span class="rg">+0.3 to +1.2</span></td><td>+0.39<span class="rg">+0.3 to +1.3</span></td><td>+0.39<span class="rg">+0.3 to +1.3</span></td><td>+0.35<span class="rg">+0.3 to +1.2</span></td><td>+0.34<span class="rg">+0.3 to +1.2</span></td><td>+0.33<span class="rg">+0.2 to +1.2</span></td><td>+0.30<span class="rg">+0.2 to +1.1</span></td><td>+0.29<span class="rg">+0.2 to +1.1</span></td><td>+0.28<span class="rg">+0.2 to +1.0</span></td><td><strong>+1.7</strong></td><td>+1.1 to +4.4</td><td>2, 3, 4, 13</td><td>E3, E4, E8, E10–E12</td></tr>
+<tr><th scope=row>Pent-up demand</th><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>0.00<span class="rg">+0.0 to +0.0</span></td><td>+0.07<span class="rg">+0.0 to +0.1</span></td><td>+0.20<span class="rg">+0.1 to +0.3</span></td><td>+0.31<span class="rg">+0.1 to +0.4</span></td><td>+0.39<span class="rg">+0.1 to +0.5</span></td><td>+0.40<span class="rg">+0.1 to +0.5</span></td><td>+0.40<span class="rg">+0.1 to +0.5</span></td><td>+0.39<span class="rg">+0.1 to +0.5</span></td><td>+0.42<span class="rg">+0.2 to +0.6</span></td><td>+0.46<span class="rg">+0.2 to +0.6</span></td><td>+0.44<span class="rg">+0.2 to +0.7</span></td><td>+0.38<span class="rg">+0.2 to +0.6</span></td><td>+0.28<span class="rg">+0.2 to +0.6</span></td><td>+0.20<span class="rg">+0.1 to +0.6</span></td><td>+0.17<span class="rg">+0.1 to +0.6</span></td><td><strong>+1.2</strong></td><td>+0.7 to +1.8</td><td>1, 3, 5, 6</td><td>E5, E4, E8, E10–E12</td></tr>
+<tr><th scope=row>Fed 2020–21 rate cuts + bond buying</th><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>+0.01</td><td>+0.02</td><td>+0.05</td><td>+0.09</td><td>+0.14</td><td>+0.19</td><td>+0.21</td><td>+0.22</td><td>+0.22</td><td>+0.24</td><td>+0.28</td><td>+0.31</td><td>+0.32</td><td>+0.32</td><td>+0.30</td><td><strong>+0.8</strong></td><td>net of both: −0.0 to +1.5</td><td>8, 13</td><td>E6, E8, E10–E12</td></tr>
+<tr><th scope=row>Fed 2022–23 rate hikes</th><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>+0.01</td><td>+0.02</td><td>+0.02</td><td>−0.01</td><td>−0.06</td><td>−0.12</td><td>−0.17</td><td>−0.22</td><td>−0.25</td><td>−0.29</td><td><strong>−0.4</strong></td><td>net of both: −0.0 to +1.5</td><td>8, 13</td><td>E6, E8, E10–E12</td></tr>
+<tr><th scope=row>Greedflation (profit margins)</th><td>−0.01</td><td>+0.05</td><td>+0.06</td><td>0.00</td><td>0.00</td><td>−0.04</td><td>−0.08</td><td>−0.01</td><td>+0.02</td><td>0.00</td><td>+0.03</td><td>−0.01</td><td>+0.01</td><td>−0.02</td><td>−0.03</td><td>−0.01</td><td>−0.07</td><td>−0.02</td><td>0.00</td><td>0.00</td><td><strong>−0.0</strong></td><td></td><td>1</td><td>E13, E11</td></tr>
+<tr><th scope=row>COVID shutdown drag (incl. 2020–21 oil & food crash and rebound)</th><td>−0.24<span class="rg">−0.3 to −0.2</span></td><td>−1.29<span class="rg">−1.5 to −1.1</span></td><td>−1.75<span class="rg">−2.2 to −1.3</span></td><td>−2.15<span class="rg">−2.7 to −1.4</span></td><td>−1.86<span class="rg">−2.6 to −0.9</span></td><td>−0.72<span class="rg">−1.6 to +0.4</span></td><td>−0.62<span class="rg">−1.6 to +0.6</span></td><td>−0.22<span class="rg">−1.3 to +0.9</span></td><td>−0.82<span class="rg">−2.1 to +0.3</span></td><td>−1.56<span class="rg">−3.0 to −0.4</span></td><td>−1.61<span class="rg">−3.1 to −0.5</span></td><td>−1.88<span class="rg">−3.6 to −0.9</span></td><td>−1.86<span class="rg">−3.7 to −1.1</span></td><td>−1.67<span class="rg">−3.6 to −0.9</span></td><td>−1.31<span class="rg">−3.4 to −0.7</span></td><td>−1.09<span class="rg">−3.2 to −0.6</span></td><td>−0.96<span class="rg">−3.1 to −0.6</span></td><td>−0.89<span class="rg">−3.0 to −0.5</span></td><td>−1.01<span class="rg">−3.1 to −0.7</span></td><td>−1.15<span class="rg">−3.1 to −0.7</span></td><td><strong>−4.3</strong></td><td>−10.6 to −1.9</td><td>7, 1, 13</td><td>E7, E8, E10–E12</td></tr>
+<tr><th scope=row>Other & not explained</th><td>+0.15</td><td>+0.23</td><td>+0.46</td><td>+0.42</td><td>+0.47</td><td>+0.85</td><td>+1.01</td><td>+0.94</td><td>+0.97</td><td>+0.88</td><td>+0.67</td><td>+0.75</td><td>+0.72</td><td>+0.27</td><td>−0.42</td><td>−1.02</td><td>−1.16</td><td>−1.24</td><td>−1.19</td><td>−0.83</td><td><strong>−0.2</strong></td><td></td><td>—</td><td>E15</td></tr>
+</tbody></table></div>
+
+<h3>The equations behind it</h3>
+<ol class="eqs">
+<li><b>E1</b> Contribution of a cause = model inflation with every input − model inflation with that cause removed (E10–E12 simulated from 2020Q1).</li>
+<li><b>E2</b> Year-over-year value = average of the last four quarterly (annualized) contributions, rescaled so the lines add up to official PCE inflation, 100 × (P<sub>t</sub>/P<sub>t−4</sub> − 1).</li>
+<li><b>E3</b> Relief → GDP: each program's payments (BEA) × CBO's GDP effect per dollar for that kind of program (PPP 0.36, unemployment 0.67, rebate checks 0.60, state &amp; local aid 0.88, other 0.78, tax cuts 0.37), spread over time with weights fitted to CBO's timing (λ = 0.74). Payments before March 2021 count as Trump's, from March 2021 as Biden's.</li>
+<li><b>E4</b> GDP → unemployment (Okun's law): Δu = −0.815 × GDP effect, estimated 1990–2019.</li>
+<li><b>E5</b> Pent-up demand: real consumer spending below its 2015–19 trend in 2020–21 = $786 billion (2017 $), spent evenly 2021Q2–2023Q3, × 0.78, then E4.</li>
+<li><b>E6</b> Fed → unemployment: monthly VAR (1977–2019) identified by Fed announcement surprises; the counterfactual holds the San Francisco Fed's proxy funds rate (which includes bond buying) at its 2019Q4 level, 2.35%.</li>
+<li><b>E7</b> COVID shutdown → unemployment: Δu = 15.25 s<sub>t</sub> − 4.28 s<sub>t−1</sub>, s = Oxford stringency index / 100, 2020–22.</li>
+<li><b>E8</b> Unemployment → job openings per unemployed worker (V/U): log(V/U) = a − 0.290 u, 1990–2019.</li>
+<li><b>E9</b> Worker shortage: the part of V/U that unemployment doesn't explain, relative to 2019Q4.</li>
+<li><b>E10</b> Wage growth (Bernanke–Blanchard): 4 lags each of wage growth, V/U, 1-year expected inflation and catch-up, plus productivity; 1990–2019.</li>
+<li><b>E11</b> Price inflation: 4 lags of inflation, wage growth, energy and food prices relative to wages, supply-chain pressure (NY Fed GSCPI), profit margins, plus productivity.</li>
+<li><b>E12</b> Expected inflation: 10-year and 1-year expectations follow past inflation and their own past values.</li>
+<li><b>E13</b> Greedflation: profit-margin change not explained by supply chains, V/U, energy, food and wages (1990–2024).</li>
+<li><b>E14</b> Pre-existing: model inflation with every input held at its 2019 reference, plus pre-2020 Fed surprises.</li>
+<li><b>E15</b> Other &amp; not explained: actual − model, plus productivity and energy &amp; food shocks after March 2023.</li>
+</ol>
+<p class="note">Every estimated constant, every data series with its download date, and the code: <a href="report.html">technical report</a> and <a href="reproduce.html">full table</a>.</p>
+
+
+<h2>What this can't tell you</h2>
+<ul>
+  <li><strong>It is one model's answer, not a measurement.</strong> The model is Bernanke and Blanchard's wage-price model, re-estimated here on PCE inflation, with each cause fed in through a chain of public data.</li>
+  <li><strong>Single causes are measured loosely; groups of causes much more tightly.</strong> The 90% range for supply chains runs from +0.8 to +8.3 points, and for the COVID drag from −12.5 to −0.3. That width is real, not a coding problem, and more data from this model can't shrink it (see <a href="#how-sure">How sure are these numbers?</a>). Sums of causes are much tighter, because their errors cancel.</li>
+  <li><strong>Demand probably did more than the demand lines show.</strong> In this model, relief, the Fed and pent-up spending push up prices only by tightening the job market. Bernanke and Blanchard note that some of the 2021–22 price spikes in commodities and in particular goods came from strong demand running into limited supply. That part is counted here under supply chains and energy. So read the demand lines as lower bounds and the supply lines as upper bounds. The San Francisco Fed's data put the gap at about 1 point over 2021–24, which would make supply and demand roughly equal (see <a href="#outside">Checking against outside evidence</a>).</li>
+  <li><strong>The relief numbers hinge on one assumption:</strong> how much the economy grew per relief dollar. Using a larger figure that matches CBO's 2020 total doubles both relief lines. That case is inside the ranges shown.</li>
+  <li><strong>The Fed numbers are uncertain.</strong> The Fed's effect is estimated from how markets reacted to surprise Fed announcements (the Bauer–Swanson surprise series). That measure is only borderline strong enough to rely on: its statistical strength (first-stage F) is 9.5, against a usual minimum of 10. The San Francisco Fed calls a second version of the series cleaner, because it strips out the part of each surprise that markets could have predicted. But it is far too weak to rely on (F = 3.6), and it gives implausibly large effects, such as the 2022–23 hikes raising 2024 unemployment by about 4 points, so it isn't used. Other ways of measuring the Fed's effect, all also at or below the strength threshold, put its net effect at +0.9 to +1.7 points instead of this model's +0.4 (<a href="#best">below</a>).</li>
+  <li><strong>Energy and food are split by date, not estimated.</strong> 2020–21 swings are counted under COVID. January 2022 to March 2023 is counted under the war; the October 2022 OPEC+ cut and the late-2022 bird-flu egg spike fall inside that window and can't be separated. After March 2023, energy and food shocks (more OPEC+ cuts, bird flu, drought) go into "other &amp; not explained".</li>
+</ul>
+
+<h2>The short answer</h2>
+<figure class="wide">
+  <img src="totals.png" alt="Horizontal bar chart of each cause's total contribution to 2021–2024 PCE inflation with 90% ranges">
+  <figcaption>Each cause's contribution to inflation over 2021–2024 (the four year-over-year rates added up), with 90% ranges over 1,000 redraws of the model. Blue = demand, amber = supply, gray = other.</figcaption>
+</figure>
+<ul>
+  <li><strong>No single cause did it.</strong> Supply and demand mattered about equally (see <a href="#best">the best estimate</a>). In the model alone, supply looks bigger: COVID supply chains (+4.2 points over 2021–24), the worker shortage (+2.5) and the war in Ukraine (+1.5). Together they beat relief, pent-up demand and the Fed combined in 2 of every 3 redraws of the model, so this leans toward supply but doesn't settle it, and the San Francisco Fed's category data make it about even (<a href="#outside">below</a>). At the 2022 peak, supply shocks made up 4.7 of the 6.9 points.</li>
+  <li><strong>Relief spending under both presidents added to inflation, and probably neither was the largest single cause.</strong> Each raised inflation in every redraw, so "relief had no effect" is wrong too. Relief paid under Biden: +2.1 points (range 1.0 to 5.6). Relief paid under Trump: +1.7 (0.7 to 5.1). Much of it offset the damage COVID itself did.</li>
+  <li><strong>Pent-up demand added about 1.2 points</strong> (0.5 to 2.1).</li>
+  <li><strong>The Fed's net effect was small in this model:</strong> +0.8 from the 2020–21 cuts and bond buying, −0.4 from the 2022–23 hikes so far, net +0.4.</li>
+  <li><strong>The infrastructure law and the Inflation Reduction Act added almost nothing.</strong> Even counting only their spending and pretending all ten years of it arrived the day each was signed, together they add under 1¼ points over 2021–24 (<a href="#laws">below</a>).</li>
+  <li><strong>Greedflation comes out at about zero</strong>, although profit margins did rise in 2021.</li>
+  <li><strong>The Fed's own model, FRB/US, agrees on direction and on supply, but gives relief and pent-up demand much less</strong>, and it can't explain most of the surge itself (<a href="#frbus">below</a>).</li>
+  <li><strong>Studies that count demand's push on goods prices give demand a bigger role.</strong> A Mercatus Center paper (not peer reviewed) puts all demand, fiscal and monetary together, at 4.4 points of 2022 inflation (measured by the GDP price index). A San Francisco Fed measure finds supply somewhat larger than demand in mid-2022 (2.8 against 2.2 points of the rise since 2019).</li>
+</ul>
+
+<h2 id="how-sure">How sure are these numbers?</h2>
+<p>For single causes, less sure than anyone would like. For groups of causes, and for which cause was bigger than which, a good deal more sure. Here is where the uncertainty comes from and what the data do settle.</p>
+
+<h3>Why two of the ranges are so wide</h3>
+<ul>
+  <li><strong>Supply chains, +0.8 to +8.3.</strong> The model learns how much supply-chain snarls raise prices from history. But the NY Fed's supply-chain index barely moved before 2021, so there is essentially one episode to learn from. The estimated push on prices is 0.135 per index point, give or take 0.069. The effect is clearly positive (in 98% of redraws), but its size is known only to within a factor of several.</li>
+  <li><strong>COVID drag, −12.5 to −0.3.</strong> Two reasons. First, the model says the 2020 job-market collapse should have slowed wage growth sharply, judging by 1990–2019 (when job openings per unemployed worker fell even lower, in 2009, but never so fast). Wages didn't slow: the model predicted 1.4% wage growth by late 2020; actual was 2.8%. Second, the COVID line is estimated from the unemployment that relief doesn't explain. If relief did more, COVID must have done more damage, so the two move together (correlation −0.92 across redraws).</li>
+</ul>
+
+<h3>What the data do pin down</h3>
+<p>Totals for 2021–24. The likely range covers 68% of redraws; the wide range covers 90%. Each row is a sum of causes listed elsewhere on this page, not an extra cause, and the rows overlap, so they don't add up to anything.</p>
+<div class="tw"><table>
+<thead><tr><th>Group</th><th>Estimate</th><th>Likely range</th><th>Wide range</th></tr></thead>
+<tbody>
+<tr><td>All labor-market causes: relief, pent-up demand, the Fed, the COVID drag, worker shortage</td><td>+3.5</td><td>+2.9 to +5.3</td><td>+2.2 to +6.3</td></tr>
+<tr><td>Supply shocks: supply chains + war</td><td>+5.7</td><td>+3.9 to +7.8</td><td>+2.7 to +9.3</td></tr>
+<tr><td>The pandemic and the response to it: relief + pent-up demand + COVID drag</td><td>+0.6</td><td>−0.4 to +2.3</td><td>−1.5 to +3.0</td></tr>
+<tr><td><em>Compare: supply chains alone</em></td><td>+4.2</td><td>+2.3 to +6.6</td><td>+0.8 to +8.3</td></tr>
+<tr><td><em>Compare: COVID drag alone</em></td><td>−4.3</td><td>−9.2 to −2.1</td><td>−12.5 to −0.3</td></tr>
+</tbody></table></div>
+<p>The pandemic-and-response line is the clearest example. Separately, relief and the COVID drag each have ranges about 9 points wide. Together, they and pent-up demand net out to between −1.5 and +3.0 points: the relief laws, in the main, offset the damage the shutdown did.</p>
+
+<h3>Which cause was bigger: share of redraws</h3>
+<div class="tw"><table>
+<thead><tr><th>Claim</th><th>True in</th></tr></thead>
+<tbody>
+<tr><td>Supply chains added more than relief paid under Biden</td><td>72%</td></tr>
+<tr><td>Supply chains added more than relief paid under Trump</td><td>76%</td></tr>
+<tr><td>Relief paid under Biden added more than relief paid under Trump</td><td>76%</td></tr>
+<tr><td>Supply chains added more than Biden's and Trump's relief combined</td><td>41%</td></tr>
+<tr><td>Supply chains + war + worker shortage added more than relief + pent-up demand + the Fed</td><td>67%</td></tr>
+<tr><td>Supply chains + war added more than relief + pent-up demand + the Fed</td><td>39%</td></tr>
+</tbody></table></div>
+<p>So the model is confident about direction: supply chains, the war, relief under both presidents, pent-up demand and the worker shortage each raised inflation, and the shutdown lowered it. It is not confident about the supply-versus-demand balance. And since the demand lines are lower bounds, the true balance leans further toward demand than these shares show.</p>
+
+<h3>What I tried, and what would help</h3>
+<p>I tried three ways to narrow the single-cause ranges, and none worked well enough to adopt.</p>
+<ul>
+  <li><strong>Keep only redraws that match the actual 2020–24 wage data,</strong> which the wage equation never saw. The COVID range narrowed a little; the supply-chain range didn't narrow at all.</li>
+  <li><strong>Re-estimate the wage equations on data through 2024 instead of 2019.</strong> The ranges barely changed.</li>
+  <li><strong>Let the unemployment data choose the relief multiplier.</strong> Earlier versions of this page said the data couldn't choose. That was my error: I compared fit statistics that weren't comparable. Compared properly, the fit keeps improving as relief shrinks, even to a quarter of its size, because the lockdown index soaks up whatever relief doesn't explain. That conflicts with the cross-country evidence, so it isn't used.</li>
+</ul>
+<p>Narrowing them needs a different kind of evidence: price and quantity data for each spending category, or comparisons across countries that spent different amounts on relief. I tried both, below.</p>
+
+<h2 id="outside">Checking against outside evidence</h2>
+
+<h3>Other countries: how much did relief raise inflation?</h3>
+<p>Countries spent very different amounts on pandemic relief: the US 25.5% of GDP, Germany 15%, France 10%, Denmark 3% (IMF). If relief drove inflation, countries that spent more should have seen inflation rise more. Comparing 18 advanced economies:</p>
+<ul>
+  <li><strong>Over 2021–22, when relief's effect peaked,</strong> the comparison puts US relief at about +2.5 points of core inflation, give or take 1.5. The model, measured the same way, says +2.0. <strong>They agree.</strong> Published cross-country studies come out close too: about 2.6 points (Federal Reserve economists) and about 3 (San Francisco Fed).</li>
+  <li><strong>Over 2021–24, the comparison tells you almost nothing.</strong> Europe's 2022–23 energy shock swamps the differences between countries.</li>
+  <li><strong>Combining the two narrows the relief range only a little:</strong> Biden's and Trump's relief combined, 1.8–10.8 becomes 1.9–8.9 points; the COVID drag, −12.5 to −0.3 becomes −10.6 to −0.4. With 18 countries and many other differences between them, the cross-country evidence is weak. It rules out the largest relief effects, not much else.</li>
+</ul>
+
+<h3>The San Francisco Fed's supply and demand labels</h3>
+<p>The San Francisco Fed labels each kind of spending's price change month by month: supply-driven if price and quantity move in opposite directions, demand-driven if they move together, and ambiguous otherwise. That catches what this model can't: demand pushing on goods that were in short supply. Above the 2019 pace, the labels split 2021–24 inflation into 5.0 points supply-driven, 4.7 demand-driven and 1.8 ambiguous.</p>
+<p>Lining that up with the model needs two assumptions the data can't settle (how to share out the ambiguous part, and the model lines that have no label). With neutral assumptions, about <strong>1 point</strong> of what the model calls supply looks like demand. Moving it makes supply chains + war + worker shortage about 7.0 points and relief + pent-up demand + the Fed about 7.6: <strong>roughly equal</strong>. Under extreme assumptions the gap runs from −2 to +5 points.</p>
+<p><strong>Bottom line:</strong> outside evidence backs the model's relief estimate, trims its largest relief and COVID-drag cases, and moves the supply-versus-demand verdict from "probably supply" to "about even". It doesn't narrow the supply-chain range. That would need evidence that measures supply chains directly, such as models of factory capacity limits (Comin, Johnson &amp; Jones estimate that binding capacity explains about half of the 2021–22 rise).</p>
+
+<h2 id="frbus">Checking against the Fed's own model</h2>
+<p>The Federal Reserve Board publishes the model its staff use for forecasts and policy analysis, FRB/US. I made it reproduce 2020–2024 exactly, then removed each cause by changing the same input as in my model: the same relief payments, the same Fed rate path, the same energy and food window, the same direct supply-chain shock, the same pent-up spending. FRB/US then works out what follows, with its own equations.</p>
+<p><strong>What this test can't show.</strong> FRB/US gives one answer with no ranges. It has no place for business aid such as the Paycheck Protection Program (shown below with and without it), it treats bond buying as an equivalent rate cut, and it has nothing matching the worker-shortage, COVID-drag or greedflation lines. Its built-in tool for forcing a variable onto a set path didn't converge, so I set those paths by adjusting each equation's error term directly. An economist who sets the model up differently could get larger relief effects, so treat its relief numbers as a low end, not the Fed's answer.</p>
+<div class="tw"><table>
+<thead><tr><th>2021–24 total, points of inflation</th><th>FRB/US</th><th>My model</th><th>At the 2022 peak: FRB/US vs mine</th></tr></thead>
+<tbody>
+<tr><td>Supply chains (same direct shock)</td><td>+1.9</td><td>+4.2</td><td>1.8 vs 1.9</td></tr>
+<tr><td>War in Ukraine</td><td>0.0</td><td>+1.5</td><td>0.9 vs 1.1</td></tr>
+<tr><td>Relief paid under Trump</td><td>+0.6 (+0.3 without business aid)</td><td>+1.7</td><td>0.1 vs 0.5</td></tr>
+<tr><td>Relief paid under Biden</td><td>+0.4 (+0.3 without business aid)</td><td>+2.1</td><td>0.1 vs 0.8</td></tr>
+<tr><td>Pent-up demand</td><td>+0.3</td><td>+1.2</td><td>0.1 vs 0.4</td></tr>
+<tr><td>Fed 2020–21 cuts + bond buying</td><td>+0.5</td><td>+0.8</td><td>0.1 vs 0.1</td></tr>
+<tr><td>Fed 2022–23 hikes</td><td>−0.3</td><td>−0.4</td><td>0.0 vs 0.0</td></tr>
+<tr><td><em>Not explained by FRB/US's price and wage equations</em></td><td><em>+8.3</em></td><td></td><td><em>2.9</em></td></tr>
+</tbody></table></div>
+<ul>
+  <li><strong>Where the models agree:</strong> every cause pushes the same direction, supply chains are the largest single cause, and at the 2022 peak the supply shocks are nearly the same size (supply chains 1.8 vs 1.9 points, the war 0.9 vs 1.1). In FRB/US those effects fade once energy prices and supply-chain pressure fall back; in my model part of the spike keeps feeding through wages and expectations. That is why FRB/US's war total nets to about zero.</li>
+  <li><strong>Where they disagree: demand.</strong> FRB/US gives relief a sixth to a third of my model's effect. In FRB/US relief lowers unemployment less (at most 0.8 points for Biden-era relief against my 2.1), and FRB/US reads the job market through the unemployment rate, which has only a weak pull on inflation in its equations. My model, following Bernanke and Blanchard, uses job openings per unemployed worker.</li>
+  <li><strong>Neither fit settles it.</strong> FRB/US leaves about 8 of the 17 points unexplained. My model misses by at most 1 point, but its wage and price equations were estimated on data running to 2025Q1, which includes the years being explained. A good fit to data a model was fitted on is partly built in, so the closer fit is not proof my model is right.</li>
+</ul>
+<p><strong>Bottom line:</strong> the answer on demand comes down to one question economists still argue about: is the job market's tightness better measured by unemployment or by job openings? If unemployment, relief and pent-up demand mattered much less than this page says, and supply clearly dominated. If job openings, the page's answer stands. Code and full results: <code>src/frbus/frbus_decomp.py</code>, <code>output/frbus/FRBUS_NOTES.md</code>.</p>
+
+<h2 id="best">More checks, and the best estimate</h2>
+<p>I then tested the model against more kinds of evidence: price data for about 90 spending categories, all 50 states, card-spending data, other countries, market inflation expectations, industry profit accounts, and a forecasting test. The details, code and data are in the <a href="report.html">technical report</a> (Sections 7 and 8). Combining the model with the three pieces of evidence it never used (actual wage growth, the category data, and other countries' relief) gives the best estimate:</p>
+<div class="tw"><table>
+<thead><tr><th>2021–24 total</th><th>Model alone</th><th>With all the evidence</th></tr></thead>
+<tbody>
+<tr><td>Supply chains</td><td>+4.1 (1.1 to 8.0)</td><td><strong>+5.4 (2.5 to 9.2)</strong></td></tr>
+<tr><td>War in Ukraine</td><td>+1.5 (0.5 to 2.5)</td><td><strong>+1.2 (0.2 to 2.2)</strong></td></tr>
+<tr><td>Worker shortage</td><td>+2.4 (0.8 to 4.3)</td><td><strong>+2.5 (1.3 to 3.8)</strong></td></tr>
+<tr><td>Relief paid under Biden</td><td>+2.5 (0.9 to 5.7)</td><td><strong>+2.4 (1.2 to 4.6)</strong></td></tr>
+<tr><td>Relief paid under Trump</td><td>+2.3 (0.6 to 5.2)</td><td><strong>+2.3 (1.1 to 4.5)</strong></td></tr>
+<tr><td>Pent-up demand</td><td>+1.2 (0.5 to 2.1)</td><td><strong>+1.2 (0.6 to 1.9)</strong></td></tr>
+<tr><td>The Fed (cuts and bond buying, minus hikes)</td><td>+0.5 (−0.1 to 1.6)</td><td><strong>+0.5 (0.0 to 1.5)</strong></td></tr>
+<tr><td>COVID shutdown drag</td><td>−5.3 (−12.4 to +0.2)</td><td><strong>−5.6 (−10.7 to −1.8)</strong></td></tr>
+<tr><th colspan="3" style="text-align:left">Totals: sums of the rows above, not extra causes</th></tr>
+<tr><td>Supply total = supply chains + war</td><td>+5.6 (2.9 to 9.4)</td><td><strong>+6.7 (4.1 to 10.4)</strong></td></tr>
+<tr><td>Demand total = Biden relief + Trump relief + pent-up demand + the Fed</td><td>+6.7 (2.3 to 13.3)</td><td><strong>+6.6 (3.5 to 11.2)</strong></td></tr>
+</tbody></table></div>
+<p class="note">Middle value of 1,000 redraws, with the range that covers 90% of them. A total's middle value isn't the sum of its rows' middle values, because each is the middle of its own redraws. The middle values differ a little from the headline chart's, which shows the model's single best-fit run.</p>
+<ul>
+  <li><strong>Supply and demand were about equal.</strong> The supply total beat the demand total in half the redraws. That matches the San Francisco Fed's category data.</li>
+  <li><strong>Relief paid under each president: about +2.4 points each, between roughly 1 and 4.6.</strong> Narrower than before, and both clearly above zero.</li>
+  <li><strong>Supply chains were clearly a major cause.</strong> Category price data show supply-chain pressure raised goods prices relative to services even before the pandemic. But the size is still uncertain by a factor of about three: the forecasting test suggests the model's knock-on effects are too persistent.</li>
+  <li><strong>The COVID drag is probably overstated.</strong> The model expected wage growth to fall to 1.4% by late 2020; it actually held at 2.8%.</li>
+  <li><strong>The Fed:</strong> every alternative way of measuring its effect gives the Fed a bigger role than the model's +0.4. Cuts and bond buying added +0.8 to +1.5 points over 2021–24, though each of these measures is statistically weak. Market expectations of long-run inflation drifted up after the 2020 framework change, to the top of their pre-COVID range, but didn't break out.</li>
+  <li><strong>Greedflation:</strong> profit margins rose most in shipping, mining, farming and chemicals, industries where supply was tight. That looks like scarcity profits, not across-the-board price gouging.</li>
+</ul>
+
+<h2 id="laws">What about the infrastructure law and the Inflation Reduction Act?</h2>
+<p>Politicians have blamed both laws, which Biden also signed, for the inflation. Neither is in the relief lines above, so I tested them separately in three ways.</p>
+<p><strong>What this test can't show.</strong></p>
+<ul>
+  <li>It uses CBO's year-by-year estimates made when each law passed, not the spending as it actually happened.</li>
+  <li>The market test below can't separate the laws from other news on the same days.</li>
+  <li>It measures consumer prices only. Road-building and factory costs aren't counted except through their knock-on effects.</li>
+</ul>
+
+<h3>1. Run them through the same model as the relief laws</h3>
+<p>CBO scored the infrastructure law as adding $256 billion to deficits over ten years. It scored the Inflation Reduction Act as <em>reducing</em> them by $58 billion, because its new taxes and drug-price savings outweigh its spending. CBO also expected little of either to be spent soon: $14 billion of new infrastructure spending in the year to September 2022, and no net spending from the Inflation Reduction Act in that year.</p>
+<p>To give the claim every benefit of the doubt, the second row drops all the taxes and savings and counts only the spending, at $1 of GDP per $1 spent. The third row tests the idea that <strong>promises of future money raise prices today</strong>, in its strongest form: it pretends every dollar of ten years of spending reached the economy in the quarter the law was signed.</p>
+<div class="tw"><table>
+<thead><tr><th>Added to inflation, 2021–24 total (90% range)</th><th>Infrastructure law</th><th>Inflation Reduction Act</th><th>Both</th></tr></thead>
+<tbody>
+<tr><td>As CBO scored them</td><td>+0.01</td><td>0.00</td><td>+0.01 (0.01 to 0.03)</td></tr>
+<tr><td>Spending only, no taxes or savings</td><td>+0.24</td><td>+0.07</td><td>+0.31 (0.14 to 0.50)</td></tr>
+<tr><td>All ten years of spending paid the day it was signed</td><td>+0.59</td><td>+0.18</td><td><strong>+0.76 (0.37 to 1.24)</strong></td></tr>
+<tr><td><em>For comparison: each relief law, same units</em></td><td colspan="3"><em>Relief paid under Biden: +2.1. Relief paid under Trump: +1.7.</em></td></tr>
+</tbody></table></div>
+<p>Even pretending all ten years of money arrived at once, the two laws together add less than either president's COVID relief.</p>
+
+<h3>2. Timing</h3>
+<p>PCE inflation was already 5.7% in late 2021, when the infrastructure law was signed (November 15, 2021). The Inflation Reduction Act was signed on August 16, 2022, after inflation's peak in the second quarter of 2022. At the time, CBO estimated the Inflation Reduction Act would have "a negligible effect on inflation" in 2022, and in 2023 an effect "between 0.1 percentage point lower and 0.1 percentage point higher".</p>
+
+<h3>3. Did promises move expected inflation?</h3>
+<p>If promised money raised prices ahead of time, traders' bets on future inflation (Treasury breakeven rates) should have jumped when each law's chances rose and fallen when they died. The table shows the change in 5-year expected inflation over the news.</p>
+<div class="tw"><table>
+<thead><tr><th>News</th><th>Change in 5-year expected inflation</th><th>Unusual?</th></tr></thead>
+<tbody>
+<tr><td>Infrastructure law passes Senate (Aug 10, 2021)</td><td>+0.05</td><td>No</td></tr>
+<tr><td>Infrastructure law passes House (Nov 5, 2021)</td><td>+0.06</td><td>No</td></tr>
+<tr><td>Build Back Better passes House (Nov 19, 2021)</td><td>−0.13</td><td>Yes: it <em>fell</em></td></tr>
+<tr><td>Manchin kills Build Back Better (Dec 19, 2021)</td><td>0.00</td><td>No: it didn't fall</td></tr>
+<tr><td>Manchin–Schumer deal that became the Inflation Reduction Act (Jul 27, 2022)</td><td>+0.11</td><td>Yes, but the Fed raised rates ¾ point the same afternoon</td></tr>
+<tr><td>Inflation Reduction Act passes Senate (Aug 7, 2022)</td><td>+0.01</td><td>No</td></tr>
+<tr><td>Inflation Reduction Act signed (Aug 16, 2022)</td><td>+0.03</td><td>No</td></tr>
+</tbody></table></div>
+<p class="note">"Unusual" means outside the middle 90% of moves over the same number of trading days in 2015–2019. Changes run from the last close before the news to the first close after it. Long-run (5-to-10-year) expectations show the same pattern.</p>
+<p>There's no consistent pattern. The one rise came on a day of other big news, and expected inflation kept climbing by similar amounts on the two following days, when there was no news about the law.</p>
+<p><strong>Bottom line:</strong> the most generous reading puts the two laws together at under 1¼ points of inflation over four years. CBO's own scoring puts them at about zero. The relief laws signed by both presidents mattered much more.</p>
+
+<h2 id="wages-ui">Were wages catching up? What about unemployment checks?</h2>
+<p><strong>What this can't show:</strong> the wage figures cover nonfarm businesses and a survey of workers, not everyone. The unemployment-check test covers one summer (2021) and can't rule out a small effect.</p>
+<h3>Wages were held down before COVID, but 2021–24 didn't make up for it</h3>
+<p>Workers' share of business income fell from about 109 (index, 2017 = 100) in the 1990s to 99.5 in the 2010s. So pay did fall behind productivity. But the pandemic years didn't reverse that:</p>
+<div class="tw"><table>
+<thead><tr><th>2019Q4 to 2024Q4</th><th>Change</th></tr></thead>
+<tbody>
+<tr><td>Pay per hour, after inflation</td><td>+5.1%</td></tr>
+<tr><td>Output per hour (productivity)</td><td>+10.2%</td></tr>
+<tr><td>Workers' share of business income</td><td>−2.7%</td></tr>
+</tbody></table></div>
+<p>Pay after inflation rose about half as fast as productivity, so workers' share fell further. If wages had been catching up, it would have risen. I also added a catch-up term to the model's wage equation, letting wages grow faster when workers' share is low. It is small, isn't statistically significant, and adds at most 0.4 points to wage growth in any quarter.</p>
+<p>Where catch-up did happen is at the bottom. Following the same workers a year apart (Atlanta Fed), the lowest-paid quarter of workers gained about 9% after inflation from December 2019 to December 2024. The top-paid quarter gained about 3% (approximate). COVID gave low-wage workers leverage, but across all workers prices outran pay, not the other way round. That's why wage catch-up isn't a separate line: the low-wage gains are part of the worker-shortage and job-market lines.</p>
+<h3>Unemployment checks are in the relief lines</h3>
+<p>The extra $600 and $300 a week, benefits for gig workers, and extra weeks of benefits are counted with the other relief payments. They use the same data (BEA) and CBO's spending multiplier for unemployment benefits (0.67), and they fall under Trump or Biden by payment date (before March 2021 under Trump, from March 2021 under Biden).</p>
+<p>Could the checks also have kept people from taking jobs, making the worker shortage worse? 25 states ended the extra $300 early, in June and July 2021; the rest ended it in September. That gives a test:</p>
+<ul>
+  <li><strong>Employment</strong> in the early-ending states did not rise compared with the others (−0.5%, give or take 0.3).</li>
+  <li><strong>Unemployment</strong> did not fall (+0.1 points, give or take 0.1).</li>
+  <li><strong>Wages</strong> did not fall (+0.7%, give or take 0.3).</li>
+</ul>
+<p>So the data don't support "the checks kept people home" at a size that would matter for inflation.</p>
+<h3>Anything else?</h3>
+<p>Some things people name are already in the lines:</p>
+<ul>
+  <li><strong>Relief lines:</strong> the student-loan payment pause and rental assistance.</li>
+  <li><strong>Worker-shortage line:</strong> fewer immigrants and early retirements would show up here, though the model can't split them out.</li>
+  <li><strong>Greedflation line:</strong> profit margins.</li>
+</ul>
+<p>Not tested separately: housing rents. In this model they fall under the job-market, expectations and "not explained" lines.</p>
+<h3>Why the ranges are wide, and new data I tried</h3>
+<ul>
+  <li><strong>Supply chains and the war:</strong> almost all the uncertainty comes from one estimate, how strongly supply-chain snarls raise prices. There is basically one episode to learn from.</li>
+  <li><strong>Relief, COVID, pent-up demand and the worker shortage:</strong> almost all of it comes from how strongly a tight job market raises wages.</li>
+</ul>
+<p>New data I tried this round:</p>
+<ul>
+  <li><strong>Job openings and wages by state:</strong> 51 states, 2009–2024. They would narrow the relief ranges by about a tenth and lower them by about 0.4 points. But the state estimate is imprecise and depends on how state results translate to the nation, so it isn't used.</li>
+  <li><strong>Actual 2020–24 inflation:</strong> added nothing beyond the wage data.</li>
+  <li><strong>25 European countries</strong> (Eurostat wages, job vacancies, unemployment and prices, 2010–2024), running the same wage and price equations as the US model:
+    <ul>
+      <li><strong>Wages:</strong> how strongly a tight job market raised wages depended on how I set up the equation, ranging from a third of the US estimate to almost three times it.</li>
+      <li><strong>Supply chains:</strong> all 25 countries together matched the US exactly (0.49 vs 0.49). But western Europe alone gave less than half that, and central and eastern Europe twice it.</li>
+    </ul>
+    The supply-chain index is one global series, so every country lived through the same single episode: more countries don't add more episodes. Neither result is used.</li>
+  <li><strong>Sharper data on supply-chain prices</strong> (by industry or spending category) can't narrow the supply-chain range much. Even if the direct effect of supply-chain snarls on prices were known exactly, the range would only shrink from about 2.5–9.4 to 5.1–10.9 points. Most of the width comes from how long inflation keeps feeding on itself once prices jump, and that can't be measured from supply-chain price data.</li>
+</ul>
+<p><strong>Bottom line on the error bars:</strong> the remaining width is real. The two numbers that set it, how strongly a tight job market raises wages and how long inflation feeds on itself, were each tested in one big episode, and no other data I could find settles them. The ranges on the chart are the honest ones.</p>
+<p><a href="#chart">The chart at the top</a> uses the best estimate's ranges quarter by quarter.</p>
+
+<h2>Cause by cause</h2>
+
+<h3>Relief paid under Trump and under Biden</h3>
+<p>Every relief payment the Bureau of Economic Analysis recorded, by program, is multiplied by the Congressional Budget Office's estimate of how much each dollar of that kind of program raised GDP. Payments made before March 2021 count as Trump's; from March 2021 on, Biden's, even when a Trump-signed law paid for them. That puts more on Biden's line than a split by which president signed each law would. Over 2021–24, Biden-signed relief added 2.1 points and Trump-signed relief 1.7. In 2021, Trump-signed relief was the larger of the two.</p>
+
+<h3>Pent-up demand</h3>
+<p>During the lockdowns people couldn't spend: real consumer spending fell below its 2015–2019 trend. That gap adds up to $786 billion (in 2017 dollars) of forced saving. Here it is spent evenly from spring 2021, when spending returned to trend, until mid-2023, when the San Francisco Fed estimated pandemic excess savings were about used up. Relief money that people saved is not counted again here; the relief lines already include it. A Federal Reserve note found relief payments, not reduced spending, were the main source of excess savings.</p>
+
+<h3>The Fed</h3>
+<p>The Fed's 2020–21 rate cuts and bond buying added about 0.8 points over 2021–24 (range −0.2 to 3.2). The 2022–23 hikes subtracted about 0.4 by the end of 2024 and were still working their way through. See the next section for whether the Fed moved too late.</p>
+
+<h3>War in Ukraine</h3>
+<p>The spike in energy and food prices from January 2022 and their fall-back through March 2023, plus the lingering effect through wages and expectations: +1.5 points over 2021–24.</p>
+
+<h3>COVID supply chains</h3>
+<p>Measured by the New York Fed's Global Supply Chain Pressure Index: +4.2 points, the largest single cause, with a wide range (0.8 to 8.3).</p>
+
+<h3>Worker shortage</h3>
+<p>Job openings far beyond what the unemployment rate would normally imply: +2.5 points. This is where effects such as early retirements and lower immigration show up.</p>
+
+<h3>Greedflation</h3>
+<p>Corporate profit margins rose in 2021, and on their own that raised corporate prices about 3% in the year to late 2021. But margin moves beyond what costs, shortages and demand explain haven't predicted consumer inflation since 1990, so the model puts greedflation at about zero (−0.2 to +0.1). The data can't separate "firms raised prices because they could" from "shortages and demand let them".</p>
+
+<h3>COVID shutdown drag</h3>
+<p>This line is now estimated, not a leftover. The Oxford lockdown-stringency index explains 80% of the swings in the unemployment that relief, the Fed and pent-up demand don't account for in 2020–22; the rest is left as error. Lockdowns pushed unemployment up and inflation down: −4.3 points over 2021–24, with a very wide range (−12.5 to −0.3), partly offset by the 2021 oil and food rebound counted here. Relief pushed the other way.</p>
+
+<h3 id="pre-existing">Pre-existing inflation, and other &amp; not explained</h3>
+<p>Pre-existing is not an assumed 2%. It is what the model's own equations predict if nothing new had happened after 2019: the job market stays as tight as it was at the end of 2019 (1.19 job openings per unemployed worker), there is no relief, no Fed move, no lockdown, energy and food prices move in step with wages, and supply-chain pressure and productivity growth sit at their pre-2020 averages. Starting from where inflation and expected inflation actually stood at the end of 2019, that path runs from 1.6% in early 2020 to 1.8% in 2021, 2.0% in 2022, and 2.2% in 2023 and 2024: 8.2 points over 2021–24. Inflation was 1.5% at the start of 2020, so if you think the right starting point is to hold it at 1.5% a year (6.0 points), about 2 more points would move into “other &amp; not explained”. No cause's line would change.</p>
+<p>“Other &amp; not explained” is the gap between the model and actual inflation (largest: 1.0 point in a quarter), plus the energy and food shocks after March 2023 and productivity swings.</p>
+
+<h2>Did the Fed act too late?</h2>
+<figure class="wide">
+  <img src="fed_late.png" alt="Two panels: change in inflation and in unemployment if the Fed had raised rates earlier, with the San Francisco Fed's published estimate">
+  <figcaption>What earlier rate hikes would have done to inflation (left) and unemployment (right). Lines: this model, with 90% ranges. Diamond: the San Francisco Fed's published estimate for the blue path.</figcaption>
+</figure>
+<p>The Fed didn't start raising rates until March 2022. I tested two earlier paths:</p>
+<ul>
+  <li><strong>Moderate hikes from March 2021,</strong> reaching about 2% by early 2022. This is the path a San Francisco Fed economist studied. This model says inflation would have been about 0.2 points lower by 2024 and unemployment 0.4 points higher. The published estimate: "inflation would have been about 1 percentage point lower as of June 2022, while unemployment would be about 2 percentage points higher."</li>
+  <li><strong>The actual 2022–23 hikes, a year earlier.</strong> Inflation about 0.4 points lower by late 2024, unemployment 1.3 points higher.</li>
+</ul>
+<p><strong>Supported:</strong> moving earlier would have lowered inflation somewhat, by about 0.2 to 1 point depending on the model, at a cost of roughly 2 to 3.5 points of unemployment for each point of inflation removed. It would not have prevented most of the surge. <strong>Not settled:</strong> whether the Fed's framework at the time, and its guidance that rates would stay low, raised inflation expectations in ways this kind of model doesn't capture.</p>
+
+<h2 id="every-quarter">Every quarter</h2>
+<figure class="wide">
+  <img src="stacked.png" alt="Stacked bar chart of the contribution of each group of causes to PCE inflation every quarter from 2020 to 2024, with actual inflation as a line">
+  <figcaption>What made up inflation each quarter. Bars above zero pushed inflation up, below zero pushed it down; with "other &amp; not explained" they add up to actual inflation (black line).</figcaption>
+</figure>
+<p class="note">The same causes as separate lines, with the best estimate's ranges, are in <a href="#chart">the chart at the top</a>. <a href="causes_chart.png">The same chart with the model's own, wider ranges.</a></p>
+<p class="note"><strong>Every number, every quarter:</strong> <a href="reproduce.html">the full table</a> lists each cause by quarter, with the data series and numbered equations behind it, and 68% and 90% ranges. The same numbers as one row per cause and quarter, with a range for every quarter: <a href="reproduce_long.csv">reproduce_long.csv</a>.</p>
+
+<h2>How the model works</h2>
+<p>Relief payments and pent-up spending raise GDP, using CBO's multipliers. Higher GDP lowers unemployment, through Okun's law estimated on 1990–2019 data. Fed policy moves unemployment, through a statistical model of the Fed's surprise moves. Lockdowns raise unemployment, estimated from the Oxford index. Lower unemployment means more job openings per unemployed worker, which raises wages and then prices, in the Bernanke–Blanchard model. Supply chains, energy, food and profit margins push on prices directly. Each cause's line is inflation with every cause minus inflation without that one. The full equations, every quarter's numbers, robustness checks and a comparison with seven published studies are in the <a href="report.html">technical report</a>.</p>
+
+<h2 id="sources">Sources</h2>
+<ol class="sources">
+  <li>Bureau of Economic Analysis, <a href="https://apps.bea.gov/national/Release/TXT/NipaDataQ.txt">National Income and Product Accounts, quarterly data</a>: PCE price indexes, real consumer spending, and nonfinancial corporate unit profits and prices.</li>
+  <li>Bureau of Economic Analysis, <a href="https://www.bea.gov/federal-recovery-programs-and-bea-statistics/covid-19-recovery">COVID-19 and Recovery archive</a>: Effects of Selected Federal Pandemic Response Programs (relief payments by program).</li>
+  <li>Congressional Budget Office, <a href="https://www.cbo.gov/publication/56537">The Effects of Pandemic-Related Legislation on Output</a> (September 2020), Tables 2 and 3.</li>
+  <li>Brookings Hutchins Center, <a href="https://github.com/Hutchins-Center/Fiscal-Impact-Measure">Fiscal Impact Measure code</a> (alternative spending-timing weights).</li>
+  <li>Aladangady, Cho, Feiveson and Pinto, <a href="https://www.federalreserve.gov/econres/notes/feds-notes/excess-savings-during-the-covid-19-pandemic-20221021.html">Excess Savings during the COVID-19 Pandemic</a>, Federal Reserve FEDS Notes, October 2022.</li>
+  <li>Abdelrahman and Oliveira, <a href="https://www.frbsf.org/research-and-insights/blog/sf-fed-blog/2023/08/16/excess-no-more-dwindling-pandemic-savings/">Excess No More? Dwindling Pandemic Savings</a>, San Francisco Fed, August 2023.</li>
+  <li>Oxford COVID-19 Government Response Tracker, <a href="https://github.com/OxCGRT/covid-policy-dataset">stringency index data</a>; end of the federal Public Health Emergency: <a href="https://www.hhs.gov/coronavirus/covid-19-public-health-emergency/index.html">HHS</a>.</li>
+  <li>Federal Reserve Bank of San Francisco, <a href="https://www.frbsf.org/research-and-insights/data-and-indicators/proxy-funds-rate/">Proxy Funds Rate</a> and <a href="https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/">Monetary Policy Surprises</a> (Bauer and Swanson).</li>
+  <li>Barnichon, <a href="https://www.frbsf.org/research-and-insights/publications/economic-letter/2022/10/what-if-monetary-policy-in-hindsight/">What If? Monetary Policy in Hindsight</a>, San Francisco Fed Economic Letter 2022-28.</li>
+  <li>Federal Reserve Bank of New York, <a href="https://www.newyorkfed.org/research/policy/gscpi">Global Supply Chain Pressure Index</a>.</li>
+  <li>Blanchard and Bernanke, <a href="https://www.nber.org/papers/w31417">What Caused the US Pandemic-Era Inflation?</a> (NBER Working Paper 31417); replication code and data updated by Lorenzoni, <a href="https://github.com/luigilor/bernanke-blanchard23">github.com/luigilor/bernanke-blanchard23</a>.</li>
+  <li>Shapiro, <a href="https://www.frbsf.org/research-and-insights/data-and-indicators/supply-and-demand-driven-pce-inflation/">Supply- and Demand-Driven PCE Inflation</a>, San Francisco Fed.</li>
+  <li>FRED, Federal Reserve Bank of St. Louis: <a href="https://fred.stlouisfed.org/series/UNRATE">unemployment rate</a>, <a href="https://fred.stlouisfed.org/series/NROU">natural rate of unemployment</a>, <a href="https://fred.stlouisfed.org/series/GDPC1">real GDP</a>, <a href="https://fred.stlouisfed.org/series/GDPPOT">potential GDP</a>, <a href="https://fred.stlouisfed.org/series/GDPDEF">GDP price index</a>, <a href="https://fred.stlouisfed.org/series/PCEPI">PCE price index</a>.</li>
+  <li>WJLA, <a href="https://wjla.com/news/nation-world/student-loan-payments-set-to-resume-in-october-after-three-year-pause-department-of-education-student-aid-due-date-interest-accrual-loan-forgiveness">Student loan payments set to resume in October after three-year pause</a> (end date of the loan pause).</li>
+  <li>Congressional Budget Office, <a href="https://www.cbo.gov/publication/57406">cost estimate for Senate Amendment 2137 to H.R. 3684, the Infrastructure Investment and Jobs Act</a> (Aug 2021), Table 1.</li>
+  <li>Congressional Budget Office, <a href="https://www.cbo.gov/publication/58455">Estimated Budgetary Effects of Public Law 117-169</a> (the Inflation Reduction Act, Sept 2022).</li>
+  <li>Congressional Budget Office, <a href="https://www.cbo.gov/publication/58357">Economic Analysis of Budget Reconciliation Legislation</a>, letter to Senator Graham (Aug 4, 2022).</li>
+  <li>Congress.gov bill status via govinfo: <a href="https://www.govinfo.gov/bulkdata/BILLSTATUS/117/hr/BILLSTATUS-117hr3684.xml">H.R. 3684</a> and <a href="https://www.govinfo.gov/bulkdata/BILLSTATUS/117/hr/BILLSTATUS-117hr5376.xml">H.R. 5376</a> (vote and signing dates).</li>
+  <li>Federal Reserve, <a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20220727a.htm">FOMC statement, July 27, 2022</a>.</li>
+  <li>Wikipedia, <a href="https://en.wikipedia.org/wiki/Build_Back_Better_Act">Build Back Better Act</a> and <a href="https://en.wikipedia.org/wiki/Inflation_Reduction_Act">Inflation Reduction Act</a> (dates of Manchin's December 19, 2021 announcement and the July 27, 2022 deal, citing NPR, AP and Politico).</li>
+  <li>FRED: <a href="https://fred.stlouisfed.org/series/T5YIE">5-year</a>, <a href="https://fred.stlouisfed.org/series/T10YIE">10-year</a> and <a href="https://fred.stlouisfed.org/series/T5YIFR">5-year, 5-year forward</a> breakeven inflation.</li>
+  <li>BLS via FRED, nonfarm business sector: <a href="https://fred.stlouisfed.org/series/PRS85006173">labor share</a>, <a href="https://fred.stlouisfed.org/series/COMPRNFB">real hourly compensation</a>, <a href="https://fred.stlouisfed.org/series/OPHNFB">output per hour</a>; <a href="https://fred.stlouisfed.org/series/PCEPI">PCE price index</a>.</li>
+  <li>Federal Reserve Bank of Atlanta Wage Growth Tracker by wage quarter, via FRED: <a href="https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGWD1WP">lowest</a>, <a href="https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGWD26WP">second</a>, <a href="https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGWD51WP">third</a>, <a href="https://fred.stlouisfed.org/series/FRBATLWGT12MMUMHWGWD76WP">top</a>.</li>
+  <li>Bureau of Labor Statistics, <a href="https://www.bls.gov/developers/">public data API</a>: state job openings (JOLTS) and state unemployed persons (LAUS), 2001–2024.</li>
+  <li>Opportunity Insights <a href="https://github.com/OpportunityInsights/EconomicTracker">Economic Tracker</a>: state employment and the dates states ended the $300 supplement.</li>
+  <li>Federal Reserve Board, <a href="https://www.federalreserve.gov/econres/us-models-python.htm">FRB/US in Python</a> (PyFRB/US 1.1.1, February 2026) and FRB/US data package (August 2026).</li>
+</ol>
+</article>
+
+</body></html>

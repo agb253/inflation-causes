@@ -1,0 +1,7 @@
+ending states: 25
+                                                                          item        series  estimate     se
+0                            A. third checks, extra spending vs trend, 6 weeks     spend_all     0.015    NaN
+1                            A. third checks, extra spending vs trend, 6 weeks  spend_all_q1     0.083    NaN
+2       A. implied share of the $390bn spent within 6 weeks (all cards, rough)     spend_all     0.068    NaN
+3  B. early UI end: spending change in ending states (share of Jan-2020 level)  spend_all_q1    -0.010  0.005
+4  B. early UI end: spending change in ending states (share of Jan-2020 level)     spend_all    -0.007  0.004

@@ -1,0 +1,11 @@
+{'measure': 'GSCPI (model)', 'coef_sum': np.float64(0.13528148991349498), 'coef_se': 0.06872327997024454, 't': np.float64(1.9684958280813791), 'line_2021_24': 4.207410686792789, 'p5': np.float64(0.5946170781293034), 'p95': np.float64(8.426207735691166), 'width': np.float64(7.831590657561863)}
+{'measure': 'delivery times', 'coef_sum': np.float64(0.18081735074756336), 'coef_se': 0.08068072459289127, 't': np.float64(2.241146837239673), 'line_2021_24': 2.8965756678928627, 'p5': np.float64(0.6873359295271094), 'p95': np.float64(5.738476712342487), 'width': np.float64(5.051140782815377)}
+{'measure': 'unfilled orders', 'coef_sum': np.float64(0.06535169094088515), 'coef_se': 0.07858128681862805, 't': np.float64(0.8316444485278298), 'line_2021_24': 0.03269173453313104, 'p5': np.float64(-0.18740445596737176), 'p95': np.float64(0.33100319826146324), 'width': np.float64(0.518407654228835)}
+{'measure': 'composite', 'coef_sum': np.float64(0.16711722675773003), 'coef_se': 0.07161227609837739, 't': np.float64(2.3336393683137886), 'line_2021_24': 4.570460856548759, 'p5': np.float64(1.609013064712705), 'p95': np.float64(8.927423989800994), 'width': np.float64(7.318410925088289)}
+                 coef_sum  coef_se     t  line_2021_24    p5   p95  width
+measure                                                                  
+GSCPI (model)        0.14     0.07  1.97          4.21  0.59  8.43   7.83
+delivery times       0.18     0.08  2.24          2.90  0.69  5.74   5.05
+unfilled orders      0.07     0.08  0.83          0.03 -0.19  0.33   0.52
+composite            0.17     0.07  2.33          4.57  1.61  8.93   7.32
+composite loadings (gscpi, delivery, unfilled): [0.87 0.45 0.19]

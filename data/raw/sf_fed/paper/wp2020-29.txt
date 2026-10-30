@@ -1,0 +1,1530 @@
+                      FEDERAL RESERVE BANK OF SAN FRANCISCO
+
+                                  WORKING PAPER SERIES
+
+
+
+
+                    A Simple Framework to Monitor Inflation
+
+                                     Adam Hale Shapiro
+                            Federal Reserve Bank of San Francisco
+
+                                           June 2022
+
+
+                                   Working Paper 2020-29
+
+        https://www.frbsf.org/economic-research/publications/working-papers/2020/29/
+
+
+Suggested citation:
+Hale Shapiro, Adam. 2022. “A Simple Framework to Monitor Inflation,” Federal
+Reserve Bank of San Francisco Working Paper 2020-29.
+https://doi.org/10.24148/wp2020-29
+
+The views in this paper are solely the responsibility of the authors and should not be interpreted
+as reflecting the views of the Federal Reserve Bank of San Francisco or the Board of Governors
+of the Federal Reserve System.
+             A Simple Framework to Monitor Inflation
+                                      Adam Hale Shapiro∗
+
+                                          June 14, 2022
+
+
+
+                                              Abstract
+
+          This paper proposes a simple framework to help monitor and understand movements
+      in PCE inflation in real time. The approach is to decompose inflation using simple
+      categorical-level regressions or systems of equations. The estimates are then used to
+      group categories into components of PCE inflation. I review some applications of the
+      methodology, and show how it can help explain inflation dynamics over recent episodes.
+      The methodology shows that inflation remained low in the mid-2010s primarily because
+      of factors unrelated to aggregate economic conditions. I also apply the methodology to
+      the Covid-19 pandemic. The decomposition reveals that a majority of elevated inflation
+      in core PCE inflation in the 2021-2022 period was due to “Covid-sensitive” categories,
+      that is, those categories where prices and quantities moved the most at the onset of the
+      pandemic. Finally, I show how the methodology can be applied in a dynamic fashion,
+      labeling categories as either supply- or demand-driven by month. This decomposition
+      allows one to assess the extent to which supply and demand factors are impacting
+      inflation.
+
+
+
+
+  ∗
+    Federal Reserve Bank of San Francisco, adam.shapiro@sf.frb.org. This paper stems from research done
+with Tim Mahedy. The views expressed are those of the author and do not necessarily reflect the views of
+the Federal Reserve Bank of San Francisco or the Federal Reserve System.
+1     Introduction
+Interpreting inflation dynamics is one of the most hotly debated and researched topics in
+macroeconomics.1 Understanding inflation patterns is especially important to those track-
+ing it in real time. Monetary and fiscal policy decisions, as well as the prices of financial
+assets, depend on the underlying factors that are pushing or pulling on inflation. This paper
+proposes a simple framework to help disentangle movements in PCE inflation in real time.
+    Like other decompositions of PCE inflation, such as the well-known core/noncore decom-
+position, the framework outlined here uses the underlying categorical measures of inflation
+provided by the Bureau of Economic Analysis (BEA). The novelty of the approach is to
+decompose inflation using simple categorical-level regressions. The methodology is general
+enough to encompass a wide range of decompositions and nests the core/non-core decom-
+position. Specifically, the researcher can specify any data-generating process for sectoral
+inflation—that is, the dynamics of the price index for a specific category of PCE. The cate-
+gories are then labeled using the sectoral-specific estimates from the model, correspondingly
+split into different components and subcomponents of PCE inflation. I also show that the
+methodology can be expanded to include a more complex model or system of equations, for
+example, including an additional equation that governs sectoral quantities.
+    The key assumption of the methodology is that inflation dynamics are best explained at
+the categorical (or sectoral) level. There is ample evidence in the literature that this assump-
+tion holds. For example, the health care services sector is sensitive to prices administered by
+the government (that is, Medicare and Medicaid) as shown in Clemens and Gottlieb (2017),
+Clemens, Gottlieb, and Shapiro (2014), and Clemens, Gottlieb, and Shapiro (2016). Certain
+products, such as airline services Gerardi and Shapiro (2009) and technology goods (Aizcorbe
+(2006) and Copeland and Shapiro (2016)), tend to strongly move with technological progress
+and sector-specific competitive pressures.
+    This study outlines some applications of the framework. The first application is a decom-
+position of core PCE inflation into cyclical and acyclical components, as done in Mahedy
+and Shapiro (2017) and Shapiro (2018), and similar to the analysis of Stock and Watson
+(2019). For each category, a standard Phillips curve is estimated. A category is then labeled
+   1
+     See, for example, Fuhrer and Moore (1995),Goodfriend and King (2005), Primiceri (2006) and Stock
+and Watson (2007)
+
+
+
+                                                 2
+as either cyclical or acyclical based on the size and sign of the t-statistic. If the sector’s infla-
+tion rate shows a negative and statistically significant relationship with the unemployment
+gap, the sector is labeled as cyclical, otherwise it is labeled acyclical. Such a decomposi-
+tion can help policy makers determine, in real time, whether inflation is moving for reasons
+due to aggregate demand or whether they are due to more industry-specific factors. For
+instance, during the mid-2010s when core PCE inflation remained persistently below the
+Federal Reserve’s 2 percent target, despite tight labor market conditions. Many researchers
+and policymakers have noted that the Phillips curve relationship is no longer holding (for
+example, Leduc, Wilson, et al. (2017), Bullard (2018), Del Negro, Lenza, Primiceri, and
+Tambalotti (2020)and Hooper, Mishkin, and Sufi (2020)). However, at the time, Chair
+Janet Yellen cited industry-specific factors as responsible for holding back inflation pressures
+“..recent lower readings on inflation are partly the result of unusual reductions in certain
+categories.”2 The cyclical/acyclical decomposition verifies Yellen’s comments showing that,
+during this time period, cyclical inflation was on a steady rise from its lows during the
+financial crisis, while acyclical inflation remained subdued.
+    The next application I demonstrate is to track the effects of an economic crisis on inflation.
+In particular, I show how one can monitor the inflationary effects of the financial crisis and,
+more recently, the economic disruptions caused by Covid-19. This can be done by simply
+including a dummy variable into the Phillips curve model explaining inflation dynamics. In
+terms of the financial crisis, the decomposition shows that the initial decline in inflation
+was attributable to a steep decline in acyclical factors that were sensitive to the financial
+crisis. Subsequently, over the course of 2009, downward pressure came from cyclical factors
+sensitive to the onset of the financial crisis.
+    The methodology can be tailored to any particular event. The Covid-19 pandemic, for
+instance, brought about abrupt and severe supply and demand disruptions to economic
+activity. I use the methodology to measure the extent to which effects directly stemming
+from the pandemic were responsible for the decline and subsequent rise of inflation. The
+decomposition reveals that a majority of elevated inflation in core PCE inflation in the 2021-
+2022 period was due to “Covid-sensitive” categories, that is, those categories where prices
+and quantities moved the most at the onset of the pandemic. A further decomposition which
+  2
+   Testimony before the Committee on Financial Services on July 13, 2017, U.S. House of Representatives,
+Washington, D.C., https://www.federalreserve.gov/newsevents/testimony/yellen20170712a.htm
+
+
+
+                                                   3
+combines the groupings constructed in the Phillips curve analysis, reveals that a majority
+of the rise in inflation in the 2021-2022 period is attributable to acyclical Covid-sensitive
+categories. This decomposition reinforces the idea that the forces pushing on inflation in
+the post-pandemic period are atypical relative to past recessions, but also linked with the
+disruptions caused by Covid-19.
+    Finally, one can use the methodology to examine the separate roles of supply and demand
+factors in pushing or pulling on inflation. Specifically, a price and quantity equation can be
+estimated to identify whether certain categories are either demand or supply sensitive. To
+do so, I rely on the basic microeconomic theory of how prices and quantities respond to
+demand versus supply shifts. Shifts in demand should move both prices and quantities
+in the same direction, while shifts in supply should move them in opposite directions. The
+results show intuitive characteristics: demand pushes inflation down in recessions and supply
+shocks move headline inflation more than core inflation. The readings show that supply and
+demand factors are about equally responsible for elevated levels of core inflation in 2022,
+however, supply factors explain a majority of the rise in headline inflation in that period.
+    The study is organized as follows. In section 2 I provide a brief overview of the BEA
+data. I describe the methodology of decomposing PCE inflation in section 3. Here, I review
+the univariate case, the multivariate case, and vector autoregression models. In sections 4
+and 5 I review some applications of the methodology. Section 4 discusses a decomposition
+based on the Phillips curve specification. Section 5 discusses how the methodology can be
+applied to tracking the inflationary effects of an economic crisis—specifically, the financial
+crisis and the Covid-19 pandemic. In Section 6 I show how the decomposition can be applied
+in a dynamic fashion, decomposing inflation into supply- and demand-drive contributions. I
+conclude in section 7.
+
+
+2    Data
+The price and quantity data used in this study are publicly available and come from the
+Bureau of Economic Analysis (BEA). The data on the underlying detail of quantity, price,
+and expenditures of the PCE index are availble in Tables 2.4.3U, 2.4.4U and 2.4.5U in the
+“Underlying Detail” page of the BEA’s website.
+   The BEA constructs different levels of aggregation depending on the category of product.
+
+                                              4
+I use the fourth level of disaggregation, for example, (1) services → (2) transportation
+services → (3) public transportation → (4) air transportation. Such an aggregation leaves
+124 categories in the core PCE index. Data at this level disaggregation are generally available
+back to 1988, although some series at this level are available at earlier dates.
+
+
+3     Decomposing Core PCE Inflation
+Inflation is constructed as an aggregate of inflation rates by sector, such that
+                                                      X
+                                               πt =        ωi πi,t                           (1)
+                                                       i
+
+
+where ωi is the expenditure weight of sector i in the household consumption basket. Since
+inflation is a weighted sum of sectoral inflation rates, it can easily be divided by sector
+into subcomponents. The most simple and well-known example of a division of inflation is
+core PCE inflation. Here, overall inflation is divided into a core component and non-core
+component depending on whether the sector i belongs to the food or energy sectors:
+
+                                         (1 − 1i∈f,e )ωi πi,t +           1i∈f,e ωi πi,t
+                                 X                                X
+                          πt =                                                               (2)
+                                     i                                i
+                                 |             {z           }     |          {z       }
+                                              core                        non-core
+
+where 1i∈f,e is the indicator function:
+                                     (
+                                      1 if i = energy(e) or i = food(f )
+                         1i∈f,e =
+                                         0 otherwise
+    The core/non-core decomposition is defined subjectively on the premise that prices in the
+food and energy sectors tend to be more volatile. Thus, the core/non-core decomposition
+allows researchers to focus on the less volatile component of overall inflation. The novelty of
+the approach discussed below is to use a statistical threshold to group categories. Specifically,
+the methodology proposed in this study is to base the decomposition of inflation on some
+statistical property of inflation in the sector—namely, the sensitivity of the sector to some
+economic variable or event.
+
+
+
+                                                      5
+3.1    Univariate Case
+I begin with an example where inflation in each sector is a function of a single observable
+macroeconomic variable xt :
+                                    πi,t = βi xt + εi,t                                 (3)
+
+where εi,t is iid shock to industry i at time t. It follows that one can decompose πi,t based on
+the coefficient βi . Specifically, πi,t can be labeled as either being sensitive to xt or insensitive
+to xt by assessing the size and precision of the regression coefficient βi from a regression of
+πi,t on xt by sector. The threshold for sensitivity based on the t-statistic of β̂i is then:
+                                                      (
+                                                       1 if |t(βi )| > tk
+                                         1i∈sens =
+                                                        0 otherwise
+where the t-statistic threshold, k, is pre-defined and chosen by the user. It follows that
+overall inflation can be divided into two distinct components:
+
+                                  (1 − 1i∈sens )ωi πi,t +   1i∈sens ωi πi,t
+                                 X                        X
+                          πt =                                                                     (4)
+                                     i                                    i
+                                 |               {z               }   |            {z          }
+                                           insensitive to x                   sensitive to x
+
+    There are four things to note about this decomposition. First, the number of components
+is not limited to two, as one can define multiple thresholds of k, and therefore multiple
+subcomponents of inflation. Second, the independent variable xt can take on any observable
+information, including a time dummy or the lagged inflation of that sector. In the case of a
+time dummy, the decomposition would be by the degree of sensitivity to a specific event (for
+example, the outbreak of Covid-19). If the independent variable is lagged sectoral inflation,
+πt−1 , (that is, an AR1 process), the decomposition would be between persistent and non-
+persistent inflation. Finally, the indicator function is not time varying. Thus, βi , and hence
+the indicator function will depend on the sample period that (3) is estimated over.
+
+
+3.2    Multivariate Case
+The decomposition can easily be extended to the multivariate setting. Suppose that sectoral
+inflation is function of both xt and yt , as well as a host of other variables represented by the
+
+
+
+                                                              6
+n × 1 vector Z:
+                                 πi,t = βix xt + βiy yt + Zγ + εi,t ,                           (5)
+
+and the researcher is interested in decomposing inflation by sensitivity to both x and y. It
+follows that a set of four indicator functions can be constructed:
+
+                                      1 if |t(βix )| > tk ∩ |t(βiy )| > tk
+                                     (
+                          1i,x,y =
+                                       0 otherwise
+
+                                      1 if |t(βix )| > tk ∩ |t(βiy )| < tk
+                                     (
+                          1i,x,0 =
+                                       0 otherwise
+
+                                      1 if |t(βix )| < tk ∩ |t(βiy )| > tk
+                                     (
+                          1i,0,y =
+                                       0 otherwise
+
+                                      1 if |t(βix )| < tk ∩ |t(βiy )| < tk
+                                     (
+                          1i,0,0 =
+                                       0 otherwise
+
+
+                                              1i,x,y ωi πi,t +                 1i,x,0 ωi πi,t
+                                      X                          X
+                            πt =
+                                          i                              i
+                                      |          {z        }     |                {z       }
+                                      sensitive to x and y       sensitive to x only
+
+                                              1i,0,y ωi πi,t +                1i,0,0 ωi πi,t
+                                      X                          X
+                                +                                                               (6)
+                                          i                          i
+                                      |         {z         }     |              {z         }
+                                      sensitive to y only                    insensitive
+
+
+    Here inflation is broken up into “quadrants” based on the 2 × 2 sensitivity outcomes. As
+in the univariate case, the threshold for sensitivity can be altered or expanded by changing
+the size and number of t-statistic cutoffs tk . Note that a joint Wald-statistic can also be
+specified (i.e., F-test) if the user wants to account for the joint correlation of the coefficient
+estimates.
+
+
+
+
+                                                       7
+3.3    Vector Autoregressive Models
+Finally, the framework can be extended to vector auto-regressions (VARs). Suppose an
+additional piece of information yi,t relevant for inflation dynamics varies by sector, and is
+itself dependent on xt :
+
+                          πi,t = βiπ,π πi,t−1 + βiπ,y yi,t−1 + βiπ,x xt + επi,t
+                          yi,t = βiy,π πi,t−1 + βiy,y yi,t−1 + βiy,x xt + εyi,t
+
+and one can assume any covariance structure in the errors between sectors or between de-
+pendent variables for the same sector (i.e., cov(επi,t , εyi,t ) 6= 0). The benefit of assessing the
+system of equations is that the additional information from yi,t can be used to decompose
+inflation. For example, one could include the sensitivity of x on yi (that is, βiy,x ) as additional
+information about sector i’s sensitivity to x, in addition to βiπ,x :
+
+                                          1 if |t(βiπ,x )| > tk ∩ |t(βiy,x )| > tk
+                                         (
+                        1i∈sens =
+                                           0 otherwise
+and it follows that inflation can be decomposed into two groups:
+
+                                  (1 − 1i∈sens )ωi πi,t +   1i∈sens ωi πi,t
+                                 X                        X
+                          πt =                                                                     (7)
+                                     i                                    i
+                                 |               {z               }   |            {z          }
+                                           insensitive to x                   sensitive to x
+
+which is analogous to the decomposition in (4) but with a stricter definition about what
+constitutes sensitivity to x.
+
+
+4     Application: Phillips Curve Decomposition
+4.1    Cyclical and Acyclical Inflation
+As a first application, I show how inflation can be decomposed by its sensitivity to the
+economic cycle, as performed in Mahedy and Shapiro (2017) and Shapiro (2018). This de-
+composition is useful because it ties in with the standard Phillips curve framework. This
+relationship posits that fluctuations in aggregate demand, and hence the economic cycle,
+
+
+                                                              8
+directly impact inflation through firms’ price setting behavior. An extensive literature ex-
+amines the cyclical nature of inflation by estimating the slope of the Phillips curve (see,
+for example, Shapiro (2008) and Mavroeidis, Plagborg-Møller, and Stock (2014)). The key
+assumption of this decomposition is that price-setting behavior varies by sector and that
+certain sectors may be more sensitive to aggregate-demand conditions than others. There is
+evidence in the literature that this assumption holds. For example, the health care services
+sector is sensitive to prices administered by the government (that is, Medicare and Medi-
+caid) as shown in Clemens and Gottlieb (2017), Clemens, Gottlieb, and Shapiro (2014), and
+Clemens, Gottlieb, and Shapiro (2016). Certain products, such as airline services Gerardi
+and Shapiro (2009) and technology goods (Copeland and Shapiro (2016), tend to strongly
+move with competitive pressure.
+    The Mahedy and Shapiro (2017) decomposition assumes that inflation dynamics can be
+described by a sectoral-level Phillips curve in gap form (for example, Faust and Wright
+(2013)):
+
+                      πi,t = βiu (u∗t−1 − ut−1 ) + βiπ πt−1 + (1 − βiπ )πt∗ + αi + εi,t   (8)
+
+where,3
+ πi,t is the monthly inflation rate of sector i
+ ut is the unemployment rate
+ u∗t is NAIRU
+ πt∗ measures the expected trend level of inflation (the perceived inflation target)
+ αi is a sectoral level constant (fixed effect)
+
+and the decomposition between cyclical and acyclical inflation is based on the following
+indicator function:                     (
+                                         1 if t(βiu ) > 1.96
+                          1i∈cyclical =
+                                         0 otherwise
+where t = 1.96 is the (two-sided) 95th percentile confidence value. Note that the abso-
+lute value around βiu is not used since Mahedy and Shapiro (2017) chose to assume that a
+negative and significant relationship with the unemployment gap was deemed not sensitive
+to the cycle. Furthermore, the food and energy sectors are ignored such that the focus is
+  3
+      The perceived inflation target is measured using the FRB/US model variable “PTR.”
+
+
+                                                     9
+decomposing core PCE inflation. The model is run on data from 1988 (the beginning of the
+granular BEA PCE price and quantity data) to the end of 2007, prior to the onset of financial
+crisis. Mahedy and Shapiro (2017) end the sample period before the financial crisis to ensure
+that the crisis did not impact the decomposition. Table 1 shows a list of the coefficients,
+βiu , in descending order, along with standard errors (SE) and the indicator function, marked
+“Cyclical.”
+     The decomposition of cyclical and acyclical core PCE inflation takes the following form:
+
+                                    (1 − 1i∈cyclical )ωi,t,t−12 πi,t,t−12 +           1i∈cyclical ωi,t πi,t,t−12
+                            X                                                 X
+                πt,t−12 =                                                                                           (9)
+                                i                                                 i
+                            |                     {z                  }       |               {z              }
+                                           Acyclical Inflation                         Cyclical Inflation
+
+where πt,t−12 is constructed as the 12-month change in core PCE inflation, πi,t,t−12 is the
+12-month change in sector i’s inflation rate and the weights, ωi,t,t−12 are a geometric average
+of period t − 12 through t Fisher weights of the sector:
+                             " 12                                   12 # 121
+                              Y       pqi,t−k          pqi,t−k−1
+                 ωi,t,t−12 =         P           +1 ∗ P             +1             −1                              (10)
+                              k=1      i pqi,t−k        i pqi,t−k−1
+
+where pqi,t−k is expenditure in sector i in period t − k. Figure 1 shows the decomposition
+between cyclical and acyclical inflation over the course of the entire sample. These weights
+do not exactly match that of the BEA but are approximately equivalent. The data series
+is available at the Federal Reserve Bank of San Francisco’s Indicators and Data Page4 .
+By construction the cyclical component of inflation follows the unemployment gap in the
+estimation sample period (that is, 1988-2007), while the acyclical component will not (see
+Figure 2). The plot shows that the cyclical component has a strong out-of-sample fit as
+well (that is, 2008-2022). Specifically, the in-sample correlation between the month-over-
+month cyclical contribution and the unemployment gap is 51 percent while the out-of-sample
+correlation is 50 percent. The slope of the relationship has flattened, but the correlation has
+the statistical significance. By contrast, the acyclical contribution has correlations of 0.004
+in sample, and 0.077 out of sample.
+  4
+      https://www.frbsf.org/economic-research/indicators-data/cyclical-and-acyclical-core-pce-inflation/
+
+
+
+
+                                                                 10
+4.2     Persistent and Non-persistent Inflation
+In a similar fashion, one can also decompose inflation into a persistent and non-persistent
+components based on the coefficient β π , which governs the persistence of inflation in the
+Phillips curve:                              (
+                                              1 if t(βiπ ) > 2.32
+                             1i∈persistent =
+                                              0 otherwise
+and it follows that inflation can be decomposed into a persistent and non-persistent compo-
+nent:
+                         (1 − 1i∈persistent )ωi,t,t−12 πi,t,t−12 +   1i∈persistent ωi,t πi,t,t−12
+                      X                                            X
+            πt,t−12 =                                                                             (11)
+                          i                                                        i
+                      |                      {z                           }    |                   {z          }
+                                Non-Persistent Inflation                                Persistent Inflation
+
+which is shown in the first panel of Figure 8. The black area represents those sectors with
+positive monthly persistence in inflation and the gray area those sectors with zero or negative
+persistence. Such a decomposition could be useful in indicating whether a recent change in
+inflation will be more or less likely to persist going forward as is the motivation for the
+Federal Reserve Bank of Dallas’s trimmed mean measure of PCE inflation (Dolmas (2005)).
+As discussed in Section 3.2, one can use both of the coefficients on the Phillips curve, βiu
+and βiπ , to decompose inflation even further:
+
+
+
+                                             1i,βiu ,βiπ ωi πi,t +            1i,βiu ,0 ωi πi,t
+                                     X                                X
+                              πt =
+                                         i                                i
+                                     |            {z           }      |            {z          }
+                                      Cyclical/Persistent            Cyclical/Non-persistent
+
+                                             1i,0,βiπ ωi πi,t +               1i,0,0 ωi πi,t
+                                     X                                X
+                                +                                                                                  (12)
+                                         i                                i
+                                     |            {z       }          |         {z         }
+                                     Acyclical/Persistent          Acyclical/Non-Persistent
+
+
+where, for example, 1i,βiu ,βiπ indicates that both βiu and βiπ are statistically significant and
+positive for sector i. This decomposition of core PCE inflation into four components is
+shown in the third panel of Figure 8. This decomposition, for instance, shows that the rise
+in inflation above 2 percent in the mid-2000s as well as the good portion of 2018 was driven
+to a large degree by not only acyclical factors, but non-persistent acyclical factors.
+
+
+
+                                                          11
+5     Application: Economic Crises
+As discussed above, we can assess the sectoral sensitivity of inflation to a specific date,
+namely the onset of an economic crisis. The assumption in this type of decomposition is
+that the factors that most directly linked to the crisis exogenously appear in the month when
+the crisis begins.
+
+
+5.1    Financial-Crisis Sensitive Inflation
+As a first example, we can assess the sensitivity of inflation to the financial crisis:
+
+                                    πi,t = βi1 1t∈2008m9 + αi + επi,t                           (13)
+
+where 1t∈2008m9 is a dummy variable indicating September 2008— the month Lehman Broth-
+ers filed for bankruptcy and is commonly thought as the onset of the financial crisis. The
+coefficient βi1 will indicate those sectors whose prices moved the most in that month, and
+are presumably the most directly related to the crisis itself:
+                                                (
+                                                 1 if |t(βi1 )| > 2.32
+                               1i∈sensitive =
+                                                 0 otherwise
+The first panel of Figure 4 shows the decomposition of inflation between crisis-sensitive
+(in gray) and crisis-insensitive (in black) inflation around the time of Lehman Brothers’
+collapse, marked by the red vertical line. By construction, there is a strong movement in
+crisis-sensitive inflation following the onset of the crisis. The decline in sensitive-inflation
+alleviates some after the initial shock rolls out of the 12-month change, it remains depressed
+well into 2010. By contrast crisis-insensitive inflation remains fairly steady throughout the
+crisis period. One can compare this to the behavior of cyclical inflation over the same period,
+shown in the first panel, which declines at much more gradual pace, inline with the gradual
+increase in unemployment that followed.
+    As an extension I can combine the two decompositions in a similar fashion as to that done
+in (11), by including the financial-crisis event dummy in the Phillips curve specification:
+
+            πi,t = βi1 1t∈2008m9 + βiu (u∗t−1 − ut−1 ) + βiπ πt−1 + (1 − βiπ )πt∗ + αi + εi,t   (14)
+
+
+                                                   12
+in which case one can do a similar multi-way decomposition of inflation using the estimated
+coefficients. This sample is run on the 1988m1-2008m9 sample, and I will use the estimates
+of βi1 and βiu , to decompose inflation into four separate categories:
+
+
+
+                                                 1i,βiu ,βi1 ωi πi,t +                 1i,βiu ,0 ωi πi,t
+                                     X                                     X
+                          πt =
+                                         i                                     i
+                                     |               {z         }          |              {z          }
+                                   Cyclical/Crisis-sensitive             Cyclical/Crisis-insensitive
+
+                                                  1i,0,βi1 ωi πi,t +                     1i,0,0 ωi πi,t
+                                      X                                        X
+                               +                                                                           (15)
+                                             i                                     i
+                                      |              {z         }              |            {z         }
+                                   Acyclical/Crisis-sensitive             Acyclical/Crisis-insensitive
+
+
+where the four categories are decomposed as follows,
+                                                  (
+                                                   1 if t(βiu ) > tk ∩ |t(βi1 )| > tk
+                             1i,βiu ,βi1 =
+                                                    0 otherwise
+                                                 (
+                                                  1 if t(βiu ) > tk ∩ |t(βi1 )| < tk
+                              1i,βiu ,0 =
+                                                   0 otherwise
+                                                 (
+                                                  1 if t(βix ) < tk ∩ |t(βi1 )| > tk
+                              1i,0,βi1 =
+                                                   0 otherwise
+                                                 (
+                                                  1 if t(βix ) < tk ∩ |t(βi1 )| < tk
+                              1i,0,0 =
+                                                   0 otherwise
+and the decomposition is shown in the far-right panel of Figure 4.5
+    The four-way decomposition reveals a clear story as to how inflation evolved after the
+onset of the crisis. The initial decline in inflation was attributable to steep decline in acyclical
+factors, sensitive to the financial crisis. Over the course of 2009, cyclical factors, also sensitive
+to the financial crisis, gradually weighed on inflation as the unemployment rate gradually
+rose. The bounce back in inflation over the course of 2010 was attributable to crisis-related
+factors rolling off the 12-month change calculation.
+   5
+    Note that in this case, βiu is slightly different than that in Section 4.1 as it is estimated up to in the
+1988m1-2008m9 sample, as opposed to the 1988-2007m12 sample in the previous section.
+
+
+                                                               13
+5.2    Covid-19 Sensitive Inflation
+The next application of a crisis decomposition is the Covid-19 pandemic, and I similarly
+include an event dummy in the Phillips curve set up:
+
+           πi,t = βi1 1t∈2020m3 + βiu (u∗t−1 − ut−1 ) + βiπ πt−1 + (1 − βiπ )πt∗ + αi + εi,t   (16)
+
+where 1t∈2020m3 is a dummy variable indicating March 2020, the onset of the pandemic in
+the United states when various mandatory and voluntary social distancing, stay-at-home
+orders, or supply-chain disruptions came into place. Analogous to the setup for the financial
+crisis, the coefficient βi1 will capture the sectoral sensitivity to these measures, under the
+assumption that the effects of the crisis exogenously appear in the initial month.
+    The first panel of Figure 5 shows the decomposition between Covid-sensitive and Covid-
+insensitive inflation around the onset of the pandemic. In February 2019, Covid-sensitive
+and Covid-insensitive inflation contributed about the same to core PCE inflation: 1.0 and
+0.9 percentage point, respectively. By June, the contributions from Covid-sensitive and
+Covid-insensitive inflation declined to 0.4 and 0.6, respectively. Covid-sensitive inflation was
+therefore responsible for about two-thirds of the 0.9 percentage point decline in year-over-
+year inflation between February and June. Although Covid-insensitive inflation did decline
+between February and May, it was declining from a temporary high level in early 2020.
+Strikingly, the decomposition shows that almost the entire run-up in inflation in the post-
+2021 period is due to Covid-sensitive inflation. That is, those same categories that pushed
+inflation down at the onset of the pandemic or the same categories that pushing inflation up
+in the 2021-2022 period.
+    The second panel re-displays the decomposition of cyclical and acyclical inflation (as
+shown in Figure 1), while the third panel shows a four-way decomposition analogous to that
+done in the decomposition with the financial crisis. This further decomposition reveals that
+both the decline and the rise in inflation was attributable to acyclical factors related to the
+pandemic. Cyclical factors sensitive to the pandemic did not contribute as much to the fall
+and rise of core PCE inflation.
+
+
+
+
+                                                  14
+5.2.1   Demand and Supply Effects Due to Covid-19
+
+The Covid-19 pandemic brought about abrupt and severe supply and demand disruptions to
+economic activity. In particular, mandatory and voluntary social distancing likely reduced
+demand while supply disruptions also ensued. Specifically, many employees could no safely go
+in to their workplace reducing production in certain sectors below full capacity. To examine
+the separate roles of supply and demand factors, I further divide the categories within the
+Covid-sensitive inflation group. To do so, I rely on the basic microeconomic theory of how
+prices and quantities respond to demand versus supply shifts. Shifts in demand should move
+both prices and quantities in the same direction, while shifts in supply should move them in
+opposite directions.
+    As discussed in Section 7, the methodology can be expanded to include a system of
+equations. To keep this model as simple and tractable as possible, I ignore the Phillips curve
+specification and assume a seemingly unrelated univariate regression two-equation system of
+the form:
+
+
+
+                               πi,t = βiπ,1 1t∈2020m3 + αiπ + επi,t                      (17)
+                             ∆xi,t = βix,1 1t∈2020m3 + αix + εxi,t                       (18)
+
+and run this over the 2010m1-2020m6 sample. Here, the The decomposition between supply
+and demand sensitive categories takes the following form:
+
+
+
+
+                                              15
+                       1 if |t(βiπ,1 )| < tk ∩ |t(βix,1 )| < tk
+                      (
+       1i∈insens =
+                       0 otherwise
+                       1 if [t(βiπ,1 ) < −tk ∩ t(βix,1 ) < −tk ] ∪ [t(βiπ,1 ) > tk ∩ t(βix,1 ) > tk ]
+                      (
+       1i∈sens(d) =
+                       0 otherwise
+                       1 if [t(βiπ,1 ) < −tk ∩ t(βix,1 ) > tk ] ∪ [t(βiπ,1 ) > tk ∩ t(βix,1 ) < −tk ]
+                      (
+       1i∈sens(s) =
+                       0 otherwise
+                       1 if 1i∈sens(d) = 0 ∩ 1i∈sens(s) = 0 ∩ 1i∈insens = 0
+                      (
+       1i∈sens(a) =
+                        0 otherwise
+                                                                                                        (19)
+
+where the sens(s) indicates the category is supply sensitive, sens(d) the category is demand
+sensitive, and sens(a) indicates the category is ambiguously sensitive to the Covid shock—
+that is, those Covid-sensitive categories with either a statistically significant change in price
+or quantity, but not a statistically significant change in both price and quantity.6 Table 2
+shows a list of the coefficients βiπ,1 and βix,1 , in descending order of the former, along with
+the standard error and the indicator functions marked insensitive (insen), supply sensitive
+(Sup), demand sensitive (Dem), and ambiguously sensitive (Amb). Of course, in reality,
+products are affected by both shifts in demand and supply at any given time, but this simple
+differentiation allows us to see which type of shift is dominating.
+    The first panel of Figure 6 shows a scatterplot depicting the percent changes in price and
+quantity of these 124 categories, where circle sizes are proportional to core PEC expenditure
+shares. Sensitive categories are those that experienced a quantity or price change (either
+positive or negative) pre- and post-Covid7 that is significantly different than its average price
+change over the preceding 10 years (that is, |βiπ,1 | > 0 or |βix,1 | > 0). Sensitive categories are
+generally those that lie furthest from the origin and are depicted in blue. Some categories
+   6
+     To help reduce noise, I assess the 2-month change in the price and quantity indexes and move the event
+date to 2020m4—so the change in prices and quantities would be assessed over the Jan-Feb to Mar-Apr
+period.
+   7
+     To help alleviate measurement error, I run specifications (17) and (18) using 2-month changes in prices
+and quantities as opposed to the usual 1-month change.
+
+
+
+                                                    16
+are labeled as sensitive despite sitting fairly close to the origin. These are categories where
+prices and quantities are normally quite stable, and thus, the threshold for being sensitive
+to Covid is lower.
+    The second panel of Figure 6 shows where these Covid-sensitive categories lie in terms
+of price and quantity change. By construction, the demand-sensitive categories will lie in
+either the bottom-left (a negative demand shift) or top-right quadrant (a positive demand
+shift), while the supply-sensitive categories will lie in the top-left (a negative supply shift)
+or bottom-right quadrant (a positive supply shift). The figures shows that the demand-
+sensitive categories, labeled in blue, primarily lie in the bottom-left quadrant, indicating
+they experienced a negative shift in demand. Analogously, the supply sensitive categories,
+labeled in red, lie in the top-left quadrant, indicating they experienced a negative supply
+shift. Those remaining sensitive categories placed in the “ambiguous”, labeled in gray, lie to
+the left of the y-axis and close to the x-axis, implying they had large quantity declines but
+only small price changes. This implies that these ambiguous categories may have experienced
+declines in both supply and demand.
+    In the third panel of Figure 6, I measure the extent to which these three sub-groups
+have contributed to the decline in core PCE inflation. The dark blue bars represent the
+contribution to core PCE from the categories in the demand-sensitive group, the red bars
+represent the contribution from the supply sensitive group, and the light blue bars the
+contribution from the ambiguous group. The contribution from the Covid-insensitive group
+are re-displayed in gray. The results show that demand-sensitive inflation began declining
+as early as March of 2020, subtracting 0.3pp from year-over-year core PCE inflation that
+month. By April, it was subtracting 0.7pp from year-over-year core PCE inflation. The
+effect from demand-sensitive factors slowly eroded since April, and then turned positive by
+early 2021.
+
+
+6    Dynamic Labeling
+As a final application, I show how the decomposition can be applied in a dynamic fashion. In
+the previous applications, each category is labeled once and its grouping remains fixed. For
+instance, “household paper products” was categorized as demand-sensitive and it is including
+in this grouping throughout the entire sample period. However, this ignores the possibility
+
+                                              17
+that this category may change groupings from one period to another. For instance, household
+paper products may be subsequently hit with a supply shock in a period beyond the onset
+of Covid-19.
+    To demonstrate dynamic labelling, I extend the supply and demand decomposition from
+Section 5.2.1. I allow a given category to switch labels from month-to-month, such that
+a category labeled as demand-driven one month is allowed to be labeled supply-driven the
+following month. I isolate the surprise change to the price level and the surprise change
+to the quantity level of each category. The surprise is defined as the residual from a one-
+month ahead forecasting model—the contemporaneous surprises in price and quantity for
+a given category. Specifically, I run rolling 120-month window rolling regressions (i.e., t ∈
+[T − 119, T ]):
+
+
+
+                                     pi,t = Zt−1 γ + εpi,t                                  (20)
+                                      qi,t = Zt−1 γ + εqi,t                                 (21)
+
+where,
+  pi,t is the log of the price index of category i in month t
+  qi,t is the log of the quantity index of category i in month t
+  Zt−1 is vector of variables available in month t -1.
+  εpi,t is the surprise change to the price index of category i in month t
+  εqi,t is the surprise change to the quantity index of category i in month t
+
+    My preferred specification includes 12 lags of the log price level and the log quantity level
+of category i. Results appeared to be robust to changing this specification to 6 lags or up to
+24 lags. Overall, this is analogous to a standard two-equation vector autoregression model
+(VAR). For each regression, I collect the final month (i.e., month T ) residual. It follows
+that category i in month T is labeled as supply-driven if εpi,T and εqi,T are off opposite signs
+and demand-driven if εpi,T and εqi,T are off the same signs:
+
+
+
+
+                                               18
+                                    1 if εpi,T < 0 ∩ εqi,T < 0 ∪ εpi,T > 0 ∩ εqi,T > 0
+                                   (
+                 1i∈demand =
+                                    0 otherwise
+                                    1 if εpi,T < 0 ∩ εqi,T > 0 ∪ εpi,T > 0 ∩ εqi,T < 0
+                                   (
+                   1i∈supply =
+                                     0 otherwise
+                                                                                                      (22)
+
+    One issue that arises is the noise level of the residuals. Specifically, at what point is it
+too difficult to decipher whether the residual is non-zero. To account for this issue, one can
+simply relabel a category i in month T as “ambiguous” if either εpi,t or εqi,t are sufficiently
+close to zero. In this example, I define “sufficiently close to zero” as the middle 20% of
+the residuals in the respective regression sample distributions by category. In this example,
+I label those residuals as “ambiguous” if they have a t-statistic < 0.125, under the null
+hypothesis that εji,t , for j ∈ {p, q}, among {εpi,T −12 . . . , εpi, }. I also exclude post-2020 residuals
+in the sample when running this test. This process is repeated for each roll of the regression.
+The user is, of course, free to choose different thresholds to re-label a category as ambiguous.
+The more conservative the threshold (i.e., the higher the t-statistic used to re-label categories
+as ambiguous) the larger the ambiguous category will be and the smaller the demand- and
+supply-driven contributions will be.
+    The demand- and supply-driven monthly contributions to inflation are constructed as
+the weighted sum of price changes for categories within a given label. The year-over-year
+contributions are constructed as the 12-month rolling sums of monthly contributions. An
+increase in demand due to anticipated supply changes (e.g., consumer hoarding) would be
+labeled demand-driven. This leaves the possibility of labeling categories as demand-driven
+even though the root cause of the demand change is an impending supply constraint.
+    There is not a considerable amount of switching between demand and supply shocks from
+month-to-month. Across all categories, approximately 80 percent of months had either the
+same type of shock in the previous period or an ambiguous shock in the previous period.
+As a robustness exercise to account for noise, I smoothed the residuals by taking the 3-
+month trailing moving average of them for each category and the results did not change.
+Figure 7 provide more insight on category labeling. I depict the share of months where a
+
+
+                                                    19
+given category was labeled as supply-driven and demand-driven in 2010-2019 (light blue)
+and 2021-2022 (dark blue). I show the ten categories with the largest increase in frequency
+between the pre- and post-pandemic periods. Categories with extraordinarily frequent supply
+changes during the inflation run-up in post-pandemic period (2021-2022) include those with
+known supply constraints such as new autos, energy, and repair services.8 . Categories with
+extraordinarily frequent demand shocks in 2021-2022 include mainly goods categories (e.g.,
+clothing, toys, video equipment, and cookware).
+    Figure shows the year-over-year contributions to headline PCE inflation (Panel A) and
+core PCE inflation (Panel B) from supply- and demand-driven inflation between 2000 to
+the present. The patterns show some intuitive characteristics. The contribution of demand-
+driven inflation to both core and headline PCE inflation declines during recessions. The
+collapse in airline travel immediately after 9-11 is labeled as demand driven and the sharp
+energy declines of 2014 and 2015 are identified as supply driven.
+
+
+7       Conclusion
+This study provided an overview of a simple framework to monitor inflation patterns. The
+approach relies on running regressions or system of equations on categorical-level data.
+The approach is general enough to encompass a wide range of decompositions, nesting the
+core/non-core decomposition. Any data-generating process for inflation can be specified, as
+long as the categories can subsequently be labeled from the sectoral-specific estimates.
+    I demonstrate a few applications of the methodology and show how it can be useful
+to policymakers, researchers, and market participants. The cyclical/acyclical decomposition
+shows that weak inflation numbers during the mid-2010’s were not attributable to a dormant
+Phillips curve, but were in fact attributable to dampened acyclical factors. The decomposi-
+tion reveals that a majority of elevated inflation in core PCE inflation in the 2021-2022 period
+was due to “Covid-sensitive” categories, that is, those categories where prices and quantities
+moved the most at the onset of the pandemic. As new crises emerge, this methodology can
+be customized to help policymakers and researchers monitor its effects.
+
+    8
+     “Ovens, dishwashers and washing machines are break down like never before. But there’s nobody to
+fix them.” Washington Post, October 2020. “One Business That’s Loving the Supply Chain Crisis” Slate,
+October 2021
+References
+Aizcorbe, A. (2006): “Why did semiconductor price indexes fall so fast in the 1990s? A
+  decomposition,” Economic Inquiry, 44(3), 485–496.
+
+Bullard, J. (2018): “The case of the disappearing Phillips Curve,” in Pre-
+ sentation at the 2018 ECB Forum on Central Banking on the Macroeconomics
+ of Price-and Wage-Setting, Sintra, Portugal. https://www. stlouisfed. org/ /me-
+ dia/files/pdfs/bullard/remarks/2018/bullard ecb sintra june, vol. 19, p. 2018.
+
+Clemens, J., and J. Gottlieb (2017): “In the shadow of a giant: Medicare’s influence
+ on private physician payments,” Journal of Political Economy, 125(1), 1–39.
+
+Clemens, J., J. Gottlieb, and A. Shapiro (2014): “How Much Do Medicare Cuts
+ Reduce Inflation?,” FRBSF Economic Letter, 28.
+
+Clemens, J., J. Gottlieb, and A. Shapiro (2016): “Medicare payment cuts continue
+ to restrain inflation,” FRBSF Economic Letter, 15.
+
+Copeland, A., and A. Shapiro (2016): “Price setting and rapid technology adoption:
+ The case of the PC industry,” Review of Economics and Statistics, 98(3), 601–616.
+
+Del Negro, M., M. Lenza, G. E. Primiceri, and A. Tambalotti (2020): “What’s
+ up with the Phillips Curve?,” Discussion paper, National Bureau of Economic Research.
+
+Dolmas, J. (2005): “Trimmed mean PCE inflation,” Federal Reserve Bank of Dallas Work-
+ ing Paper, 506.
+
+Faust, J., and J. H. Wright (2013): “Forecasting inflation,” in Handbook of economic
+  forecasting, vol. 2, pp. 2–56. Elsevier.
+
+Fuhrer, J., and G. Moore (1995): “Inflation persistence,” The Quarterly Journal of
+ Economics, 110(1), 127–159.
+
+
+
+                                         21
+Gerardi, K., and A. Shapiro (2009): “Does competition reduce price dispersion? New
+ evidence from the airline industry,” Journal of Political Economy, 117(1), 1–37.
+
+Goodfriend, M., and R. G. King (2005): “The incredible Volcker disinflation,” Journal
+ of Monetary Economics, 52(5), 981–1015.
+
+Hooper, P., F. S. Mishkin, and A. Sufi (2020): “Prospects for inflation in a high
+ pressure economy: Is the Phillips curve dead or is it just hibernating?,” Research in
+ Economics, 74(1), 26–62.
+
+Leduc, S., D. J. Wilson, et al. (2017): “Has the wage Phillips curve gone dormant?,”
+  FRBSF Economic Letter, 30, 16.
+
+Mahedy, T., and A. Shapiro (2017): “What’s Down with Inflation?,” FRBSF Economic
+ Letter, 35.
+
+Mavroeidis, S., M. Plagborg-Møller, and J. H. Stock (2014): “Empirical evidence
+ on inflation expectations in the New Keynesian Phillips Curve,” Journal of Economic
+ Literature, 52(1), 124–88.
+
+Primiceri, G. E. (2006): “Why inflation rose and fell: policy-makers’ beliefs and US
+ postwar stabilization policy,” The Quarterly Journal of Economics, 121(3), 867–901.
+
+Shapiro, A. (2008): “Estimating the new Keynesian Phillips curve: a vertical production
+  chain approach,” Journal of Money, Credit and Banking, 40(4), 627–666.
+
+         (2018): “Has Inflation Sustainably Reached Target?,” FRBSF Economic Letter,
+  2018, 26.
+
+Stock, J. H., and M. W. Watson (2007): “Why has US inflation become harder to
+  forecast?,” Journal of Money, Credit and banking, 39, 3–33.
+
+        (2019): “Slack and cyclically sensitive inflation,” Discussion paper, National Bureau
+  of Economic Research.
+
+
+
+
+                                             22
+                                  Figure 1: Cyclical and Acyclical Core PCE Inflation
+
+
+
+             6
+
+
+
+
+  Core PCE inflation (y/y)
+
+
+
+
+      2              4
+
+
+
+
+             0
+
+                               88
+                             19 ...
+                               89..
+                             19 ....
+                               90..
+                             19 ....
+                               91..
+                             19 ....
+                               92..
+                             19 ....
+                               93..
+                             19 ....
+                               94..
+                             19 ....
+                               95..
+                             19 ....
+                               96..
+                             19 ....
+                               97..
+                             19 ....
+                               98..
+                             19 ....
+                               99..
+                             20 ....
+                               00..
+                             20 ....
+                               01..
+                             20 ....
+                               02..
+                             20 ....
+                               03..
+                             20 ....
+                               04..
+                             20 ....
+                               05..
+                             20 ....
+                             1906..
+                             20 ....
+                               07..
+                             20 ....
+                               08..
+                             20 ....
+                               09..
+                             20 ....
+                               10..
+                             20 ....
+                               11..
+                             20 ....
+                               12..
+                             20 ....
+                               13..
+                             20 ....
+                               14..
+                             20 ....
+                               15..
+                             20 ....
+                               16..
+                             20 ....
+                               17..
+                             20 ....
+                               18..
+                             20 ....
+                               19..
+                             20 ....
+                               20..
+                             20 ....
+                               21..
+                             20 ....
+                               22...
+                                   ..
+
+
+                                             Cyclical Component             Acyclical Component
+
+
+
+
+Notes: Contributions to year-over-year core PCE inflation from cyclical and acyclical categories. Cyclical
+categories are those with a statistically significant and positive coefficient on the slope of coefficient of the
+Phillips curve. Acyclical categories are all other core PCE categories. Series is available at FRBSF Cyclical
+and Acyclical Inflation
+
+
+
+
+                                                           23
+                                     Figure 2: Cyclical and Acyclical Inflation vs. Unemployment Gap
+
+
+
+
+                                          Cyclical Contribution                                                       Acyclical Contribution
+              3                                                                               10
+
+
+
+
+              2
+
+
+
+
+   Cyclical inflation (m/m)                                                       Acyclical inflation (m/m)
+
+
+
+
+                                                                                 0                         5
+               1
+
+
+
+              0
+
+
+
+
+              -1                                                                              -5
+                              -.05         0                   .05          .1                                 -.05    0                   .05   .1
+                                               Unemployment Gap                                                            Unemployment Gap
+
+
+
+                                                                In Sample             Out of Sample
+
+
+
+
+Notes: The left panel shows a scatter plot of the monthly (month-over-month) cyclical contributions (y-axis)
+against the unemployment gap (ut − u∗ ). The right figure shows the analogous scatter plot for the acyclical
+contributions. In dark blue are the in-sample periods: 1988-2007. In light blue are the out-of-sample periods:
+2008-2022.
+
+
+
+
+                                                                            24
+                                                                                                                                                                             Figure 3: Phillips Curve Decomposition of Core PCE Inflation
+
+
+
+                6                                                                                                                                                                                                                                              6                                                                                                                                                                                                                                6
+
+
+
+
+                                                                                                                                                                                                                                                               4                                                                                                                                                                                                                                4
+
+
+
+     Core PCE inflation (y/y)
+
+
+
+                                                                                                                                                                                                                                                               2                                                                                                                                                                                                                                2
+        2                   4
+25
+
+
+
+                0                                                                                                                                                                                                                                              0                                                                                                                                                                                                                                0
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ......0...........2............4............6............8............0............2............4............6............8............0............2............4............6............8............0............2...
+                                   ......0...........2............4............6............8............0............2............4............6............8............0............2............4............6............8............0............2...        ......0...........2............4............6............8............0............2............4............6............8............0............2............4............6............8............0............2...           9           9            9            9            9            0            0            0            0            0            1            1            1            1            1            2            2
+                                     9            9            9            9            9            0            0            0            0            0            1            1            1            1            1            2            2                9            9            9            9            9            0            0            0            0            0            1            1            1            1            1            2            2             19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20
+                                  19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20                                                                                                                                                                               19 19 19 19 19 20 20 20 20 20 20 20 20 20 20 20 20
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Cyclical/Non-Persistent                                                                                             Acyclical/Non-Persistent
+                                                                                            Persistent                                                                                   Non-Persistent                                                                                                                                      Cyclical                                                                          Acyclical                                                                                              Cyclical/Persistent                                                                                                 Acyclical/Persistent
+
+
+
+
+                                Notes: The first panel (left) shows the contributions from persistent and non-persistent core PCE inflation. Persistent categories
+                                are those with a statistically significant and positive coefficient on the lagged inflation term. Non-persistent categories are all other
+                                core PCE categories. The second panel (middle) re-displays that from figure 1. The last panel (right) shows the contributions from
+                                cyclical/non-persistent, cyclical/persistent, acyclical/non-persistent, and acyclical/persistent core PCE inflation.
+                                                                                            Figure 4: Core PCE Inflation by Sensitivity to the Financial Crisis
+
+
+
+                3                                                                                                                      3                                                                                                                  3
+
+
+
+
+                                                                                                                                                                                                                                                          2
+                                                                                                                                       2
+
+
+     Core PCE inflation (y/y)
+
+
+                                                                                                                                                                                                                                                          1
+      1                    2                                                                                                           1
+
+26
+
+                                                                                                                                                                                                                                                          0
+
+                0                                                                                                                      0
+                                                                                                                                                                                                                                                                         1 . . 4 . . 7 . . 10 . . 1 . . 4 . . 7 . . 10 . . 1 . . 4 . . 7 . . 10 . . 1 . . 4 . . 7 . . 10 . .
+                                     1 . . 4 . . 7 . .10 . . 1 . . 4 . . 7 . .10 . . 1 . . 4 . . 7 . .10 . . 1 . . 4 . . 7 . .10 . .                1 . . 4 . . 7 . . 10 . . 1 . . 4 . . 7 . . 10 . . 1 . . 4 . . 7 . . 10 . . 1 . . 4 . . 7 . . 10 . .              m        m    m            m     m     m            m     m     m            m     m     m
+                                    m    m     m           m     m     m           m     m     m           m     m     m                       7m         m   m            m     m     m            m     m     m            m     m     m                      07          07 007 07m 008 008 008 08m 009 009 009 09m 010 010 010 10m
+                                  07 007 007 07m 008 008 008 08m 009 009 009 09m 010 010 010 10m                                              0         07 007 07m 008 008 008 08m 009 009 009 09m 010 010 010 10m                                            20          20    2    20      2     2     2    20      2     2     2    20      2     2     2    20
+                                20    2     2    20     2     2     2    20     2     2     2    20     2     2     2    20                20        20     2   20      2     2     2    20      2     2     2    20      2     2     2    20
+
+                                                                                                                                                                                                                                                                                       Cyclical/Crisis-sensitive                            Acyclical/Crisis-sensitive
+                                                        Crisis-insensitive                                  Crisis-sensitive                                                         Cyclical                              Acyclical                                                   Cyclical/Crisis-insensitive                          Acyclical/Crisis-insensitive
+
+
+
+
+                                Notes: The first panel (left) shows the contributions from financial-crisis-sensitive and financial-crisis-insensitive core PCE inflation.
+                                Sensitive categories are those with a statistically significant and positive coefficient on 2008m9 time dummy in the Phillips curve
+                                specification. Insensitive categories are all other core PCE categories. The second panel (middle) re-displays that from figure 1. The
+                                last panel (right) shows the contributions from cyclical/sensitive, cyclical/insensitive, acyclical/sensitive, and acyclical/insensitive
+                                core PCE inflation.
+                                                                                                    Figure 5: Core PCE Inflation by Sensitivity to the Covid-19 Pandemic
+
+
+
+                  6                                                                                                                                          6                                                                                                                              6
+
+
+                  5                                                                                                                                          5                                                                                                                              5
+
+
+                                                                                                                                                             4                                                                                                                              4
+
+
+                                                                                                                                                             3                                                                                                                              3
+      Core PCE inflation (y/y)
+
+
+                                                                                                                                                             2                                                                                                                              2
+
+
+                                                                                                                                                                                                                                                                                            1
+     1      2        3         4
+                                                                                                                                                             1
+27
+                  0                                                                                                                                          0                                                                                                                              0
+
+
+                  -1                                                                                                                                         -1                                                                                                                             -1
+                                                                                                                                                                                                                                                                                                       1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4
+                                          1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4                                               1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4                                              m m m m m m m m m 1 1 1 m m m m m m m m m 1 1 1 m m m m m m m m m 1 1 1 m m m m
+                                        mmmmmmmmm 1 1 1mmmmmmmmm 1 1 1mmmmmmmmm 1 1 1mmmm                                                                             m m m m m m m m m 1 1 1 m m m m m m m m m 1 1 1 m m m m m m m m m 1 1 1 m m m m                                              19 19 19 19 19 19 19 19 19 9m 9m 9m 20 20 20 20 20 20 20 20 20 0m 0m 0m 21 21 21 21 21 21 21 21 21 1m 1m 1m 22 22 22 22
+                                     19 19 19 19 19 19 19 19 19 9m9m9m20 20 20 20 20 20 20 20 20 0m0m0m21 21 21 21 21 21 21 21 21 1m1m1m22 22 22 22                 19 19 19 19 19 19 19 19 19 9m9m9m20 20 20 20 20 20 20 20 20 0m0m0m21 21 21 21 21 21 21 21 21 1m1m1m22 22 22 22               20 20 20 20 20 20 20 20 20201201201 20 20 20 20 20 20 20 20 20202202202 20 20 20 20 20 20 20 20 20202202202 20 20 20 20
+                                   20 20 20 20 20 20 20 20 20201201201 20 20 20 20 20 20 20 20 20202202202 20 20 20 20 20 20 20 20 20202202202 20 20 20 20        20 20 20 20 20 20 20 20 20201201201 20 20 20 20 20 20 20 20 20202202202 20 20 20 20 20 20 20 20 20202202202 20 20 20 20
+
+
+                                                                                                                                                                                                                                                                                                                       Cyclical/Covid-sensitive                                      Acyclical/Covid-sensitive
+                                                                Covid-insensitive                                            Covid-sensitive                                                                  Cyclical                                   Acyclical                                                     Cyclical/Covid-insensitive                                    Acyclical/Covid-insensitive
+
+
+
+
+                                   Notes: The first panel (left) shows the contributions from Covid-sensitive and Covid-insensitive core PCE inflation. Sensitive
+                                   categories are those with a statistically significant and positive coefficient on 2020m3 time dummy in the Phillips curve specification.
+                                   Insensitive categories are all other core PCE categories. The second panel (middle) re-displays that from figure 1. The last panel
+                                   (right) shows the contributions from cyclical/sensitive, cyclical/insensitive, acyclical/sensitive, and acyclical/insensitive core PCE
+                                   inflation.
+                                            Figure 6: Core PCE Inflation by Type of Sensitivity to the Covid-19 Pandemic
+
+
+
+             5                                                                      5                                                               6
+
+
+                                                                                                                                                    4
+             0                                                                      0
+
+
+                                                                                                                                                    2
+      Price Change (%)                                                       Price Change (%)
+                                                                                                                                                    0
+
+     -10       -5                                                           -10       -5
+28                                                                                                                                                  -2
+                                                                                                                                                                1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4 5 6 7 8 9 0 1 2 1 2 3 4
+                                                                                                                                                              mmmmmmmmm 1 1 1mmmmmmmmm 1 1 1mmmmmmmmm 1 1 1mmmm
+                                                                                                                                                           19 19 19 19 19 19 19 19 19 9m9m9m20 20 20 20 20 20 20 20 20 0m0m0m21 21 21 21 21 21 21 21 21 1m1m1m22 22 22 22
+                                                                                                                           Sensitive: Demand             20 20 20 20 20 20 20 20 20201201201 20 20 20 20 20 20 20 20 20202202202 20 20 20 20 20 20 20 20 20202202202 20 20 20 20
+             -15                                              Insensitive           -15                                    Sensitive: Ambiguous
+                                                              Sensitive                                                    Sensitive: Supply                                          Insensitive                                     Sensitive: Demand
+                                                                                                                                                                                                                                      Sensitive: Ambiguous
+                          -75    -50   -25       0     25     50       75                       -75   -50   -25       0     25      50         75
+                                                                                                                                                                                                                                      Sensitive: Supply
+                                       Quantity Change (%)                                                  Quantity Change (%)
+
+
+
+
+                         Notes:The first panel (left) shows a scatter plot of the change in prices versus the change in quantities by category, between January
+                         and April 2020 (that is, the change between the Jan-Feb avg. and the Mar-Apr avg). Sensitive categories (in blue) are those where
+                         this change (either price or quantity) was statistically different than over the previous 10 years. Insensitive categories (marked
+                         in gray) are all other core PCE categories. Circle sizes indicate the expenditure share in the core PEC index. The second panel
+                         (middle) divides the categories into demand-sensitive, supply-sensitive, and ambiguously-sensitive. The last panel (right) shows the
+                         contributions from insensitive, demand-sensitive, supply-sensitive, and ambiguously-sensitive over time.
+                 Table 1: Categories by Degree of Cyclicality
+
+Category                                                   Cyclical    βiu     SE
+Life Insurance                                                0       2595    2769
+Tobacco                                                       0       5.859   3.044
+Nonprofit Institutions                                        1       2.991   1.165
+Household Paper Products                                      1       2.546   0.492
+Nursing Homes                                                 1       1.756   0.405
+Household Cleaning Products                                   1       1.673   0.313
+Internet Access                                               0       1.589   1.088
+Admissions to Specified Spectator Amusements                  1       1.533   0.422
+Museums & Libraries                                           1       1.310   0.452
+Veterinary & Other Services for Pets                          1       1.271   0.388
+Tires                                                         0       1.266   0.579
+Commercial & Vocational Schools                               0       1.209   0.555
+Labor Organization Dues                                       1       1.205   0.348
+Accessories & Parts                                           1       1.199   0.362
+Religious Organizations’ Services to HHs                      1       1.174   0.410
+Educational Books                                             0       1.161   0.518
+Bicycles & Acc                                                1       1.126   0.443
+Pleasure Boats, Aircraft & Other Recral Vehicles              1       1.125   0.445
+Misc Household Products                                       1       1.025   0.358
+Child Care                                                    1       0.969   0.333
+Package Tours                                                 1       0.874   0.256
+Pets & Related Products                                       0       0.874   0.439
+Amusement Parks/Campgrounds/Rel Recral Svcs                   1       0.873   0.255
+Social Assistance                                             1       0.873   0.234
+Children’s & Infants’ Clothing                                0       0.859   0.822
+Less: Personal Remittances in Kind to Nonresidents            1       0.850   0.308
+Social Advocacy/Civic/Social Organizations                    1       0.747   0.226
+Sales Receipts: Foundatns/Grant Making/Giving Svcs to HH      0       0.736   0.354
+Domestic Services                                             1       0.734   0.295
+Cosmetic/Perfumes/Bath/Nail Preparatns & Implements           0       0.734   0.439
+Less: Exps in the US by Nonresidents                          0       0.694   0.366
+Video Media Rental                                            0       0.684   0.493
+Carpets & Other Floor Coverings                               0       0.677   0.634
+Household Care Services                                       1       0.656   0.192
+Flowers, Seeds & Potted Plants                                0       0.611   1.022
+Cable, Satellite & Oth Live Television Svc                    0       0.601   0.643
+
+
+                                       29
+                 Table 1: Categories by Degree of Cyclicality
+
+Category                                               Cyclical    βiu     SE
+Motor Vehicle Maintenance & Repair                        1       0.580   0.180
+Purchased Meals & Beverages                               1       0.575   0.106
+Other Household Services                                  0       0.573   0.395
+Clothing & Footwear Services                              1       0.565   0.199
+Pari-Mutuel Net Receipts                                  1       0.558   0.153
+Casino Gambling                                           1       0.558   0.153
+Lotteries                                                 1       0.557   0.153
+Major Household Appliances                                0       0.506   0.405
+Window Coverings                                          0       0.503   0.832
+Elec Appliances for Personal Care                         0       0.503   0.450
+Hair/Dental/Shave/Misc Pers Care Prods ex Elec Prod       0       0.503   0.450
+Imputed Rent of Owner-Occupied Nonfarm Hous               1       0.487   0.128
+Moving, Storage & Freight Services                        0       0.476   0.334
+Repair of Furn, Furnishings/Floor Coverings               0       0.475   0.556
+Repair of HH Appliances                                   0       0.475   0.556
+Musical Instruments                                       0       0.457   0.400
+Group Housing                                             1       0.443   0.135
+Rental of Tenant-Occupied Nonfarm Housing                 1       0.429   0.133
+Net Health Insurance                                      0       0.413   0.451
+Prof Assn Dues                                            0       0.379   0.321
+Legal Services                                            0       0.378   0.321
+Food Furn to Empls Price Idx(inc Military)                0       0.367   0.248
+Corrective Eyeglasses & Contact Lenses                    0       0.339   0.273
+Nursery, Elementary & Secondary Schools                   0       0.338   0.182
+Maint/Repair of Rec Vehicles/Sports Eqpt                  0       0.332   0.350
+Pharmaceutical Products                                   0       0.327   0.243
+Standard Clothing Issued to Military Personnel            0       0.326   0.192
+Hotels and Motels                                         0       0.319   0.534
+Women’s & Girls’ Clothing                                 0       0.275   0.391
+Nonelectric Cookware & Tableware                          0       0.269   0.510
+Men’s & Boys’ Clothing                                    0       0.225   0.354
+Jewelry                                                   0       0.210   0.994
+Stationery & Misc Printed Mtls                            0       0.163   0.537
+Shoes & Other Footwear                                    0       0.127   0.398
+Housing at Schools                                        0       0.123   0.295
+Film & Photographic Supplies                              0       0.117   0.465
+
+
+                                        30
+                 Table 1: Categories by Degree of Cyclicality
+
+Category                                               Cyclical     βiu      SE
+Dental Services                                           0         0.116   0.197
+Membership Clubs/Participant Sports Centers               0        0.0571   0.435
+Photo Studios                                             0       0.0461    0.303
+Net Household Insurance                                   0        0.0327   0.882
+Paramedical Services                                      0        0.0150   0.254
+Small Elec Household Appliances                           0       0.00355   0.526
+Used Light Trucks                                         0       -0.0425   1.198
+Accting & Other Business Services                         0       -0.0690   0.342
+Outdoor Equip & Supplies                                  0       -0.0787   0.553
+Ground Transportation                                     0       -0.0843   0.458
+Tools, Hardware & Supplies                                0       -0.0863   0.570
+Sewing Items                                              0        -0.107   0.613
+Clothing Materials                                        0        -0.107   0.613
+Sporting Equip, Supplies, Guns & Ammunition               0        -0.131   0.561
+Foreign Travel by U.S. Residents                          0        -0.146   0.433
+Funeral & Burial Services                                 0        -0.154   0.196
+Postal & Delivery Services                                0        -0.175   1.650
+Therapeutic Medical Equip                                 0        -0.204   0.291
+Other Medical Products                                    0        -0.204   0.291
+Hospitals                                                 0        -0.224   0.315
+Rental Value of Farm Dwellings                            0        -0.235   0.157
+Recreational Books                                        0        -0.257   0.423
+Other Motor Vehicle Services                              0        -0.288   0.521
+Info Processing Equip                                     0        -0.303   0.935
+Photo Processing                                          0        -0.310   0.225
+Physician Services                                        0        -0.317   0.295
+Financial Services Furnished w/out Payment                0        -0.451   0.664
+Watches                                                   0        -0.464   0.832
+New Autos                                                 0        -0.473   0.157
+Household Linens                                          0        -0.479   0.726
+Dishes and Flatware                                       0        -0.480   0.702
+Newspapers & Periodicals                                  0        -0.483   0.303
+Video & Audio Equip                                       0        -0.489   0.541
+Water Supply & Sewage Maintenance                         0        -0.517   0.219
+Garbage & Trash Collection                                0        -0.541   0.302
+New Light Trucks                                          0        -0.550   0.198
+
+
+                                       31
+                 Table 1: Categories by Degree of Cyclicality
+
+Category                                               Cyclical    βiu      SE
+Telecommunication Services                                0       -0.572   0.463
+Clock/Lamp/Lighting Fixture/Othr HH Decorative Item       0       -0.593   0.716
+Photographic Equip                                        0       -0.729   0.540
+Luggage & Similar Personal Items                          0       -0.759   1.757
+Furniture                                                 0       -0.785   0.363
+Motorcycles                                               0       -0.913   0.487
+Repr of Audio-Visual/Photo/Info Process Eqpt              0       -0.915   0.452
+Games, Toys & Hobbies                                     0       -1.013   0.589
+Water Transportation                                      0       -1.057   0.953
+Used Autos                                                0       -1.240   0.775
+Higher Education                                          0       -1.268   0.365
+Telephone and Related Communication Equipment             0       -1.590   0.729
+Expenditures Abroad by U.S. Residents                     0       -1.724   1.344
+Financial Service Charges, Fees/Commissions               0       -1.987   1.111
+Air Transportation                                        0       -5.038   5.468
+Net Motor Vehicle/Oth Transportation Insur                0       -11.93   9.438
+
+
+
+
+                                       32
+          Figure 7: Share of months with surprise change in supply and demand
+
+
+Panel A: Share of months with a surprise change in supply (ordered by difference between pre- and
+post-period)
+
+
+
+
+Panel B: Share of months with a surprise change in demand (ordered by difference between pre- and
+post-period)
+
+
+
+
+                                                   33
+                                   Figure 8: Supply- and Demand-Driven PCE Inflation
+NONCONFIDENTIAL // EXTERNAL
+
+
+
+
+             Notes: The top panel shows the contributions supply- and demand-driven headline PCE inflation. Supply-
+             driven categories are those with a surprise price and quantity change of the opposite sign in a given month.
+             Demand-driven categories are those with a surprise price and quantity change of the same sign in a given
+             month. Ambiguous categories are those with either a surprise price or quantity change that was sufficiently
+             close to zero. The bottom panel shows the same        34
+                                                                decomposition for core PCE inflation.
+                             Table 2: Categories by Sensitivity to Covid-19
+
+Category                                      Insen   Dem   Sup   Amb    βiπ,1    SE       βix,1    SE
+Major Household Appliances                     0       0     1     0     0.032    0.013    -0.15    0.016
+Window Coverings                               0       0     0     1     0.028    0.019    -0.10    0.021
+Photographic Equip                             0       0     0     1     0.027    0.017    -0.14    0.020
+Social Advocacy/Civic/Social Organizations     0       0     1     0     0.024   0.0018    -0.35    0.065
+Household Paper Products                       0       1     0     0     0.023   0.0067    0.082   0.0082
+Flowers, Seeds & Potted Plants                 0       0     1     0     0.023   0.0087   -0.100    0.025
+Musical Instruments                            0       0     1     0     0.021   0.0089    -0.24    0.030
+Video & Audio Equip                            0       0     0     1     0.017   0.0079   -0.079    0.014
+Clock/Lamp/Lighting Fixture                    0       0     0     1     0.016    0.014    -0.19    0.017
+Misc Household Products                        0       0     0     1     0.013   0.0063    0.065    0.015
+Household Cleaning Products                    0       0     0     1     0.012   0.0058    0.085   0.0076
+Tools, Hardware & Supplies                     1       0     0     0     0.011   0.0065   -0.023    0.017
+Household Care Services                        0       0     1     0     0.011   0.0029    -0.61    0.016
+Social Assistance                              0       0     1     0    0.0083   0.0019   -0.049    0.012
+Motor Vehicle Maintenance & Repair             0       0     1     0    0.0069   0.0025    -0.19    0.015
+Photo Processing                               0       0     0     1    0.0067    0.012    -0.48    0.027
+Watches                                        0       0     0     1    0.0057    0.024    -0.38    0.028
+Package Tours                                  0       0     0     1    0.0052   0.0049    -0.81    0.028
+Amusement Parks/Campgrounds                    0       0     0     1    0.0050   0.0049    -0.58    0.023
+Tobacco                                        1       0     0     0    0.0046   0.0053   0.0042    0.015
+Cosmetic/Perfumes/Bath/Nail Preparations       0       0     0     1    0.0045   0.0063    -0.12    0.011
+Membership Clubs/Participant Sports Centers    0       0     0     1    0.0045   0.0089    -0.50    0.024
+Stationery & Misc Printed Mtls                 0       0     0     1    0.0042   0.0097   -0.038    0.014
+Clothing & Footwear Services                   0       0     0     1    0.0038   0.0021    -0.30    0.011
+Nursing Homes                                  0       0     0     1    0.0037   0.0041   -0.036   0.0089
+Admis to Specified Spect Amusements            0       0     0     1    0.0036   0.0087    -0.77    0.035
+Video Media Rental                             1       0     0     0    0.0034   0.0091   0.0035    0.024
+Telecommunication Services                     1       0     0     0    0.0033   0.0089   -0.024    0.012
+Elec Appliances for Personal Care              1       0     0     0    0.0033   0.0064   -0.019    0.011
+Hair/Dental/Shave                              1       0     0     0    0.0033   0.0064    0.011   0.0084
+Outdoor Equip & Supplies                       1       0     0     0    0.0028   0.0060    0.012    0.016
+Educational Books                              0       0     0     1    0.0025   0.0079   -0.073    0.019
+Commercial & Vocational Schools                0       0     0     1    0.0021   0.0041    -0.13    0.017
+Museums & Libraries                            0       0     0     1    0.0020   0.0070    -0.56    0.021
+Telephone and Related Comm Equip               0       0     0     1    0.0019    0.015    -0.26    0.023
+
+                                               35
+                             Table 2: Categories by Sensitivity to Covid-19
+
+Category                                    Insen   Dem   Sup   Amb     βiπ,1     SE        βix,1       SE
+Hospitals                                    0       0     0     1      0.0019   0.0022       -0.33   0.0079
+Expenditures Abroad by U.S. Residents        1       0     0     0      0.0016    0.021      -0.021    0.039
+Dental Services                              0       0     0     1      0.0016   0.0029       -0.48   0.0091
+Labor Organization Dues                      0       0     0     1      0.0014   0.0020       -0.28   0.0044
+Nursery, Elementary & Secondary Schools      0       0     0     1      0.0013   0.0014       -0.13   0.0074
+Rental of Tenant-Occupied Nonfarm Housing    1       0     0     0     0.00091   0.0015     -0.0032   0.0059
+Child Care                                   0       0     0     1     0.00080   0.0022       -0.34    0.019
+Domestic Services                            0       0     0     1    0.00073    0.0040       -0.14    0.012
+Net Household Insurance                      1       0     0     0     0.00070   0.0034     -0.0032   0.0079
+Photo Studios                                0       0     0     1     0.00048   0.0094       -0.75   0.0074
+Group Housing                                1       0     0     0     0.00042   0.0015    -0.00067    0.012
+Imputed Rent Owner-Occupied NF Hous          1       0     0     0     0.00037   0.0015     0.00047   0.00065
+Food Furn to Empls Price Idx                 0       0     0     1     0.00026    0.012       -0.17   0.0052
+Purchased Meals & Beverages                  0       0     0     1     0.00018   0.0013       -0.37   0.0069
+Garbage & Trash Collection                   1       0     0     0     0.00013   0.0047     -0.0015    0.014
+Rental Value of Farm Dwellings               1       0     0     0    0.000028    0.011   -0.000089   0.0017
+Other Household Services                     0       0     0     1    -0.00037   0.0052      -0.093    0.0041
+Paramedical Services                         0       0     0     1    -0.00045   0.0019       -0.19   0.0049
+Repr of Audio-Visual/Photo                   0       0     0     1    -0.00051   0.0038       -0.43    0.031
+Physician Services                           0       0     0     1    -0.00065   0.0026       -0.28   0.0091
+Small Elec Household Appliances              1       0     0     0    -0.00100   0.0095      -0.014    0.012
+Housing at Schools                           0       0     0     1     -0.0011   0.0014       -0.53   0.0025
+Corrective Eyeglasses & Contact Lenses       0       0     0     1     -0.0012   0.0049       -0.29    0.014
+Info Processing Equip                        1       0     0     0     -0.0012   0.0091      -0.021    0.016
+Higher Education                             0       0     0     1     -0.0015   0.0027      -0.031   0.0029
+Net Health Insurance                         1       0     0     0     -0.0017   0.0044    -0.00075    0.011
+Water Supply & Sewage Maintenance            1       0     0     0     -0.0019   0.0028      0.0023    0.0028
+Life Insurance                               1       0     0     0     -0.0021   0.0030      0.0092     0.023
+Motorcycles                                  0       0     0     1     -0.0022    0.028       -0.14    0.048
+Dishes and Flatware                          0       0     0     1     -0.0030    0.028       -0.16    0.026
+Veterinary & Other Services for Pets         0       0     0     1     -0.0032   0.0027       -0.28   0.0082
+Legal Services                               0       0     0     1     -0.0034   0.0064      -0.087    0.026
+Prof Assn Dues                               0       0     0     1     -0.0034   0.0064       -0.40    0.066
+Nonprofit Institutions                       0       0     0     1     -0.0037   0.0050        0.57    0.018
+Carpets & Other Floor Coverings              0       0     0     1     -0.0040    0.010       -0.11    0.020
+Standard Clothing Issued to Military Pers    1       0     0     0     -0.0041   0.0032      0.0027    0.023
+
+
+                                             36
+                              Table 2: Categories by Sensitivity to Covid-19
+
+Category                                     Insen   Dem   Sup   Amb    βiπ,1     SE      βix,1     SE
+Tires                                         0       0     0     1    -0.0041   0.0070    -0.13    0.016
+Cable, Satellite & Oth Live Television Svc    1       0     0     0    -0.0041   0.0043   -0.014    0.012
+Recreational Books                            0       0     0     1    -0.0043    0.011   -0.061    0.022
+Funeral & Burial Services                     0       0     0     1    -0.0044   0.0021    -0.26   0.036
+Luggage & Similar Personal Items              0       0     0     1    -0.0046    0.011    -0.43    0.015
+New Autos                                     0       0     0     1    -0.0046   0.0043    -0.35    0.043
+Sporting Equip, Supplies, Guns & Ammo         0       0     0     1    -0.0046   0.0062   -0.038    0.016
+Games, Toys & Hobbies                         1       0     0     0    -0.0050   0.0068    0.020    0.016
+Accting & Other Business Services             0       0     0     1    -0.0052    0.010    -0.26   0.0050
+Accessories & Parts                           0       0     0     1    -0.0054   0.0045    -0.17    0.012
+Moving, Storage & Freight Services            0       0     0     1    -0.0058    0.016    -0.13    0.018
+Repair of HH Appliances                       1       0     0     0    -0.0061    0.011   -0.073    0.036
+Repair of Furn, Furnishings                   1       0     0     0    -0.0061    0.011   -0.083    0.046
+Pharmaceutical Products                       1       0     0     0    -0.0062   0.0053    0.019   0.0086
+New Light Trucks                              0       0     0     1    -0.0062   0.0029    -0.26    0.039
+Net Motor Vehicle/Oth Trans Insur             0       0     0     1    -0.0065   0.0049   -0.094   0.0066
+Therapeutic Medical Equip                     0       0     0     1    -0.0072   0.0082    -0.14    0.012
+Other Medical Products                        0       0     0     1    -0.0072   0.0082    -0.14    0.012
+Postal & Delivery Services                    0       0     0     1    -0.0077   0.0063     0.13    0.012
+Household Linens                              0       0     0     1    -0.0096    0.020    -0.14    0.021
+Newspapers & Periodicals                      0       0     0     1    -0.0100    0.010    0.11     0.018
+Pets & Related Products                       0       0     0     1     -0.011   0.0046    0.027   0.0094
+Sales Receipts Foundatns/Grant Making         0       1     0     0     -0.011   0.0032    -0.29    0.072
+Lotteries                                     0       1     0     0     -0.011   0.0029    -0.14   0.0032
+Casino Gambling                               0       1     0     0     -0.011   0.0029    -0.72    0.019
+Pari-Mutuel Net Receipts                      0       1     0     0     -0.011   0.0029    -0.48    0.040
+Financial Svc Charges, Fees/Comm              1       0     0     0     -0.011    0.011    0.028    0.014
+Furniture                                     0       1     0     0     -0.015   0.0064    -0.18    0.015
+Ground Transportation                         0       1     0     0     -0.019   0.0058    -0.65    0.013
+Less Pers Remit in Kind to Nonres             0       0     0     1     -0.020   0.0072   -0.027     0.12
+Religious Organizations’ Services to HHs      0       1     0     0     -0.023   0.0036   -0.019   0.0038
+Men’s & Boys’ Clothing                        0       1     0     0     -0.024   0.0084    -0.37    0.011
+Financial Services Furnished w/out Payment    0       0     0     1     -0.024   0.0095   -0.016    0.010
+Other Motor Vehicle Services                  0       1     0     0     -0.024   0.0070    -0.26   0.0093
+Maint/Repair of Rec Vehicles/Sports Eqpt      0       1     0     0     -0.026   0.0071    -0.57   0.0041
+Nonelectric Cookware & Tableware              0       1     0     0     -0.026    0.011    -0.14    0.015
+
+
+                                              37
+                               Table 2: Categories by Sensitivity to Covid-19
+
+Category                                     Insen   Dem   Sup   Amb    βiπ,1    SE      βix,1     SE
+Used Light Trucks                              0      1     0     0    -0.030   0.0075    -0.27   0.032
+Pleasure Boats, Aircraft                       0      1     0     0    -0.032    0.012    -0.24   0.032
+Internet Access                                0      0     0     1    -0.032   0.0063    0.023   0.011
+Bicycles & Acc                                 0      0     0     1    -0.033    0.012   -0.010   0.021
+Less Exps in the US by Nonres                  0      1     0     0    -0.034   0.0055    -0.47   0.024
+Jewelry                                        0      0     0     1    -0.035    0.017    -0.36   0.024
+Film & Photographic Supplies                   0      0     0     1    -0.036    0.030   -0.078   0.031
+Water Transportation                           0      1     0     0    -0.044   0.0098    -0.58   0.039
+Shoes & Other Footwear                         0      1     0     0    -0.048   0.0076    -0.39   0.014
+Women’s & Girls’ Clothing                      0      1     0     0    -0.049    0.010    -0.38   0.014
+Foreign Travel by U.S. Residents               0      1     0     0    -0.060   0.0075    -0.67   0.022
+Used Autos                                     0      1     0     0    -0.065   0.0085    -0.25   0.033
+Children’s & Infants’ Clothing                 0      1     0     0    -0.066    0.014    -0.22   0.017
+Clothing Materials                             0      1     0     0    -0.066    0.020    -0.10   0.031
+Sewing Items                                   0      1     0     0    -0.066    0.020    -0.12   0.028
+Hotels and Motels                              0      1     0     0     -0.11    0.013    -0.64   0.015
+Air Transportation                             0      1     0     0     -0.16    0.020    -0.72   0.020
+
+
+
+
+                                              38
+

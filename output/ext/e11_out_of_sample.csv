@@ -1,0 +1,8 @@
+version,rmse_quarterly,rmse_4q,mean_error
+model (GSCPI),1.31,1.083,1.095
+supply = delivery times,1.018,0.709,0.66
+supply = unfilled orders,1.038,0.745,0.599
+supply = composite,1.368,1.135,1.159
+wage equation through 2021,1.814,1.563,1.622
+no change (2021Q4 4-quarter rate),2.537,2.089,1.813
+AR(4) on inflation,2.241,1.948,-1.698

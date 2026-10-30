@@ -1,0 +1,6 @@
+item,series,estimate,se
+"A. third checks, extra spending vs trend, 6 weeks",spend_all,0.0154,
+"A. third checks, extra spending vs trend, 6 weeks",spend_all_q1,0.0835,
+"A. implied share of the $390bn spent within 6 weeks (all cards, rough)",spend_all,0.0683,
+B. early UI end: spending change in ending states (share of Jan-2020 level),spend_all_q1,-0.0097,0.0053
+B. early UI end: spending change in ending states (share of Jan-2020 level),spend_all,-0.0072,0.0036

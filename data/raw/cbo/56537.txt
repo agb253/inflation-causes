@@ -1,0 +1,935 @@
+ CONGRESS OF THE UNITED STATES
+ CONGRESSIONAL BUDGET OFFICE
+
+
+
+
+    The Effects of
+ Pandemic-Related
+Legislation on Output
+
+
+
+
+                                 © Drazen Zigic/Shutterstock.com
+
+
+
+
+   SEPTEMBER 2020
+                                                             At a Glance
+                         In March and April of 2020, four major federal laws were enacted to
+                         address the public health emergency and the economic distress created by
+                         the 2020 coronavirus pandemic. That legislation provides financial sup-
+                         port to households, businesses, and state and local governments. In this
+                         report, the Congressional Budget Office estimates the legislation’s effects on
+                         economic output.
+
+                         • Deficits. The legislation is projected to add $2.3 trillion to the deficit in
+                             fiscal year 2020 and $0.6 trillion in 2021.
+
+                         • Short-Term Effects. CBO estimates that the legislation will increase
+                             the level of real (inflation-adjusted) gross domestic product (GDP) by
+                             4.7 percent in 2020 and 3.1 percent in 2021. From fiscal year 2020
+                             through 2023, for every dollar that it adds to the deficit, the legislation is
+                             projected to increase GDP by about 58 cents.
+
+                         • Longer-Term Effects. By increasing debt as a percentage of GDP, the
+                             legislation is expected to raise borrowing costs, lower economic output, and
+                             reduce national income in the longer term.
+
+                         • Uncertainty. The estimates in this report are subject to considerable
+                             uncertainty, especially because of factors associated with the pandemic.
+
+
+
+
+                                                                                                                 www.cbo.gov/publication/56537
+
+CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+                                          Contents
+Summary                                                                        1
+Short-Term Effects                                                             1
+Longer-Term Effects                                                            2
+Uncertainty                                                                    2
+
+The Legislation                                                                2
+
+The Economic Effects of the Legislation                                        3
+How the Overall Legislation Affects Output in the Short Term                   4
+How Different Provisions of the Legislation Affect Output in the Short Term    8
+How the Legislation Affects Output in the Longer Term                         11
+
+Uncertainty Surrounding the Effects of the Legislation                        11
+Economic Effects of Changes in Fiscal Policy Under Current Circumstances      12
+Effects of Social Distancing and the Trajectory of the Pandemic               13
+
+List of Tables and Figures                                                    14
+
+About This Document                                                           15
+                                         Notes
+This report presents estimates of the effects of pandemic-related legislation on real
+(inflation-adjusted) gross domestic product. Those effects were incorporated into the
+Congressional Budget Office’s July economic forecast (www.cbo.gov/publication/56442).
+The estimates in this report are presented in relation to an implied projection of real GDP
+that does not include the effects of the legislation—a projection computed by removing
+the estimated effects of the legislation from the July forecast. However, CBO did not
+construct a comprehensive projection of what the economy would have looked like
+without those legislative effects.
+
+Unless the report indicates otherwise, all years referred to are calendar years.
+
+Numbers in the text, tables, and figures may not add up to totals because of rounding.
+
+For a more detailed discussion of the methods that CBO used, see John Seliski and others,
+Key Methods That CBO Used to Estimate the Effects of Pandemic-Related Legislation on
+Output, Working Paper 2020-07 (Congressional Budget Office, forthcoming).
+
+CBO has corrected this report since its original publication. Corrections are listed at the
+end of the report.
+                              The Effects of Pandemic-Related
+                                   Legislation on Output
+
+
+Summary                                                                          to individuals will boost the overall demand for goods and
+In March and April of 2020, four major federal laws                              services by providing resources to households, many of
+were enacted in response to the 2020 coronavirus                                 which have experienced a significant loss in income. Loans,
+pandemic. Those laws, which contained a wide array                               grants, and tax benefits will provide liquidity to businesses
+of conventional and unconventional fiscal policies, will                         experiencing financial distress, increasing the likelihood
+add $2.3 trillion to the deficit in fiscal year 2020 and                         that they will survive and preserve jobs for their employees
+$0.6 trillion in 2021, according to the Congressional                            while economic activity is weak. Federal assistance to state
+Budget Office’s estimates.                                                       and local governments will help pay for rising expenditures
+                                                                                 related to the pandemic as those governments’ tax revenues
+By providing financial support to households, busi-                              fall. And payments to health care providers will help sup-
+nesses, and state and local governments, the legisla-                            port further testing for and treatment of COVID-19, the
+tion will offset part of the deterioration in economic                           disease caused by the coronavirus.
+conditions brought about by the pandemic.1 CBO
+estimates that the legislation will boost the level of real                      Over the next several years, as a result of the pandemic,
+(inflation-adjusted) gross domestic product (GDP) by                             output is projected to remain well below its potential
+4.7 percent in 2020 and 3.1 percent in 2021.2 From fis-                          level, and inflation is projected to stay below the Federal
+cal year 2020 through 2023, for every dollar that it adds                        Reserve’s long-run objective. CBO therefore expects that
+to the deficit, the legislation is projected to increase GDP                     the Federal Reserve will not respond to the legislation’s
+by about 58 cents.3 In the longer term, the legislation                          effect on demand by raising short-term interest rates. So
+will reduce the level of real GDP, CBO estimates. All of                         the boost to output is expected to be larger than it would
+those estimates are subject to considerable uncertainty.                         have been if output had been closer to its potential and
+                                                                                 inflation had been higher, because then the Federal
+Short-Term Effects                                                               Reserve would have been more likely to respond.
+In the short term—that is, from 2020 through 2023—
+the pandemic-related legislation will affect the economy                         In CBO’s assessment, the short-term boost in economic
+through several channels. Payments and tax credits issued                        activity caused by the legislation will be tempered by
+                                                                                 social distancing, especially during the second and third
+1. The economic forecast that CBO published this past July                       quarters of this year. Social distancing refers to certain
+   incorporated the estimated economic effects of the recent                     actions that households, businesses, and governments in
+   legislation that are discussed in this report. See Congressional              the United States and around the world have taken to
+   Budget Office, An Update to the Economic Outlook: 2020 to                     limit in-person interactions and thus slow the spread of
+   2030 (July 2020), www.cbo.gov/publication/56442.
+                                                                                 the coronavirus. Those actions include reducing social
+2. Those estimates do not include the effects of nonlegislative                  activities, dining out, and travel; curtailing the activity of
+   actions, such as those taken by the Federal Reserve (for example,             schools and businesses; prohibiting large gatherings; and
+   lowering interest rates and purchasing mortgage-backed and
+                                                                                 working from home. CBO estimates that social distanc-
+   Treasury securities) and the Administration (for example,
+   delaying deadlines for filing taxes). The estimates do account                ing will cause the economic boost resulting from the
+   for the legislation’s funding of lending facilities established by            legislation to be smaller than it would have been during a
+   the Federal Reserve to support the flow of credit to businesses,              period without social distancing. CBO also expects that
+   households, and state and local governments.                                  some of the spending by individuals and businesses that
+3. That number does not incorporate the effects of the Federal                   is hampered in the near term by social distancing will
+   Reserve’s lending facilities.                                                 resume as those measures continue to ease.
+ CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+2 The Effects of Pandemic-Related Legislation on Output                                                                September 2020
+
+
+
+   Longer-Term Effects                                           businesses and payments to health care providers sup-
+   The legislation will increase federal debt as a percent-      plied in the CARES Act.4
+   age of GDP, and in the longer term, CBO expects that
+   increase to raise borrowing costs, lower economic output,     This report analyzes the following provisions in the
+   and reduce the income of U.S. households and busi-            four laws.
+   nesses. In addition, the higher debt—coming at a time
+   when the longer-term path for debt was already high—          • Paycheck Protection Program and Related Provisions.
+   could eventually increase the risk of a fiscal crisis or of       Through the Paycheck Protection Program (PPP),
+   less abrupt economic changes, such as higher inflation or         the legislation funds loan guarantees for loans to
+   the undermining of the U.S. dollar’s predominant role             small businesses to help them cover payroll and
+   in global financial markets. The timing and likelihood of         other costs. CBO expects most PPP loans to be
+   those effects are not possible to estimate with precision.        forgiven, so they will effectively become grants. In
+                                                                     addition, the legislation allocates funds to the Small
+   Uncertainty                                                       Business Administration (SBA), which lends them
+   CBO’s estimates of the economic effects of the legislation        to businesses, provides debt relief, and administers
+   are subject to considerable uncertainty and represent the         the Economic Injury Disaster Loan (EIDL)
+   middle of the distribution of potential outcomes. Some            program. That program provides grants to businesses
+   important sources of that uncertainty are how consumers           experiencing a temporary loss in income.
+   and businesses may respond to various policy changes
+   included in the legislation; how the timing, scale, and       • Enhanced Unemployment Compensation. The
+   breadth of the legislation may affect consumers’ and              legislation temporarily increased unemployment
+   businesses’ confidence; how responses to policy changes           benefits by $600 per week through July 31, 2020. In
+   may be altered by the pandemic and social distancing;             addition, the legislation created a temporary program
+   what the course of the pandemic may be; how social dis-           for people not otherwise eligible for unemployment
+   tancing may change; and how quickly safe and effective            benefits, such as self-employed workers and
+   vaccines and therapies may become widely available.               independent contractors, and extended the number
+                                                                     of weeks of federally funded benefits available to
+   The Legislation                                                   beneficiaries who qualified for regular unemployment
+   This past March and April, four major federal laws were           insurance in 2020. Finally, the legislation allowed
+   enacted to address the public health emergency cre-               states to waive work-search requirements for people
+   ated by the pandemic and to directly assist households,           receiving benefits.
+   businesses, and nonfederal governments affected by the
+   economic downturn. The Coronavirus Preparedness               • Recovery Rebates for Individuals. The legislation
+   and Response Supplemental Appropriations Act,                     provides a refundable tax credit of $1,200 per
+   2020 (Public Law 116-123), and the Families First                 qualifying adult and $500 per dependent child to
+   Coronavirus Response Act (P.L. 116-127) increased                 taxpayers with income below specified limits. The
+   federal funding for some federal agencies and for state           tax credit begins phasing out once the income of
+   and local governments, required employers to grant                individuals and of married couples filing jointly
+   paid sick leave to employees, and provided payments               passes $75,000 and $150,000, respectively.
+   and tax credits to employers. The Coronavirus Aid,
+   Relief, and Economic Security (CARES) Act (P.L. 116-
+   136) provided loans to businesses, payments to health         4. For the purposes of this analysis, to account for the estimated
+                                                                    outlays of P.L. 116-123, CBO used its cost estimate for
+   care providers, payments and tax credits to individuals,
+                                                                    H.R. 6074, the Coronavirus Preparedness and Response
+   additional funding to state and local governments, and           Supplemental Appropriations Act, 2020 (March 4, 2020),
+   reductions in certain business taxes. Finally, the Paycheck      www.cbo.gov/publication/56227. In contrast, CBO’s baseline
+   Protection Program and Health Care Enhancement Act               budget projections incorporate funding for 2020 provided in
+   (P.L. 116-139) increased federal funding for the loans to        P.L. 116-123 and adjust it for inflation for each subsequent
+                                                                    year through fiscal year 2030. For more detail about the other
+                                                                    laws’ provisions and their budgetary effects, see Congressional
+                                                                    Budget Office, An Update to the Budget Outlook: 2020 to
+                                                                    2030 (September 2020), www.cbo.gov/publication/56517.
+September 2020                                                             The Effects of Pandemic-Related Legislation on Output   3
+
+
+
+• Direct Assistance for State and Local Governments.         GDP in 2020 and 2.7 percent in 2021. Over the 2020–
+   The legislation provides grants to state and              2030 period, the laws are projected to add $2.6 trillion
+   local governments—and to tribal and territorial           to the deficit (an amount that does not include budgetary
+   governments as well—for spending related to the           changes resulting from the laws’ effects on the economy).5
+   pandemic.
+                                                             Some measures recently taken by the Federal Reserve are
+• Other Spending Provisions. The legislation provides        not analyzed in this report. The Federal Reserve lowered
+  funding to the Department of Health and Human              its target range for the federal funds rate—the interest
+  Services, the Department of Defense, the Department        rate that financial institutions charge each other for over-
+  of Agriculture, the Department of Housing and              night loans of their monetary reserves—nearly to zero.
+  Urban Development, the Federal Emergency                   It also established several facilities, some of them similar
+  Management Agency, the Department of Veterans              to those created during the 2007–2009 financial crisis,
+  Affairs, and the Department of Transportation. It also     to support certain financial markets and to help corpora-
+  increases funding for the Supplemental Nutrition           tions and municipalities raise funds. And it made tempo-
+  Assistance Program and for public health programs,         rary adjustments to regulations to let banks expand their
+  such as Medicaid and Medicare. Furthermore, it             balance sheets to support their customers.
+  provides aid to people who have student loans (by
+  temporarily suspending their loan payments), credit        The Economic Effects of the Legislation
+  assistance to airlines and other businesses, and relief    CBO expects the pandemic-related legislation to affect
+  to aviation workers.                                       the economy in both the short term and the longer
+                                                             term.6 In the short term, the legislation will boost the
+• Other Revenue Provisions. The legislation modifies         economy, mainly by providing temporary support to
+   the rules relating to net operating loss deductions       individuals, businesses, and state and local governments
+   and increases the limits on the losses and on the         and by stimulating the overall demand for goods and
+   business interest deductions that businesses can          services. However, the boost to economic activity will
+   use to offset their taxable income. Those changes         be tempered by social distancing. Also, the economic
+   provide businesses with liquidity by letting them         effects of the legislation will diminish over time as the
+   claim certain tax benefits sooner than they would         economy’s output approaches its potential (or maxi-
+   otherwise have been able to. The legislation              mum sustainable) level, which is projected to grow more
+   also provides payroll tax credits to employers to         slowly over the next few years than CBO projected in
+   encourage them to retain employees, along with            January 2020 because of the pandemic.7 And the various
+   refundable credits to compensate them for providing       policies contained in the legislation will influence output
+   paid sick leave and family and medical leave. It          in different ways, so the economic boost per dollar of
+   delays payroll tax payments by businesses, further        budgetary cost will vary.
+   providing temporary liquidity. And it shifts some
+   of the costs of unemployment benefits from state          In the longer term, the legislation is projected to increase
+   and local governments and nonprofits to the federal       the ratio of federal debt to GDP. High and rising federal
+   government.                                               debt makes the economy more vulnerable to rising
+                                                             interest rates and also to rising inflation, depending on
+• The Federal Reserve’s Emergency Lending Facilities.        how that debt is financed. The growing debt burden
+   The legislation provides loss-absorbing capital to
+   Federal Reserve programs called facilities, which act
+                                                             5. The amount is smaller than the increase in the deficit in fiscal
+   as a backstop to financial markets by making loans           years 2020 and 2021 because later in the period, the legislation
+   or purchasing assets under the Federal Reserve’s             will result in some increases in revenues.
+   emergency lending authority.
+                                                             6. CBO did not analyze the effects of any legislation enacted,
+                                                                executive orders made, or Federal Reserve actions taken after
+In total, the pandemic-related legislation is projected         August 4, 2020.
+to increase the federal deficit by about $2.3 trillion in
+                                                             7. See Congressional Budget Office, “Supplemental Material for
+fiscal year 2020 and $0.6 trillion the following year (see      An Update to the Economic Outlook: 2020 to 2030” (July 2020),
+Table 1). Those amounts equal about 11.2 percent of             www.cbo.gov/publication/56442.
+4 The Effects of Pandemic-Related Legislation on Output                                                                                        September 2020
+
+
+
+    Table 1 .
+    The Effects of Pandemic-Related Legislation on the Deficit
+    Billions of Dollars
+                                                                                                                                              Total
+                                                                       2020            2021            2022            2023       2020–2023 2024–2030
+                                                            a
+   Paycheck Protection Program and Related Provisions                  616              13                0              0            628                0
+   Enhanced Unemployment Compensation                                  370              71                0              0            442                0
+   Recovery Rebates for Individualsb                                   272              20                0              0            292                0
+   Direct Assistance for State and Local Governments                   150               *                0              0            150                0
+   Other Spending Provisionsc                                          359             218              101             21            700               13
+   Other Revenue Provisionsd                                           539             253             -186           -182            425              -50
+   Federal Reserve’s Emergency Lending Facilities                       11               0                0              0             11                0
+      Total                                                          2,317             576              -85           -160          2,648              -37
+
+    Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.
+    The years shown are federal fiscal years.
+    Positive numbers indicate an increase in the deficit.
+    Because of rounding, values in this table may not correspond precisely to values in Congressional Budget Office, An Update to the Budget Outlook:
+    2020 to 2030 (September 2020), www.cbo.gov/publication/56517. In addition, for the purposes of this analysis, to account for the estimated outlays of
+    Public Law 116-123, CBO used its cost estimate for H.R. 6074, the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020
+    (March 4, 2020), www.cbo.gov/publication/56227. In contrast, CBO’s baseline budget projections incorporate funding for 2020 provided in P.L. 116-
+    123 and adjust it for inflation for each subsequent year through fiscal year 2030.
+    * = between zero and $500 million.
+    a. The provisions related to the Paycheck Protection Program provide funds to the Small Business Administration to support business liquidity through
+       existing lending programs, debt relief, and the Economic Injury Disaster Loan program.
+    b. Incorporates the effects of the Coronavirus Aid, Relief, and Economic Security (CARES) Act on both outlays and revenues.
+    c. Includes aid for student loans, credit assistance for airlines and other businesses, relief for aviation workers, health care spending, the education
+       stabilization fund, and increased funding for the Department of Health and Human Services, the Federal Emergency Management Agency, the
+       Department of Veterans Affairs, and the Department of Transportation.
+    d. Includes payroll tax credits for employers, modifications of the net operating loss and business interest deductions, limitations on the losses that
+       businesses can use to offset tax liability, and a delay of certain payroll taxes.
+
+
+   also raises borrowing costs, slowing the growth of the                            time during a recession. All of those effects are beyond
+   economy and national income, and it could increase the                            the scope of this report.
+   risk of a fiscal crisis or a gradual decline in the value of
+   Treasury securities.                                                              How the Overall Legislation Affects
+                                                                                     Output in the Short Term
+   In addition to affecting overall economic activity                                CBO estimates that the legislation will boost the econ-
+   as measured by real GDP, the legislation will affect                              omy over the next few years by increasing federal spend-
+   other important aspects of the economy and people’s                               ing and reducing federal revenues. The legislation will
+   well-being. For example, several provisions of the leg-                           increase the level of real GDP by 4.7 percent in 2020
+   islation affect people’s access to medical care and food.                         and 3.1 percent in 2021, CBO projects (see Table 2).
+   Other provisions fund medical research to develop a                               And from fiscal year 2020 through 2023, the legislation
+   vaccine. Still other provisions delay evictions and mort-                         is projected to increase GDP by about 58 cents for every
+   gage foreclosures. Also, the legislation has significant                          dollar that it adds to the deficit (see Table 3).8 The effects
+   effects on the distribution of income. And it may prevent                         of the legislation on economic activity will be largest in
+   some longer-term damage to the economy and to peo-
+   ple’s financial prospects—for example, by reducing the                            8. That number does not incorporate the effects of the Federal
+   adverse effects of entering the labor market for the first                           Reserve’s lending facilities.
+
+
+
+    CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+September 2020                                                                                   The Effects of Pandemic-Related Legislation on Output            5
+
+
+
+Table 2 .
+The Effects of Pandemic-Related Legislation on Real GDP
+Percent
+                                                                2020                               2021                              Annual
+Policy                                                  Q1     Q2       Q3      Q4        Q1      Q2       Q3      Q4       2020   2021      2022     2023
+                                                  a
+Paycheck Protection Program and Related Provisions       0     0.9     1.4      1.0      0.7      0.4     0.2      0.1       0.8     0.3          *           *
+Enhanced Unemployment Compensation                       0     1.1     1.8      1.5      0.8      0.5     0.3      0.1       1.1     0.4          *           *
+Recovery Rebates for Individualsb                        0     1.1     0.8      0.6      0.6      0.3     0.1      0.1       0.6     0.3          *           *
+Direct Assistance for State and Local Governments        0     0.3     0.9      0.8      0.4      0.2     0.1        *       0.5     0.2          *           0
+Other Spending Provisionsc                               0     1.1     1.9      1.6      1.5      1.3     1.1      0.7       1.1     1.1        0.4         0.1
+Other Revenue Provisionsd                                0     0.5     1.1      0.7      0.6      0.9     0.4      0.2       0.6     0.5       -0.1        -0.2
+Federal Reserve’s Emergency Lending Facilities           0       *     0.2      0.3      0.4      0.3     0.2      0.2       0.1     0.3          *        -0.1
+   Total                                                 0     5.0     8.1      6.4      5.0      4.0     2.4      1.3       4.7     3.1        0.3        -0.1
+Memorandum:
+Real GDP Without the Effects of the Legislation
+  Real GDP (Billions of 2012 dollars)                 4,744 4,064 4,103 4,250          4,369 4,466 4,596 4,680             17,161 18,112 19,159 19,652
+  Growth since previous quarter (Percent)               -1.3 -14.3   1.0   3.6            2.8   2.2   2.9   1.8               n.a.   n.a.   n.a.   n.a.
+  Growth at annualized rates (Percent)                  -5.0 -46.2   3.9 15.1           11.7    9.2 12.2    7.5             -10.0     5.5    5.8    2.6
+Real GDP in CBO’s Current Economic Forecast
+  Real GDP (Billions of 2012 dollars)                 4,744 4,266 4,436 4,522          4,588 4,646 4,706 4,740             17,968 18,679 19,222 19,631
+  Growth since previous quarter (Percent)               -1.3 -10.1   4.0   1.9            1.5   1.3   1.3   0.7               n.a.   n.a.   n.a.   n.a.
+  Growth at annualized rates (Percent)                  -5.0 -34.6 17.0    7.9            6.0   5.1   5.3   2.9               -5.8    4.0    2.9    2.1
+
+Source: Congressional Budget Office.
+These values are presented as a percentage of an implied projection of real GDP that does not include the effects of pandemic-related legislation—a
+projection computed by removing the estimated effects of the legislation from CBO’s July economic forecast. However, CBO did not construct a
+comprehensive projection of what the economy would have looked like without those legislative effects. See Congressional Budget Office, An Update
+to the Economic Outlook: 2020 to 2030 (July 2020), www.cbo.gov/publication/56442.
+n.a. = not applicable; * = between zero and 0.05 percent.
+a. The provisions related to the Paycheck Protection Program provide funds to the Small Business Administration to support business liquidity through
+   existing lending programs, debt relief, and the Economic Injury Disaster Loan program.
+b. Incorporates the effects of the Coronavirus Aid, Relief, and Economic Security (CARES) Act on both outlays and revenues.
+c. Includes aid for student loans, credit assistance for airlines and other businesses, relief for aviation workers, health care spending, the education
+   stabilization fund, and increased funding for the Department of Health and Human Services, the Federal Emergency Management Agency, the
+   Department of Veterans Affairs, and the Department of Transportation.
+d. Includes payroll tax credits for employers, modifications of the net operating loss and business interest deductions, limitations on the losses that
+   businesses can use to offset tax liability, and a delay of certain payroll taxes.
+
+
+the second half of 2020 and smaller thereafter. CBO’s                             CBO published in July. However, CBO did not con-
+estimates take into account the effects of social distanc-                        struct a comprehensive projection of what the economy
+ing, the Federal Reserve’s policy, and increased federal                          would have looked like without those legislative effects.9
+borrowing.
+                                                                                  CBO’s current projections of real GDP growth (which
+The estimated effects of the legislation on real GDP are                          include the effects of the legislation) are −5.8 percent in
+presented in relation to an implied projection of real                            2020 and 4.0 percent in 2021. CBO’s analysis indicates
+GDP that does not include the effects of the legisla-                             that without the legislation, real GDP growth would
+tion—a projection computed by removing the estimated
+effects of the legislation from the economic forecast that                        9. Such a comprehensive projection would include, for example,
+                                                                                     projections of employment, interest rates, and inflation.
+
+
+
+
+ CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+6   The Effects of Pandemic-Related Legislation on Output                                                                                         September 2020
+
+
+
+    Table 3 .
+    The Effects of Pandemic-Related Legislation on the Deficit and on GDP, Fiscal Years 2020 to 2023
+
+                                                                                                                                       Cumulative Effect on
+                                                                        Effect on the Deficit        Cumulative Effect on GDP         GDP per Dollar of Effect
+    Policy                                                              (Billions of Dollars)a         (Billions of Dollars)          on the Deficit (Dollars)
+    Paycheck Protection Program and Related Provisionsb                          628                              226                            0.36
+    Enhanced Unemployment Compensation                                           442                              297                            0.67
+    Recovery Rebates for Individualsc                                            292                              175                            0.60
+    Direct Assistance for State and Local Governments                            150                              132                            0.88
+    Other Spending Provisionsd                                                   700                              548                            0.78
+    Other Revenue Provisionse                                                    425                              157                            0.37
+       Totalf                                                                  2,637                            1,535                            0.58
+
+    Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.
+    GDP = gross domestic product.
+    a. Positive numbers indicate an increase in the deficit.
+    b. The provisions related to the Paycheck Protection Program provide funds to the Small Business Administration to support business liquidity through
+       existing lending programs, debt relief, and the Economic Injury Disaster Loan program.
+    c. Incorporates the effects of the Coronavirus Aid, Relief, and Economic Security (CARES) Act on both outlays and revenues.
+    d. Includes aid for student loans, credit assistance for airlines and other businesses, relief for aviation workers, health care spending, the education
+       stabilization fund, and increased funding for the Department of Health and Human Services, the Federal Emergency Management Agency, the
+       Department of Veterans Affairs, and the Department of Transportation.
+    e. Includes payroll tax credits for employers, modifications of the net operating loss and business interest deductions, limitations on the losses that
+       businesses can use to offset tax liability, and a delay of certain payroll taxes.
+    f. The effects of the Federal Reserve’s emergency lending facilities on GDP are not directly related to the facilities’ effects on the deficit. Therefore,
+       CBO did not include the effects of those facilities on the deficit or on GDP in the totals in this table or calculate their effects on GDP per dollar of
+       effect on the deficit.
+
+
+    have been about −10.0 percent in 2020 and 5.5 percent                             half of this year and diminish further next year. As the
+    in 2021.10                                                                        pandemic wanes and social distancing declines, some
+                                                                                      of the spending by individuals and businesses that is
+    Social Distancing. In CBO’s assessment, though the                                hampered by social distancing will resume, CBO expects.
+    legislation will increase economic activity by boost-                             After the first half of 2021, social distancing is expected
+    ing overall demand, social distancing will temper that                            to stop inhibiting the effects of the legislation on overall
+    increase. When people limit their social interactions,                            demand, though lingering uncertainty about the safety
+    they reduce households’ and businesses’ demand for                                of some activities may continue to hold back spending
+    goods and services. In addition, many businesses are                              on some services.
+    operating at limited capacity, and the number of hours
+    worked is lower than usual because of public health                               Economic Conditions and the Federal Reserve’s Policy.
+    considerations, keeping the supply of certain goods and                           To estimate the effects of higher federal spending and
+    services suppressed.                                                              lower revenues on overall demand, CBO considers
+                                                                                      evidence about the effects of similar policies in the past
+    In its current economic projections, CBO expects that                             and uses results produced by macroeconomic models.11
+    the degree of social distancing will decline by about
+    two-thirds from its April 2020 peak during the second                             11. For a recent review of research about the economic effects of
+                                                                                          fiscal policy, see Valerie A. Ramey, “Ten Years After the Financial
+    10. Growth would have been faster in 2021 without the legislation                     Crisis: What Have We Learned From the Renaissance in Fiscal
+        because the growth rate depends on the level of GDP in 2020,                      Research?” Journal of Economic Perspectives, vol. 33, no. 2 (Spring
+        which would have been lower without the legislation.                              2019), pp. 89–114, https://doi.org/10.1257/jep.33.2.89.
+
+
+
+
+     CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+September 2020                                                                            The Effects of Pandemic-Related Legislation on Output     7
+
+
+
+In CBO’s assessment, the effects of changes in spending                     Crowding Out. The legislation will increase federal defi-
+or revenues on output are larger when the economy is                        cits substantially in fiscal years 2020 and 2021, and that
+weak or when short-term interest rates are near zero and                    borrowing could have long-lasting economic effects.13
+are expected to remain there for several years, a situation                 Under normal circumstances, the increased deficits
+known as being at the effective lower bound.12 At such                      would reduce national saving, and then private invest-
+times, the Federal Reserve would not respond, in CBO’s                      ment, in part by causing interest rates to be higher than
+view, by raising short-term interest rates to restrain the                  they would be otherwise, a process called crowding out.14
+boost in overall demand. In contrast, if the increase in                    As a result, workers would, on average, have less capi-
+spending or the reduction in revenues occurred when                         tal to use in their jobs. They would be less productive,
+output was at or above its potential level, the Federal                     their compensation would be lower, they would thus be
+Reserve would probably raise the path of short-term                         inclined to work less, and output would decline.
+interest rates to prevent inflation from rising above its
+long-term goal, thereby restraining the boost in overall                    However, under current conditions, the crowding out
+demand and output.                                                          of private investment by increased federal deficits will
+                                                                            be minimal in the short term, CBO expects. That is
+CBO expects the economy to operate considerably below                       mainly because the economy is expected to operate well
+its potential level over the next several years. The Federal                below its potential level for several years, resulting in the
+Reserve is therefore expected to keep interest rates low                    Federal Reserve’s keeping interest rates very low through
+over that period. As a result, the legislation’s changes                    the middle of the decade. Moreover, to the extent that
+to federal spending and revenues—most of which are                          fiscal stimulus supports greater demand for goods and
+projected to occur in 2020 and 2021—will boost overall                      services in the short term, businesses will increase their
+demand and output more than they would under normal                         demand for equipment, structures, and other capital
+economic conditions, CBO expects.                                           goods, thereby reducing the effect of higher deficits and
+                                                                            debt on private investment.
+12. Several studies examining the effects of government purchases on
+    output have found larger effects in recessions than in expansions.      Another factor mitigating crowding out in the short term
+    See, for example, Òscar Jordà and Alan M. Taylor, “The Time for
+    Austerity: Estimating the Average Treatment Effect of Fiscal Policy,”
+                                                                            is the Federal Reserve’s increased holdings of Treasury
+    The Economic Journal, vol. 126, no. 590 (February 2016), pp. 219–       securities. CBO expects the Federal Reserve to continue
+    255, https://doi.org/10.1111/ecoj.12332; Alan J. Auerbach and           purchasing Treasury securities on the secondary market
+    Yuriy Gorodnichenko, “Measuring the Output Responses to                 through 2025, a policy that it initiated in response to the
+    Fiscal Policy,” American Economic Journal: Economic Policy, vol. 4,     economic fallout from the pandemic. In CBO’s projec-
+    no. 2 (May 2012), pp. 1–27, https://doi.org/10.1257/pol.4.2.1;
+                                                                            tions, those purchases initially offset the upward pressure
+    and Rüdiger Bachmann and Eric R. Sims, “Confidence and
+    the Transmission of Government Spending Shocks,” Journal of             on interest rates that increases in federal debt would
+    Monetary Economics, vol. 59, no. 3 (April 2012), pp. 235–249,           normally create. But CBO expects the Federal Reserve’s
+    https://doi.org/10.1016/j.jmoneco.2012.02.005. In contrast, one         holdings of Treasury securities, measured as a percentage
+    recent study has found no evidence that government spending             of GDP, to decline gradually, beginning in 2025.15 Other
+    has different effects in recessions and in expansions; see Valerie A.   things being equal, the consequent boost to interest rates
+    Ramey and Sarah Zubairy, “Government Spending Multipliers
+    in Good Times and in Bad: Evidence From U.S. Historical
+                                                                            would increase the government’s borrowing costs and
+    Data,” Journal of Political Economy, vol. 126, no. 2 (April 2018),      reduce private investment and output.
+    pp. 850–901, https://doi.org/10.1086/696277. In addition, several
+    studies have found that government spending can have larger             13. CBO projects that the deficit will equal 16.0 percent and
+    effects on output when interest rates are near zero. See Lawrence           8.6 percent of GDP in fiscal years 2020 and 2021. The legislation
+    Christiano, Martin Eichenbaum, and Sergio Rebelo, “When Is                  is projected to account for 11.2 and 2.7 percentage points,
+    the Government Spending Multiplier Large?” Journal of Political             respectively, of those deficits.
+    Economy, vol. 119, no. 1 (February 2011), pp. 78–121, https://
+                                                                            14. For the basis of that estimate, see Jonathan Huntley, The
+    doi.org/10.1086/659312; Michael Woodford, “Simple Analytics
+                                                                                Long-Run Effects of Federal Budget Deficits on National
+    of the Government Expenditure Multiplier,” American Economic
+                                                                                Saving and Private Domestic Investment, Working Paper
+    Journal: Macroeconomics, vol. 3, no. 1 (January 2011), pp. 1–35,
+                                                                                2014-02 (Congressional Budget Office, February 2014),
+    https://doi.org/10.1257/mac.3.1.1; and John F. Cogan and others,
+                                                                                www.cbo.gov/publication/45140.
+    “New Keynesian Versus Old Keynesian Government Spending
+    Multipliers,” Journal of Economic Dynamics and Control, vol. 34,        15. See Congressional Budget Office, An Update to the Budget
+    no. 3 (March 2010), pp. 281–295, https://doi.org/10.1016/                   Outlook: 2020 to 2030 (September 2020), www.cbo.gov/
+    j.jedc.2010.01.010.                                                         publication/56517.
+8 The Effects of Pandemic-Related Legislation on Output                                                                            September 2020
+
+
+
+   How Different Provisions of the Legislation Affect                        In CBO’s assessment, the effect of the PPP on output per
+   Output in the Short Term                                                  dollar of federal spending varies depending on how the
+   CBO expects different provisions of the legislation to                    funding is used by the recipient. The effect is expected to
+   affect the economy differently. As a result, those provi-                 be largest when the funds are used to preserve jobs that
+   sions will have different effects on real GDP per dollar                  would have been lost without them. CBO estimates that
+   of budgetary cost incurred. The provisions will have                      the PPP saved approximately 106 million job-weeks in
+   different effects on output because they will stimulate the               2020, though the program provided funds to finance
+   economy through different channels and because they                       substantially more than that.17 By contrast, when busi-
+   will support people and sectors that have been affected                   nesses use PPP funds to finance their payroll expenses
+   by the pandemic in different ways.                                        for jobs that would have persisted anyway, the federal
+                                                                             spending has a smaller effect on output.18 In those cases,
+   For example, provisions that directly increase govern-                    the businesses are able to repurpose resources to cover
+   ment purchases of goods and services add to overall                       expenses in other areas of their operations that would not
+   demand on a dollar-for-dollar basis. But for provisions                   have qualified for loan forgiveness. The per-dollar effect
+   that increase payments to people, reduce taxes, and                       of that spending is similar to the per-dollar effect of PPP
+   increase aid to state and local governments, the size of                  spending on nonpayroll business expenses that qualify
+   the effect on demand depends on the provision’s impact                    for loan forgiveness. Finally, the per-dollar effects of PPP
+   on recipients’ behavior and on how the pandemic and                       spending are lowest when the businesses must repay
+   social distancing affect recipients’ spending and other                   the funds.
+   economic activities. In particular, increases in payments
+   boost spending more among lower-income people than                        All told, the PPP and related provisions are projected to
+   among higher-income people, partly because a larger                       quicken the pace of the recovery by limiting the num-
+   share of lower-income people could not previously                         ber of business closures and preserving relationships
+   borrow as much money as they would have wished in                         between employees and employers. CBO estimates that
+   order to spend more. Also, in CBO’s assessment, under
+   pandemic and social-distancing conditions, households                     17. Because the PPP finances both part-time and full-time jobs for
+   initially tend to save a large proportion of the benefits                     various periods, CBO expresses those jobs as job-weeks, one of
+                                                                                 which represents the average hours worked by full-time and part-
+   that they receive—but they will spend some of those
+                                                                                 time workers in a typical workweek. CBO estimates that 70 percent
+   savings in subsequent months, as the pandemic eases. In                       of the job-weeks were saved in the second quarter of 2020.
+   CBO’s estimates, therefore, the government’s payments
+                                                                             18. CBO’s estimates of the effects of the PPP on employment
+   to people continue to be spent for several quarters after
+                                                                                 are broadly similar to others’ findings, but those findings
+   they are received, reducing the possibility of a sudden                       vary significantly, depending on each study’s methods, data
+   drop in demand when the government stops making                               sources, and time frame. For more details, see David Autor and
+   those payments.                                                               others, An Evaluation of the Paycheck Protection Program Using
+                                                                                 Administrative Payroll Microdata (Massachusetts Institute of
+   Paycheck Protection Program and Related Provisions.                           Technology, July 2020), https://economics.mit.edu/files/20094
+                                                                                 (PDF, 3 MB); and Raj Chetty and others, How Did COVID-
+   The PPP stimulates the economy by providing businesses                        19 and Stabilization Policies Affect Spending and Employment?
+   with funds (most of which will effectively become grants)                     A New Real-Time Economic Tracker Based on Private Sector Data,
+   to be spent on maintaining their payroll and covering                         Working Paper 27431 (National Bureau of Economic Research,
+   other business expenses.16 In addition, the loans provided                    June 2020), www.nber.org/papers/w27431. Also, the PPP made
+   through the SBA and the expansion of the EIDL pro-                            funds broadly available, not targeting particularly distressed
+                                                                                 businesses or geographic areas. For more details, see Alexander
+   gram strengthen businesses’ financial standing and help
+                                                                                 W. Bartik and others, The Targeting and Impact of Paycheck
+   bolster people’s income.                                                      Protection Program Loans to Small Businesses, Working Paper
+                                                                                 27623 (National Bureau of Economic Research, July 2020),
+                                                                                 www.nber.org/papers/w27623; and Robert P. Bartlett III
+   16. Some PPP funds are projected to cover nonqualifying expenses              and Adair Morse, Small Business Survival Capabilities and
+       and as a result will have to be repaid to the government, but even        Policy Effectiveness: Evidence From Oakland, Working Paper
+       those funds are a subsidy because the interest rate on PPP loans is       27629 (National Bureau of Economic Research, July 2020),
+       below the market rate.                                                    www.nber.org/papers/w27629.
+September 2020                                                                                   The Effects of Pandemic-Related Legislation on Output   9
+
+
+
+from fiscal year 2020 through 2023, the PPP and related                           “backward-looking” earnings from the worker’s old job
+provisions will boost GDP by 36 cents for every dollar                            and not on the lower-paying jobs now available. So the
+of budgetary cost. The agency projects that the program                           net gain from returning to work is smaller when unem-
+will increase real GDP by about 0.8 percent in 2020 and                           ployment is high, weakening recipients’ incentives to
+0.3 percent in 2021 (see Table 2 on page 5).19                                    seek work.22
+
+Enhanced Unemployment Compensation. The legisla-                                  Third, because the legislation expanded eligibility for
+tion expanded eligibility for unemployment compensa-                              unemployment compensation to many more workers—
+tion, temporarily increased the amount of the benefits,                           including, for instance, self-employed workers and
+and let people receive benefits for a longer time. The                            independent contractors—CBO expects it to reduce the
+overall effect of those changes on output depends on                              fraction of unemployed workers who are not receiving
+several factors.                                                                  regular benefits. That smaller pool of people without
+                                                                                  benefits means that a larger proportion of applicants
+First, additional unemployment benefits boost overall                             for a given job would be less likely to accept a job offer.
+demand for goods and services by providing resources to                           That lower job acceptance rate implies that the average
+people who have experienced a significant loss in earned                          duration of an unemployment spell would increase,
+income. That effect by itself increases output.20                                 making unemployment higher than it would have been if
+                                                                                  not for the enhanced unemployment compensation. The
+Second, enhanced unemployment compensation weak-                                  ultimate result is lower output.
+ens recipients’ incentive to search for and take jobs,
+thereby reducing the supply of labor and output. In                               Finally, all of those effects are complicated by the extent
+CBO’s assessment, that effect is smaller under high                               of social distancing and the fact that workers consider-
+unemployment and social distancing than under normal                              ing a return to work may weigh the risk of increasing
+conditions.21 That is because fewer job openings, along                           their exposure to the coronavirus. That could result in
+with widespread business closures, make a job search less                         employers’ offering higher wages than they would have
+likely to quickly result in employment, so the reduction                          otherwise, which would reduce the effect of enhanced
+in overall job-searching induced by enhanced unem-                                unemployment benefits on work incentives and ulti-
+ployment benefits matters less. Pushing in the opposite                           mately on output.
+direction is that during periods of high unemployment,
+unemployment benefits replace a larger portion of a                               In CBO’s assessment, the effects of enhanced unemploy-
+worker’s future, or “forward-looking,” earnings from a                            ment compensation on the labor supply were smallest
+potential new job because those benefits are based on                             earlier this year and will increase as social distancing
+                                                                                  wanes. All told, CBO estimates, the net effect of the
+                                                                                  enhanced unemployment benefits will be to boost GDP
+19. The Paycheck Protection Program Flexibility Act of 2020                       by 67 cents for each one-dollar increase in budgetary cost
+    (P.L. 116-142) modified the conditions under which PPP loans
+    may be forgiven. The effects of those modifications on GDP are
+                                                                                  from fiscal year 2020 through 2023. The agency projects
+    reflected in these estimates.                                                 that the enhanced unemployment compensation will
+                                                                                  increase real GDP by 1.1 percent in 2020 and 0.4 per-
+20. Researchers have recently shown that spending among recipients
+    of enhanced unemployment benefits fell 22 percent below
+                                                                                  cent in 2021.
+    prepandemic levels in the weeks before they received the benefits
+    and rose roughly 10 percent above prepandemic levels once they                Recovery Rebates for Individuals. These tax cred-
+    received the benefits. See JPMorgan Chase Institute, Consumption              its provide direct payments to people at a time when
+    Effects of Unemployment Insurance During the Covid-19 Pandemic                many households are experiencing a significant loss
+    (July 2020), https://tinyurl.com/y2o8jpn3.
+21. For some preliminary evidence—based on data through early                     22. For more details about how unemployment insurance benefits
+    July 2020—that is consistent with that assessment, see Joseph                     affect incentives to work during times of high unemployment,
+    Altonji and others, Employment Effects of Unemployment Insurance                  see Congressional Budget Office, Unemployment Insurance in the
+    Generosity During the Pandemic (Tobin Center for Economic                         Wake of the Recent Recession (November 2012), www.cbo.gov/
+    Policy, July 2020), https://tinyurl.com/y3mkataz (PDF, 2 MB).                     publication/43734.
+
+
+
+
+ CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+10 The Effects of Pandemic-Related Legislation on Output                                                                             September 2020
+
+
+
+     in income. The funds help people meet their finan-                                tax increases and spending cuts that would have been
+     cial obligations, such as mortgage, rent, or credit-card                          required for many state and local governments to balance
+     payments, and support overall demand for goods and                                their budgets.
+     services, thereby boosting output.23 In CBO’s assess-
+     ment, higher-income households, whose income was less                             The size of the effects of such assistance on output
+     disrupted by the pandemic, probably spend a smaller                               depends on how it is targeted and on whether it is
+     portion of the funds they receive than lower-income                               disbursed in a timely fashion. The effects also depend
+     households do.24 CBO estimates that the tax credits will                          on how large the assistance is; there may be diminishing
+     boost GDP by 60 cents for every dollar of budgetary cost                          effectiveness for very large programs. CBO estimates
+     from fiscal year 2020 through 2023. CBO also expects                              that the assistance provided by the legislation will be
+     most of the effect on output to occur in the second                               disbursed mostly during 2020, that the assistance will
+     and third quarters of 2020, near the time when people                             amount to less than the governments lose in tax revenues
+     received the payments.25 The agency projects that the                             losses in that year, and that much of the assistance was
+     rebates will increase real GDP by 0.6 percent in 2020                             provided for specific purposes. Some of the additional
+     and 0.3 percent in 2021.                                                          funding will be used to replenish or avoid drawing down
+                                                                                       states’ reserve funds, CBO expects; funding used in that
+     Direct Assistance for State and Local Governments.                                way will not boost the economy in the short term.
+     Federal assistance helps state, local, tribal, and territorial
+     governments pay for rising expenditures related to the                            All told, CBO estimates that increased funding for the
+     pandemic as their tax revenues decline. CBO expects                               governments will boost GDP by 88 cents for every dollar
+     that additional funding to increase overall demand,                               of budgetary cost from fiscal year 2020 through 2023.
+     and thus increase output, by reducing the size of the                             The agency projects that the direct assistance to state and
+                                                                                       local governments will boost the level of real GDP by
+     23. The Internal Revenue Service provided a larger proportion of                  0.5 percent in 2020 and 0.2 percent in 2021.
+         these credits within a few weeks of their authorization than it did
+         in 2008, when a similar tax rebate program was implemented in
+         the wake of the recession then.
+                                                                                       Other Spending Provisions. The major components
+                                                                                       of the other spending provisions increase funding for
+     24. CBO estimates that families in the top 5 percent of the income                various federal departments, agencies, and programs.
+         distribution will receive virtually none of the benefits.
+                                                                                       Those provisions, in addition to several smaller ones,
+     25. Several recent studies have estimated the initial boost to the                will increase direct government spending on goods and
+         consumption of goods and services caused by the recovery                      services, boosting GDP by 78 cents for every dollar of
+         rebates. One of them found that for every dollar of rebate,
+         consumption in goods and services increased by 25 cents to
+                                                                                       budgetary cost from fiscal year 2020 through 2023. The
+         35 cents during the first 10 days after the rebate was received; see          agency projects that the increased spending will lift real
+         Scott R. Baker and others, Income, Liquidity, and the Consumption             GDP by 1.1 percent in 2020 and 1.1 percent in 2021.
+         Response to the 2020 Economic Stimulus Payments, Working Paper
+         27097 (National Bureau of Economic Research, May 2020),                       Other Revenue Provisions. The legislation’s other
+         www.nber.org/papers/w27097. Another estimated the overall
+                                                                                       revenue provisions include payroll tax credits for employ-
+         increase in consumption per dollar of rebate as 40 cents, noting
+         that the change in consumption varied substantially among                     ers, the deferral of certain payroll taxes for businesses,
+         households; see Olivier Coibion, Yuriy Gorodnichenko, and                     modifications of net operating loss and business interest
+         Michael Weber, How Did U.S. Consumers Use Their Stimulus                      deductions, limits on business losses that can be used
+         Payments? Working Paper 27693 (National Bureau of Economic                    to offset tax liability, and payroll tax credits to support
+         Research, August 2020), www.nber.org/papers/w27693.                           compensation for sick, family, and medical leave for
+         Similarly, another study found that for every dollar of rebate,
+         consumption increased by 48 cents during the first two weeks
+                                                                                       employees. CBO expects that those provisions, espe-
+         and then returned to prior levels. That study also found that                 cially the payroll tax credits, will boost overall demand,
+         households that historically tended to spend most of their income             mostly by increasing businesses’ cash flow and spending.
+         increased their consumption by 68 cents per dollar of rebate,                 In addition, the provisions modifying net operating loss
+         whereas households that tended to save a large portion of their               and business interest deductions will improve liquidity
+         income increased their consumption by 23 cents per dollar of
+                                                                                       for businesses (and thus increase overall demand) by
+         rebate. See Ezra Karger and Aastha Rajan, Heterogeneity in the
+         Marginal Propensity to Consume: Evidence From Covid-19 Stimulus               allowing them to use losses for tax years 2018, 2019,
+         Payments, Working Paper 2020-15 (Federal Reserve Bank of                      and 2020 to offset taxable income from earlier years. In
+         Chicago, May 2020), https://tinyurl.com/y4p6dgzm.                             total, the revenue provisions will boost GDP by 37 cents
+
+      CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+September 2020                                                                                   The Effects of Pandemic-Related Legislation on Output   11
+
+
+
+for every dollar of budgetary cost from fiscal year 2020                          The legislation’s contributions to rising federal debt could
+through 2023, CBO estimates. The agency projects                                  have further negative consequences in the longer term.
+that those revenue provisions will increase real GDP by                           The higher debt, adding to an already high longer-term
+0.6 percent in 2020 and 0.5 percent in 2021.                                      path for debt, would increase the risk of a fiscal crisis—
+                                                                                  that is, a situation in which investors lose confidence
+The Federal Reserve’s Emergency Lending Facilities.                               in the U.S. government’s ability to service and repay its
+The existence of the Federal Reserve’s emergency lending                          debt, causing interest rates to increase abruptly, infla-
+facilities bolsters the confidence of market participants,                        tion to spiral upward, or other disruptions to take place.
+leading to easier credit conditions and less volatility in                        Rising debt could also have less abrupt negative effects,
+financial markets. In addition, the facilities make credit                        such as creating expectations of higher inflation and
+available to businesses, households, and state and local                          undermining the U.S. dollar’s predominant role in global
+governments—which would otherwise face higher bor-                                financial markets. In addition, high and rising debt
+rowing costs or fail to secure loans altogether. In CBO’s                         would contribute to businesses’ and households’ uncer-
+assessment, the increase in confidence and the lending                            tainty about government policies and economic condi-
+boost overall demand by supporting businesses’ and con-                           tions. Finally, the burden of higher interest payments on
+sumers’ spending, helping increase businesses’ chance of                          federal debt could limit policymakers’ ability to respond
+survival, and preserving production capacity, all of which                        to future economic downturns by borrowing to finance a
+will help expedite a recovery.                                                    stimulus.
+
+The Federal Reserve’s lending is projected to generate                            Uncertainty Surrounding the
+interest income and other income for the federal govern-                          Effects of the Legislation
+ment that will roughly offset the budgetary cost of the                           CBO’s estimates of the effects of the pandemic-related
+lending facilities, in CBO’s assessment. Also, although                           legislation on real GDP are subject to significant uncer-
+the emergency lending facilities will have effects on                             tainty. To illustrate that uncertainty, CBO is reporting
+GDP, those effects are not strongly related to the facili-                        not only a central estimate of the legislation’s economic
+ties’ budgetary cost because they result mainly from the                          effects but also a likely range of outcomes. Those out-
+facilities’ existence, not the actual lending. Taking those                       comes reflect different assessments of two parameters—
+considerations into account, CBO did not calculate the                            how much changes in federal spending and revenues
+cumulative GDP effect per dollar of budgetary cost, as                            affect overall demand, and how much changes in overall
+it did with the other provisions. CBO estimates that the                          demand affect output in the short term—for each set
+lending facilities will increase real GDP by 0.1 percent in                       of policies contained in the legislation. CBO’s range is
+2020 and 0.3 percent in 2021.                                                     intended to cover roughly the middle two-thirds of the
+                                                                                  likely outcomes when those parameters are varied.26
+How the Legislation Affects                                                       Accounting for those two sources of uncertainty, CBO
+Output in the Longer Term                                                         estimates that the increase in the level of real GDP
+By increasing the deficit in the short term, the legislation                      attributable to the legislation would probably be between
+influences investment, output, and income in the longer                           2.0 percent and 8.2 percent in the second quarter
+term. In CBO’s current projections, federal budget                                of 2020, for example, and between 1.9 percent and
+deficits raise the ratio of federal debt to GDP from                              15.2 percent in the third quarter of 2020 (see Figure 1).
+79 percent in 2019 to 109 percent in 2030. The legisla-
+tion is responsible for roughly 9 percentage points of that                       In addition to those two sources of uncertainty, which
+increase (an amount that does not include budgetary                               are quantifiable on the basis of existing evidence, there
+changes resulting from the laws’ effects on the economy).                         are several factors that are very difficult to assess and that
+CBO expects that over the longer term, accumulated                                are not accounted for in CBO’s range of estimates. Those
+debt resulting from the legislation will raise interest rates,                    factors include the effects of changes in fiscal policy
+increase borrowing costs, and crowd out private invest-                           on the economy under current circumstances and the
+ment, reducing the level of real GDP by about 0.4 per-
+cent in 2030. Also, higher interest payments associated
+                                                                                  26. To calculate the range of estimates for the effects of each set
+with the higher debt will increase remittances from the                               of provisions, CBO used a range of values for each parameter.
+Treasury to foreign holders of U.S. debt, further reduc-                              To calculate the central estimates, CBO used values for the
+ing U.S. national income.                                                             parameters at the midpoints of those ranges.
+
+ CBO has corrected this page since the report was originally published. Corrections are listed at the end of the report.
+12 The Effects of Pandemic-Related Legislation on Output                                                                                  September 2020
+
+
+
+     Figure 1 .
+     The Likely Range of the Effects of Pandemic-Related Legislation on Real GDP
+     Percent
+    16
+                                                                                                                            CBO’s estimates of the
+                                                                                                                            economic effects of
+                                                                                                                            pandemic-related legislation
+    12
+                                                                                                                            are uncertain. Therefore, the
+                                                              Likely Range of Effects                                       agency is reporting a likely
+                                                                                                                            range of outcomes that
+      8                                                                                                                     accounts for two sources
+                                                                                                                            of uncertainty: how much
+                                                                                                                            changes in federal spending
+      4                                                                           Central Estimate of Effects               and revenues affect
+                                                                                                                            overall demand, and how
+                                                                                                                            much changes in overall
+      0                                                                                                                     demand affect output in the
+       Q2              Q3              Q4             Q1              Q2                Q3            Q4             Q1     short term.
+      2020                                           2021                                                           2022
+
+     Source: Congressional Budget Office.
+     These values are presented as a percentage of an implied projection of real GDP that does not include the effects of pandemic-related legislation—a
+     projection computed by removing the estimated effects of the legislation from CBO’s July economic forecast. However, CBO did not construct a
+     comprehensive projection of what the economy would have looked like without those legislative effects. See Congressional Budget Office, An Update
+     to the Economic Outlook: 2020 to 2030 (July 2020), www.cbo.gov/publication/56442.
+     CBO’s likely range is intended to cover roughly the middle two-thirds of the outcomes after accounting for uncertainty about how much changes in
+     federal spending and revenues affect overall demand and how much changes in overall demand affect output in the short term.
+     GDP = gross domestic product.
+
+
+    impact of social distancing and the trajectory of the pan-                    pandemic-related legislation—affected economic activity.
+    demic on the effectiveness of fiscal policy in stimulating                    Such evidence may be less informative than usual, how-
+    economic activity.                                                            ever, given the unique circumstances surrounding the
+                                                                                  pandemic and the related economic developments.
+    Furthermore, in CBO’s assessment, the timing, scale,
+    and breadth of the legislation may have bolstered                             Individuals, businesses, and state and local governments
+    consumers’ and businesses’ confidence—and therefore                           could respond more (or less) readily than CBO expects
+    economic output—beyond what is estimated in this                              to the large amount of federal support being provided
+    report. Those effects would be positive, but CBO does                         to the economy, resulting in higher (or lower) levels of
+    not currently have enough information to quantify them.                       economic output than CBO anticipates. A specific area
+    Moreover, that effect on confidence was probably stron-                       of uncertainty is how certain provisions—in particular,
+    gest in response to legislation passed in March, and it                       those that increased weekly unemployment benefits and
+    could be weaker if future rounds of stimulus arrive when                      expanded eligibility for unemployment benefits, pro-
+    economic activity is increasing and some uncertainty has                      vided loans and credit assistance to businesses, provided
+    already been alleviated.                                                      funding for state and local governments’ operations, and
+                                                                                  reduced certain business taxes—will affect people’s incen-
+    Economic Effects of Changes in Fiscal Policy                                  tives to work and businesses’ incentives to hire workers.
+    Under Current Circumstances                                                   For example, the effects of business loans on economic
+    CBO’s analysis of the economic effects of the legisla-                        activity depend on the number of distressed businesses,
+    tion is informed by evidence about how past legislative                       how distressed they were before the pandemic, and their
+    actions—those that are most comparable to the                                 financial viability. Moreover, CBO did not consider
+September 2020                                                                    The Effects of Pandemic-Related Legislation on Output   13
+
+
+
+how the decisions about spending and working made                     interest rates, and the crowding out of private invest-
+by households, businesses, and state and local govern-                ment. As a result, the effect of fiscal stimulus on real
+ments in response to the existing legislation might be                GDP is smaller at such times. Therefore, should the
+affected by their anticipation of further pandemic-related            growth of potential output, in relation to that of actual
+legislation.                                                          output, be slower (or faster) than CBO projects, the
+                                                                      resulting boost to real GDP from the legislation could be
+There is also uncertainty about the legislation’s long-term           smaller (or larger) than CBO estimates.
+effects on the economy. For example, if the legislation
+is successful in preserving businesses—particularly                   Effects of Social Distancing and the
+small businesses—it may preserve capital (both the                    Trajectory of the Pandemic
+physical and the intangible kinds) and reduce the cost                CBO is uncertain about the extent to which social dis-
+of reallocating labor across industries or locations. The             tancing will dampen the economic effects of the legisla-
+legislation could also help alleviate long-term harm to               tion. Moreover, the evolution of social distancing itself
+the job prospects and lifetime earnings of many workers,              is unclear, and the speed at which disrupted economic
+especially younger ones. Some studies have shown that                 activity will resume is unknown. And the development
+people entering the labor market for the first time during            and administration of safe and effective vaccines and
+a recession suffer adverse consequences—for example,                  therapies remain a significant source of uncertainty.
+lower earnings—even after the economy has recovered.27
+Furthermore, the support to businesses, households,                   As the nation learns more about how to reduce the
+and communities offered by the legislation may prevent                spread of the coronavirus, that knowledge may alter
+workers from having to move to different locations to                 the economic effects of the legislation. For example,
+find employment, reducing the pandemic’s disparate                    fiscal policies might prove more effective if measures
+effects on different regions. Constructing a precise esti-            were adopted that reduced the scale of social distanc-
+mate of those effects is particularly challenging because             ing needed to slow the spread of the coronavirus, such
+of the unique nature of this crisis; however, CBO expects             as more widespread use of masks, greater testing, and
+them to grow weaker as time passes.                                   increased contact tracing.
+
+Another contributor to uncertainty about the legislation’s            In addition, many factors that will influence the prog-
+economic effects is uncertainty about the pandemic’s                  ress of the pandemic, including people’s social distanc-
+effect on long-term potential output. When output                     ing and various epidemiological characteristics of the
+is near its potential level, the economy’s resources of               coronavirus, are unclear. CBO’s economic projections
+labor and capital are closer to being fully used, and                 account for the possibility that social distancing could
+fiscal stimulus is more likely to bid up the price of those           increase or decrease, depending on whether the transmis-
+resources—resulting in inflationary pressure, rising                  sion rate of the virus rises or falls. If infections and social
+                                                                      distancing subside sooner than CBO projects, the boost
+                                                                      in economic activity resulting from the legislation will be
+27. See Hannes Schwandt and Till von Wachter, “Unlucky Cohorts:       larger than CBO’s central estimate. By the same token, if
+    Estimating the Long-Term Effects of Entering the Labor Market
+    in a Recession in Large Cross-Sectional Data Sets,” Journal of
+                                                                      social distancing persists longer than CBO projects, the
+    Labor Economics, vol. 37, no. S1 (January 2019), pp. S161–S198,   economic effects of the legislation will be weaker than
+    http://doi.org/10.1086/701046.                                    CBO’s central estimate.
+                     List of Tables and Figures
+Tables
+ 1. The Effects of Pandemic-Related Legislation on the Deficit                     4
+ 2. The Effects of Pandemic-Related Legislation on Real GDP                        5
+ 3. The Effects of Pandemic-Related Legislation on the Deficit and on GDP,
+     Fiscal Years 2020 to 2023                                                     6
+
+Figures
+ 1. The Likely Range of the Effects of Pandemic-Related Legislation on Real GDP   12
+                      About This Document
+
+
+This report provides additional information about the economic projections that the
+Congressional Budget Office presented in An Update to the Economic Outlook: 2020 to
+2030 (July 2020), www.cbo.gov/publication/56442. It examines the effects—which were
+incorporated into those projections—that federal policies adopted in response to the
+2020 coronavirus pandemic and recession are expected to have on economic outcomes. In
+keeping with CBO’s mandate to provide objective, impartial analysis, the report makes no
+recommendations.
+
+Prepared with guidance from Jeffrey Werling, John Kitchen, and Devrim Demirel, the report
+represents the work of many analysts at CBO. Jaeger Nelson wrote the report, James Otterson
+prepared the tables and figures, and Sarah Robinson fact-checked the report. Robert Arnold,
+Aaron Betz, William Carrington, Yiqun Gloria Chen, Justin Falk, Michael Falkenheim,
+Daniel Fried, Edward Gamber, Edward Harris, Wendy Kiska, Mark Lasky, Junghoon Lee,
+Michael McGrane, Jaeger Nelson, James Otterson, Kerk Phillips, Brooks Pierce, John Seliski,
+Robert Shackleton, Chad Shirley, and Christopher Williams estimated the macroeconomic
+effects. Kim Cawley (formerly of CBO), Chad Chirico, Meredith Decker, Kathleen FitzGerald,
+Nathaniel Frentz, Kathy Gramp, Lori Housman, Justin Humphrey, Aaron Krupkin, Paul Masi,
+Jeffrey Perry, Dan Ready, Sarah Sajewski, and Susan Willie estimated the budgetary effects.
+Christina Hawley Anthony, Sebastien Gay, Theresa Gullo, Deborah Kilroe, John McClelland, and
+Sam Papenfuss provided helpful comments.
+
+CBO thanks external reviewers Alan Auerbach, Karen Dynan, Wendy Edelberg (formerly of
+CBO), Gregory Mankiw, Emi Nakamura, Jonathan Parker, Valerie Ramey, David Wilcox,
+and Mark Zandi for their valuable feedback. (The assistance of external reviewers implies no
+responsibility for the final product, which rests solely with CBO.)
+
+Mark Doms and Jeffrey Kling reviewed the report. Benjamin Plotinsky was the editor, and
+Casey Labrack was the graphics editor. An electronic version of the report is available on CBO’s
+website (www.cbo.gov/publication/56537).
+
+CBO continually seeks feedback to make its work as useful as possible. Please send any comments
+to communications@cbo.gov.
+
+
+
+
+Phillip L. Swagel
+Director
+September 2020
+                                      Corrections
+
+
+The Congressional Budget Office has corrected this report since its original publication. Both the
+PDF and online versions were corrected, but for ease of reference, this list indicates the locations of
+the corrections in the PDF.
+
+The following changes were made on October 1, 2020:
+
+At a Glance, second bullet point; page 1, left-hand column, second paragraph; and page 4, right-
+hand column, first full paragraph: “59 cents” was changed to “58 cents.”
+
+Page 4, Table 1: “subsidies for paid sick leave” was deleted from footnote c; “certain” was added to
+footnote d.
+
+Page 5, Table 2: Various values were changed, mostly in the rows called “Other Spending Provisions”
+and “Other Revenue Provisions”; in the notes, “between -0.05 percent and 0.05 percent” was
+changed to “between zero and 0.05 percent”; “subsidies for paid sick leave” was deleted from
+footnote c; “certain” was added to footnote d.
+
+Page 6, Table 3: All values in the second and third columns were changed; “subsidies for paid sick
+leave” was deleted from footnote d; “certain” was added to footnote e.
+
+Page 9, left-hand column, second line: “37 cents” was changed to “36 cents.”
+
+Page 9, right-hand column, last full paragraph: “68 cents” was changed to “67 cents.”
+
+Page 10, left-hand column, ninth line: “61 cents” was changed to “60 cents.”
+
+Page 10, right-hand column: “89 cents,” “89 cents,” “1.3 percent,” “1.3 percent,” and “24 cents”
+were changed to “88 cents,” “78 cents,” “1.1 percent,” “1.1 percent,” and “37 cents.”
+
+Page 11, left-hand column, fourth line: “0.3 percent” and “0.4 percent” were changed to “0.6
+percent” and “0.5 percent.”
+

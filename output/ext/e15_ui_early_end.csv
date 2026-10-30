@@ -1,0 +1,5 @@
+outcome,data,estimate,se,n
+"employment, all (share of Jan 2020)",weekly,-0.00527,0.00307,1326
+"employment, lowest wage quarter (share of Jan 2020)",weekly,-0.01375,0.01372,1274
+unemployment rate (points),monthly,0.12443,0.10112,306
+average hourly earnings (% vs Apr-May 2021),monthly,0.68206,0.34353,306

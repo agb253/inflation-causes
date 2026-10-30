@@ -1,0 +1,2 @@
+Downloaded 2026-10-29 from https://www.federalreserve.gov/econres/us-models-python.htm
+pyfrbus.zip (package 1.1.1, page dated Feb 11 2026); data_only_package.zip (Aug 5 2026). LONGBASE.TXT and models/model.xml extracted from them.

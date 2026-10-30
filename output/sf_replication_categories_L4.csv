@@ -1,0 +1,99 @@
+line,label,ind,lvl,leaf,food_energy
+5,New motor vehicles (55),6,4,False,False
+12,Net purchases of used motor vehicles (56),6,4,False,False
+20,Motor vehicle parts and accessories (58),6,4,False,False
+24,Furniture and furnishings (parts of 31 and 32),6,4,False,False
+29,Household appliances (part of 33),6,4,False,False
+32,"Glassware, tableware, and household utensils (34)",6,4,False,False
+35,Tools and equipment for house and garden (35),6,4,False,False
+39,"Video, audio, photographic, and information processing equipment and media (75, 76, and part of 93)",6,4,False,False
+52,"Sporting equipment, supplies, guns, and ammunition (part of 80)",6,4,True,False
+53,Sports and recreational vehicles (79),6,4,False,False
+60,Recreational books (part of 90),6,4,True,False
+61,Musical instruments (part of 80),6,4,True,False
+63,Jewelry and watches (part of 119),6,4,False,False
+66,Therapeutic appliances and equipment (42),6,4,False,False
+69,Educational books (96),6,4,True,False
+70,Luggage and similar personal items (part of 119),6,4,True,False
+71,Telephone and related communication equipment,6,4,True,False
+74,Food and nonalcoholic beverages purchased for off-premises consumption (4),6,4,False,True
+99,Alcoholic beverages purchased for off-premises consumption (5),6,4,False,True
+103,Food produced and consumed on farms (6),6,4,True,True
+105,Garments,6,4,False,False
+109,Other clothing materials and footwear (13 and 17),6,4,False,False
+114,"Motor vehicle fuels, lubricants, and fluids (59)",6,4,False,True
+117,Fuel oil and other fuels (29),6,4,False,True
+121,Pharmaceutical and other medical products (40 and 41),6,4,False,False
+126,"Recreational items (parts of 80, 92, and 93)",6,4,False,False
+131,Household supplies (parts of 32 and 36),6,4,False,False
+137,Personal care products (part of 118),6,4,False,False
+141,Tobacco (127),6,4,True,False
+142,"Magazines, newspapers, and stationery (part of 90)",6,4,False,False
+145,Net expenditures abroad by U.S. residents (131),6,4,False,False
+154,Rental of tenant-occupied nonfarm housing (20),8,4,False,False
+160,Imputed rental of owner-occupied nonfarm housing (21),8,4,False,False
+163,Rental value of farm dwellings (22),8,4,True,False
+164,Group housing (23),8,4,True,False
+166,Water supply and sanitation (25),8,4,False,False
+169,Electricity and gas,8,4,False,True
+174,Physician services (44),8,4,True,False
+175,Dental services (45),8,4,True,False
+176,Paramedical services (46),8,4,False,False
+183,Hospitals (51),8,4,False,False
+187,Nursing homes (52),8,4,False,False
+192,Motor vehicle maintenance and repair (60),8,4,True,False
+193,Other motor vehicle services (61),8,4,False,False
+200,Ground transportation (63),8,4,False,False
+207,Air transportation (64),8,4,True,False
+208,Water transportation (65),8,4,True,False
+211,Membership clubs and participant sports centers,8,4,True,False
+212,"Amusement parks, campgrounds, and related recreational services",8,4,True,False
+213,Admissions to specified spectator amusements,8,4,False,False
+217,Museums and libraries,8,4,True,False
+219,"Cable, satellite, and other live television services",8,4,True,False
+220,Photo processing,8,4,True,False
+221,Photo studios,8,4,True,False
+222,"Repair and rental of audio-visual, photographic, and information processing equipment",8,4,True,False
+223,Video and audio streaming and rental,8,4,False,False
+227,Casino gambling,8,4,True,False
+228,Lotteries,8,4,True,False
+229,Pari-mutuel net receipts,8,4,True,False
+231,Veterinary and other services for pets,8,4,True,False
+232,Package tours,8,4,True,False
+233,Maintenance and repair of recreational vehicles and sports equipment,8,4,True,False
+236,Purchased meals and beverages (102),8,4,False,False
+246,Food furnished to employees (including military) (103),8,4,False,False
+250,Hotels and motels,8,4,True,False
+251,Housing at schools,8,4,True,False
+254,Financial services furnished without payment (107),8,4,False,False
+258,"Financial service charges, fees, and commissions (108)",8,4,False,False
+271,Life insurance (110),8,4,True,False
+272,Net household insurance (111),8,4,False,False
+275,Net health insurance (112),8,4,False,False
+279,Net motor vehicle and other transportation insurance (116),8,4,True,False
+282,Telecommunication services (71),8,4,False,False
+286,Postal and delivery services (68),8,4,False,False
+289,Internet access (72),8,4,True,False
+291,Higher education (97),8,4,False,False
+294,"Nursery, elementary, and secondary schools (98)",8,4,False,False
+297,Commercial and vocational schools (99),8,4,True,False
+299,Legal services,8,4,True,False
+300,Accounting and other business services,8,4,False,False
+304,Labor organization dues,8,4,True,False
+305,Professional association dues,8,4,True,False
+306,Funeral and burial services,8,4,True,False
+308,Personal care services,8,4,False,False
+311,Clothing and footwear services,8,4,False,False
+316,Child care,8,4,True,False
+317,Social assistance,8,4,False,False
+324,Social advocacy and civic and social organizations,8,4,True,False
+325,Religious organizations' services to households,8,4,True,False
+326,Foundations and grantmaking and giving services to households,8,4,True,False
+328,Domestic services,8,4,True,False
+329,"Moving, storage, and freight services",8,4,True,False
+330,"Repair of furniture, furnishings, and floor coverings",8,4,True,False
+331,Repair of household appliances,8,4,True,False
+332,Other household services,8,4,True,False
+334,Foreign travel by U.S. residents (129),8,4,False,False
+338,Less: Expenditures in the United States by nonresidents (130),8,4,False,False
+342,Final consumption expenditures of nonprofit institutions serving households (NPISHs) (132),2,1,True,False

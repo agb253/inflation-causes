@@ -1,0 +1,2363 @@
+ Hutchins Center Working Paper # 91                                                             M a y       2 0 2 4
+
+
+
+
+    An Analysis of Pandemic-Era Inflation
+              in 11 Economies
+Ftable
+                                                Ben Bernanke
+                                  Hutchins Center on Fiscal and Monetary Policy
+                                              The Brookings Institution
+
+
+                                              Olivier Blanchard
+                                   Peterson Institute for International Economics
+
+
+
+
+ Authors’ Note: A preliminary report was prepared for the book Monetary Policy Responses to the Post-
+ Pandemic Inflation, edited by Bill English, Kristin Forbes, and Ángel Ubide (London and Paris: Centre for
+ Economic Policy Research, 2024). This paper is based on the country-specific work of Pierre Aldama, Claire Le
+ Gall, and Hervé Le Bihan for France; Koji Nakamura, Shogo Nakano, Mitsuhiro Osada, and Hiroki Yamamoto
+ for Japan; Jonathan Haskel, Josh Martin, and Lennart Brandt for the United Kingdom; Gregory de Walque and
+ Thomas Lejeune for Belgium; Jan-Oliver Menz for Germany; Morteza Ghomi, Jose Manuel Montero, and
+ Samuel Hurtado for Spain; Oscar Arce, Matteo Ciccarelli, Carlos Montes-Galdón, and Antoine Kornprobst for
+ the euro area; Fares Bounajm, Jean Garry Junior Roc, and Yang Zhang for Canada; Massimiliano Pisani and
+ Alex Tagliabracci for Italy; and Dennis Bonam, Gerbert Hebbink, and Beer Prujit for the Netherlands. In addition
+ to these researchers, we thank Daniel Leigh from the IMF, Sam Boocker, and Dilek Sevinc as outstanding
+ research assistants, and seminar participants at the Peterson Institute and the country teams for their
+ comments. Country-specific papers, listed at the end of the paper, are or will soon be available.
+
+
+ The Brookings Institution is financed through the support of a diverse array of foundations, corporations,
+ governments, individuals, as well as an endowment. A list of donors can be found in our annual reports
+ published online here. The findings, interpretations, and conclusions in this report are solely those of its
+ author(s) and are not influenced by any donation.
+
+
+ © Peterson Institute for International Economics. Republished with permission.
+
+
+_______________________________________________________________________
+Abstract
+
+We recently proposed a simple model of the inflation process, estimated it on post-1990 US data, and used the
+results to identify the shocks and transmission mechanisms that have determined US inflation since 2019 (Bernanke
+and Blanchard 2023, hereafter BB). Ten central banks expressed interest in using our model to study the recent
+inflation in their own economies, and we agreed to do a joint project. This paper summarizes and discusses in broad
+terms the results of the project, leaving details to papers and reports produced by staff at the cooperating central
+banks.
+
+     The BB model was intended to capture the joint dynamics of consumer prices, wages, and short- and long-run
+inflation expectations, conditional on the shocks to inflation (from energy prices, food prices, and sectoral shortages)
+and on the degree of tightness in the labor market. Our conclusions were that the pandemic-era inflation in the United
+States was initially the result of a series of adverse relative price shocks and sectoral shortages, each of which had a
+strong but largely transient effect on inflation. The labor market had little effect on inflation early on, but increased
+tightness eventually produced limited but sustained pressure on inflation. As the effects of relative price shocks and
+shortages stabilized or reversed, inflation declined, and the role of labor market tightness became increasingly
+important, suggesting that some slowing of activity might be necessary to get US inflation all the way back to target.
+
+     In some cases, the application of the BB model by the country teams required modifications, reflecting factors
+such as data availability and institutional differences. With that caveat, estimation and simulation of the model for
+each of the ten economies has produced results broadly similar to our findings for the United States: Relative price
+shocks and sectoral shortages drove the initial surge in inflation, but as these effects have reversed, tight labor
+markets in most (although not all) countries have become a relatively more important factor. Despite the broad
+similarities to the US story, the details—for example, the relative importance of energy shocks, price shocks, and
+shortages in driving inflation—differ by country. There is also considerable variation across countries in the estimated
+effect of labor market pressure on wage inflation and thus on price inflation.
+
+     Differences across countries have implications for the costs of returning inflation to target from current levels (the
+“last mile”). Most countries saw labor markets tighten over the period. Those that did not and those where the effects
+of labor market tightness on wages have been weak may achieve their inflation targets without an increase in
+unemployment. However, some countries may need some loosening of labor market conditions to achieve their
+inflation targets.
+
+     Overall, the episode stands in sharp contrast to the persistent effects of relative price shocks in the 1970s. The
+more transient effects of price shocks this time around are traced in large part in the model to more anchored inflation
+expectations and to limited catch-up of real wages. The first is likely due to higher credibility of monetary policy; the
+second is likely due, in good part, to the disappearance of wage indexation.
+
+     A side effect of the project was to demonstrate the benefits of central bank cooperation and of looking at inflation
+through similar lenses and learning from each other. Several central banks have adopted the BB model as part of
+their forecasting framework.
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                      1
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Introduction
+As inflation came and (so far only partly) went, many explanations have been offered for the pandemic-
+era surge in prices. Some point to strong aggregate demand, supported by the buying power of pent-up
+savings accumulated during lockdowns, expansionary fiscal policy (especially in the United States),
+accommodative monetary policies, and, as the pandemic waned, a global recovery that came earlier and
+was stronger than many expected. Others emphasize supply-side factors, including sharp increases in the
+prices of key commodities (notably energy and food), disruptions of global supply chains, reductions in
+labor supply (e.g., due to early retirements and declines in participation rates), and instances of “greed”
+(i.e., opportunistic increases in margins by some firms in the inflationary environment).
+     Beyond the sources of the inflation, much discussion has also focused on transmission mechanisms,
+that is, on the channels by which the shocks hitting the economy affected inflation. Consider the sharp rise
+in energy prices, for example. Increases in prices for energy products, such as gasoline, directly affect
+inflation, of course. But higher energy prices have indirect effects as well, for example, by increasing costs
+of production of non-energy goods and services or by motivating workers to press for compensation for
+unexpected past losses in their purchasing power. Indirect effects may also operate through short- and
+long-run inflation expectations. For example, higher gas prices may lead people and firms to increase
+their short-run inflation expectations, raising wage and price pressures. If expectations are not well
+anchored, these dynamics can lead to the possible emergence of wage-price or price-wage spirals.
+     Since the inflation began, disagreements over its sources and transmission mechanisms have led to
+conflicting conclusions and policy implications. At the start, two “teams” emerged. Following the early
+view of Federal Reserve officials that the inflation would be transitory, economists belonging to “Team
+Transitory” argued that the increase in inflation was due mostly to supply factors that were likely to
+reverse relatively quickly. Standard central banking doctrine holds that, so long as inflation expectations
+are reasonably well anchored, there is a case for “looking through” temporary supply shocks rather than
+responding to the short-run increase in inflation. A smaller group, “Team Permanent,” held that, to the
+contrary, exceptionally strong demand, arising from large fiscal programs and other factors, would put
+                                           1
+sustained upward pressure on inflation.
+     Today, with inflation well off its peak but still higher in most countries than central bank targets, the
+focus of the discussion has turned to the problem of the “last mile,” that is, what it will take and what it
+will cost to get inflation durably back to central bank targets. One point of view is that many countries are
+already there or soon will be, and the fight against inflation has largely been won. An opposing view is that
+the decrease in inflation to date has been due mostly to the reversal of supply shocks, a process that is now
+running its course, and that the desired further reduction in inflation may require further substantial
+cooling of the labor market and an increase in unemployment. Deciding who is (and was) right in these
+debates requires a close empirical analysis of the sources of recent global inflation and disinflation.
+     In an earlier paper (Bernanke and Blanchard, June 2023, BB in what follows), we developed a small
+model to assess empirically the relative roles of the various shocks and transmission mechanisms in
+driving inflation, and we fit it to US data. A number of central banks around the world found our
+...
+1.    For an example of the first view, see Reifschneider and Wilcox (2022). For examples of the second view, see Blanchard (2021)
+      and Summers (2021).
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                          2
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+approach attractive and decided to apply our model to their own economies. To benefit from each other’s
+insights, we and the central bank teams agreed to a joint project to investigate the applicability of the BB
+model to other economies. The teams worked both independently and in collaboration over the second
+half of 2023, using national data that in most cases ran through 2023Q2. The ten non-US central banks
+participating in the project were the European Central Bank (ECB), the Bank of England, the Bank of
+Japan, the Bank of France, the Bundesbank, the Bank of Spain, the Bank of Italy, the National Bank of
+Belgium, the Bank of the Netherlands, and the Bank of Canada (note that the project included both the
+ECB as well as several national central banks within the Eurosystem). The US Federal Reserve engaged
+with the project as an observer, but the US results come from an updated version of our work in BB. The
+two of us coordinated the project and consolidated and compared the results. This paper is a cross-
+country summary that presents the main conclusions of the studies by these ten central banks and our
+own work for the United States, focusing on commonalities and differences across economies.
+     Generally speaking, we find that the commonalities dominate the differences. Consistent with the
+original BB findings for the United States, there is wide agreement among the teams that the pandemic-
+era burst of global inflation was due primarily to a succession of adverse shocks to prices—notably global
+increases in energy and food prices and supply disruptions in key sectors. As of this writing (March 2024),
+these shocks have receded substantially, accounting for most of the global cooling of inflation. The
+prominence of shocks to prices does not preclude a role for labor markets, however: Also consistent with
+the BB results, in many, although not all, countries, postpandemic labor markets became quite tight,
+presumably reflecting strong aggregate demand together with constraints on labor supply. Tight labor
+markets in turn contributed to wage inflation, and consequently to price inflation. Importantly, although
+the inflationary effects of tight labor markets were initially much smaller than the effects of shocks to
+prices, they were more persistent. Thus, as the shocks to prices faded or reversed, wage inflation has
+become the larger factor behind the remaining price inflation, which may make further reductions in
+inflation more difficult to achieve. The inflation story is not complete as of this writing, however, and the
+ultimate outcomes remain to be seen.
+     The paper is organized as follows. Section 1 presents an overview of the basic BB model. Section 2
+presents the main findings from the cross-country work applying that model. Section 3 concludes and
+suggests directions for further research. An appendix presents the BB model in more detail, as well as
+detailed estimation results for each country. This paper is of necessity only a summary, which hits some
+highlights but cannot cover all the detailed findings of the country teams. More extended discussions of
+the country results are available in papers written by the individual teams; the list of available country-
+level papers, with links, is given in the bibliography.
+
+
+I. The Basic Model
+
+In specifying the model used in this project, we made the following choices.
+    We chose to base our analysis on a simple model, plausibly but not explicitly based on microeconomic
+foundations. We believed that a simpler model could provide useful insights into the sources of inflation
+                                                                              2
+and on policy debates without sacrificing transparency or ease of replication. Other analyses have taken
+more formal, structured approaches (see, for example, Baqaee and Farhi 2022). We see room for both
+
+...
+2.    Large-scale models typically used by central banks have a significant advantage in terms of comprehensiveness. But central
+      banks have a responsibility to explain their analyses and forecasts to the public, especially during a crisis, and an additional
+      advantage of simple models is that they provide a narrative that aids in the banks’ communication.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                              3
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+research strategies, as a portfolio of approaches provides the best test of the robustness of the results. In
+this instance, it appears that most research has led to largely similar conclusions.
+     We decided to focus on four endogenous variables: price inflation, wage inflation, long-run and short-
+run inflation expectations. Given the discussions on the potential strength of wage-price or price-wage
+interactions, we believed it was important to look at wage and price evolutions separately. Other work has
+focused directly on price inflation, or used a different decomposition than ours, for example, separating
+headline inflation between median inflation and the deviation of headline from median inflation (Ball,
+Leigh, and Mishra 2022; Dao, Gourinchas, Leigh, and Mishra 2024) or breaking down inflation into
+services and goods components (di Giovanni et al. 2023).
+     We proceeded in two steps, first writing down and solving a simple analytical model, and then
+estimating an empirical counterpart of the model, based on the same analytical structure but with more
+generous dynamics. Figure 1 shows the structure of the empirical model, inclusive of lags. The model has
+four equations, corresponding to the four endogenous variables; the precise equations in the analytical
+and empirical versions of the model are given in the appendix.
+
+Figure 1. Structure of the Bernanke-Blanchard (2023) empirical model
+
+
+
+
+     What follows is an informal description of the model and its basic implications, as well as of its
+                                         3
+adaptation for this multicountry project. We begin with the equation describing the behavior of nominal
+wages, then turn to the equations for consumer prices, long-run inflation expectations, and short-run
+inflation expectations.
+
+
+
+
+...
+3.    For a more extended discussion of the assumptions and the implications of the model, see BB.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                    4
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+The Wage Equation
+
+In the analytical model, we specified wage inflation as depending on labor market tightness, expected
+short-run inflation, and a catch-up variable. The first two terms are standard and need no explanation.
+The third term, which is typically missing from wage Phillips curve specifications but should not, reflects
+the fact that to the extent that past unexpected inflation has led to a decrease in workers’ real wages, they
+                                                                             4
+may try to “catch up” by pushing for higher nominal wages, all else equal. Note that, in contrast to
+expected inflation, which is forward-looking, the catch-up variable is backward-looking. Thus, the
+specification allows both past unexpected price inflation and future expected price inflation to affect wage
+inflation.
+     In the empirical counterpart of the model, we allowed for a richer lag structure, with wage inflation
+depending on its own lagged values and lagged values of the other determinants (see figure 1). As a
+measure of labor market tightness, in BB we used the ratio of vacancies (job openings) to the number of
+unemployed persons. The argument for using this ratio rather than the unemployment rate alone (as in
+the traditional wage Phillips curve) is that, relative to the unemployment rate, this ratio arguably better
+reflects conditions on both the demand (vacancies) and supply (unemployed persons) sides of the labor
+         5
+market. We leave a discussion of the relation between the unemployment rate and the vacancy-
+unemployment ratio to section 3, but, as we shall see, this relation matters in thinking about what
+increase in the unemployment rate may be needed to return inflation to target. As a measure of catch-up,
+we used the sum over the previous four quarters of unexpected inflation (the difference between realized
+inflation in each quarter and the rate of inflation that had been expected). To measure short-run inflation
+expectations, we used, alternatively, one-year inflation expectations as constructed by the Federal Reserve
+Bank of Cleveland or one-year inflation forecasts from the Survey of Professional Forecasters.
+     We added a trend productivity growth variable, defined as an eight-quarter moving average of
+productivity growth, with productivity measured as the ratio of nonfarm business value added to nonfarm
+employee hours. As the second and third quarters of 2020 (the onset of the pandemic) were associated
+with an exceptional increase in US unemployment and only a moderate downward effect on wage growth,
+presumably due to a combination of strong fiscal support and worker resistance to nominal wage cuts (a
+de facto zero lower bound on nominal wage changes), we allowed for quarterly dummies for 2020Q2 and
+2020Q3 as a simple way of capturing the unusual episode and avoiding contaminating other coefficients.
+Our results were not substantially affected by the inclusion of those two dummies.
+
+The Price Equation
+
+In the analytical model, we specified price inflation as simply depending on wage inflation and generic
+price shocks, that is, factors leading to increases in prices given wages.
+    In the empirical counterpart, we allowed for a richer lag structure, again allowing for both lagged
+values of the dependent variable and current and lagged values of the other determinants. We introduced
+three variables to capture price shocks: the relative price of energy (relative to wages), the relative price of
+
+...
+4.    This is also sometimes referred to as real wage rigidity. Its role in the inflation of the 1970s was examined by, among others,
+      Bruno and Sachs (1985).
+
+5.    Two labor markets with the same unemployment rates but low or high vacancies obviously have very different implications for
+      wage evolutions. The vacancy-unemployment ratio, unlike the unemployment rate, is a good indicator of labor market tightness
+      when there are shifts in the relation between vacancies and unemployment (the Beveridge curve). We discuss the role of
+      Beveridge curve shifts in the conclusion.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                              5
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+food, and a measure of sectoral shortages. What has been specific to this inflation episode has been the
+large supply disruptions and the associated price spikes in certain sectors, potentially leading in some
+                                                   6
+cases to a price far above the usual marginal cost. Several proxies for shortages are available. In BB we
+used the number of Google searches for the term “shortage” as a proxy for supply disruptions, but
+                                                  7
+alternative measures lead to similar conclusions. We included the productivity growth variable in the
+price equation, as higher productivity reduces unit costs, all else equal.
+
+The Equation for Long-Run Inflation Expectations
+
+In the analytical model, we specified long-run inflation expectations as depending on themselves lagged
+and on lagged inflation. One can think of the coefficient on inflation as reflecting the degree of anchoring
+of long-run expectations. A coefficient of zero would imply complete anchoring of long-run inflation
+expectations (that is, long-run expectations would not depend on inflation).
+     In the empirical counterpart, we included the same variables but with a richer lag structure, thereby
+allowing unanchoring effects to work with a lag. We measured long-run inflation expectations alternately
+by the Cleveland Fed’s ten-year inflation expectations measure or the Survey of Professional Forecasters’
+forecast of inflation over the subsequent ten years.
+
+The Equation for Short-Run Inflation Expectations
+
+In the analytical model, we specified short-run inflation expectations as depending on themselves lagged,
+on current long-run expectations, and on lagged inflation. As in the other equations, in the empirical
+counterpart we allowed for a richer lag structure.
+
+Homogeneity, Subsample Stability, and Identification
+
+In BB we estimated the model for the United States using quarterly data for the period 1990Q1 to
+2023Q2. In the empirical version of the model we allowed for four lags for all variables included in each
+equation. The lag structures were left free except for homogeneity restrictions, which imply there is no
+long-run tradeoff between the labor market measure and inflation (a vertical long-run Phillips curve). As
+a result, for given values of the exogenous variables, the estimated model delivers a unique “natural”
+vacancy-unemployment ratio, analogous to the natural unemployment rate in traditional specifications.
+In most cases the homogeneity restrictions had little effect on the estimates. We used whole-sample
+estimates to compute impulse responses and historical decompositions of inflation (see below), but we
+also estimated the model using data from 1990Q1 to 2019Q4 to check for subsample stability. In the US
+                                                                                                            8
+data and for most other countries there was little evidence of major changes in the coefficients post-2019.
+Finally, identification was achieved through restrictions on contemporaneous coefficients (as in a
+...
+6.    Shortages can lead to an increase in profit if firms, which are suddenly constrained, face a demand function with a short-run
+      elasticity less than one. We suspect that much of the increase in profits in some sectors has come from such a mechanism,
+      rather than from greed, i.e., from an increase in margins by monopolistic firms using the noisier environment as cover.
+
+7.    For example, the New York Fed’s supply chain index gave results largely similar to ours. Lewis Alexander (personal
+      communication) finds good results by applying a large language model to the Fed’s Beige Books to identify periods of
+      shortages.
+
+8.    The results of homogeneity and subsample stability tests are given in the appendix for each equation and each country. One
+      note: Subsample stability of the price equation is strongly rejected in most countries. The origin of the rejection, however, is not
+      a substantive change in coefficients but a larger standard deviation of residuals in the post-2019 sample.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                6
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+structural VAR), notably the assumption that wage inflation does not react to contemporaneous
+movements in its determinants.
+
+Extension to the Other Economies
+
+In extending the model to other economies, to facilitate comparisons the country teams tried to stay as
+close as possible to the model as laid out in the BB paper. However, data availability and other factors led
+in some cases to estimation on a shorter sample, or the use of an alternative observable variable. For
+example, some teams used the Federal Reserve of New York supply chain index or a composite of several
+supply disruption measures, rather than the Google trends variable. As we shall discuss, in most cases the
+general specification fits the country data reasonably well and delivered clear conclusions. Some teams
+also explored alternatives to the basic specification, motivated by cross-country differences in institutions
+and pandemic-era policies. For example, some teams explored the role of the fiscal measures used to limit
+energy price increases in their countries. The Japanese team emphasized the unique nature of their
+country’s labor market, using a specification that allowed for different behavior of wages for part-time
+contract workers and full-time workers. Some teams explored the role of import prices, as most of the
+economies in the project are smaller and more open than the United States. The reader is referred to the
+country-specific papers for more details.
+     One important caveat is needed before moving on to the results. Because we decided to treat several
+variables in our model as unexplained, the model does not provide a full general equilibrium account of
+the origins of the inflation. As noted above, we took the relative price of energy, the relative price of food,
+the measure of shortages, productivity growth, and the degree of labor market slack as given. Clearly, a
+more ambitious project would be to trace these variables back to their primitive determinants, including
+the role of fiscal and monetary policies, the intensity of the global pandemic, and Russia’s war on Ukraine.
+For example, fiscal policies (especially in the United States) that increased aggregate demand may not
+only have tightened labor markets but also put upward pressure on global food and energy prices, allowed
+for a stronger passthrough of sectoral price shocks to price inflation, and (by increasing consumer
+demand for goods) worsened sectoral shortages. A different view might hold that the economic effects of
+COVID (together with government responses to the pandemic) and Russia’s war on Ukraine were the
+more important sources of the rise in commodity prices and (because of the disruption of supply chains)
+of the shortages of many goods, notably durable goods. Our model cannot settle these issues, which we
+                           9
+leave to future research.
+
+Basic Implications: Shocks and Transmission Mechanisms
+
+Although parsimonious, the four relations of the analytical model capture the key shocks and
+transmission mechanisms identified and discussed in the literature. Repeating an analysis presented in
+BB, we can summarize the main implications of the analytical model through two impulse response
+          10
+functions, to which we shall compare the impulse response functions implied by the estimated country
+models later.
+
+
+...
+9.    As discussed in BB, if one assumes that the price of specific commodities is the result of a largely common demand factor and
+      largely idiosyncratic supply shifts, the fact that the first common component of a large set of commodity prices went up
+      substantially from 2020Q1 to 2022Q2 suggests the relevance of aggregate demand.
+
+10.    See BB for further details on the construction of figures 2 and 3.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                          7
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+    Figure 2 shows the model-predicted effects on inflation of a generic adverse price shock—for example,
+a permanent increase in the relative price of energy, or equivalently, a one-time increase in the growth
+rate of the relative price of energy.
+
+Figure 2. Dynamic effects on inflation of a permanent increase in the relative price of
+energy
+
+
+
+
+Source: Bernanke and Blanchard (2023).
+
+
+     The figure’s two lines correspond to alternative (hypothetical) choices of parameters. The direct,
+immediate effect of the energy price shock on inflation is normalized to be the same in both cases. The
+dynamic effects of the price shock on inflation differ in the two scenarios, however, with the difference
+reflecting five factors.
+     First, the effect of the energy price shock (or any shock to prices) on inflation depends not only on its
+direct impact on consumer prices (e.g., the price of energy goods such as gasoline) but also on its effect on
+nonenergy goods and services, reflecting the fact that energy is an important input to production. Second,
+the initial inflation shock caused by higher energy prices affects inflation expectations, which, third,
+affects nominal wage demands. Fourth, to the extent that the inflation shock was unanticipated, wage
+inflation may be further increased, as workers try to recoup previous losses in their purchasing power
+(“catch-up”). Fifth, wage inflation raises production costs, feeding back to price inflation.
+     The overall dynamic effect of an energy price shock on inflation depends on the strengths of each of
+these five effects. If the effects are relatively weak, then the dynamic effects will be weaker and shorter, as
+captured by the lower line (“weak feedback”) in figure 2. Symmetrically, the stronger these effects, the
+larger and more persistent will be the dynamic impact of the energy price shock on inflation, as captured
+in the upper line (“strong feedback”) in the figure. As we shall show below, in all countries the empirical
+evidence is much more consistent with the story told by the lower line in figure 2 than by the upper line.
+That is, in the recent episode, energy price shocks and other supply shocks had large contemporaneous
+effects on inflation but, because the channels described above were weak, these effects tended to reverse
+relatively quickly, barring new shocks.
+     To draw an important contrast, figure 3 shows the dynamic effect on inflation of a permanent increase
+in labor market tightness, to a level above its long-run sustainable (“natural”) value. As in figure 2, we
+compare results for two sets of hypothetical model parameters.
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                     8
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Figure 3. Dynamic effects on inflation of a permanent increase in labor market tightness
+
+
+
+
+Source: Bernanke and Blanchard (2023).
+
+
+     Four factors determine the size and persistence of the inflationary effect of a tight labor market. First,
+labor market tightness has a direct effect on wage inflation, via the wage Phillips curve. Second, the effect
+on consumer price inflation depends on the speed with which wages pass through to prices. Third, the
+induced inflation affects inflation expectations. Fourth, higher expected inflation affects wage inflation,
+and in turn price inflation.
+     As in the case of a shock to prices, if these transmission effects are relatively weak, the dynamic
+effects of tight labor markets on inflation will be smaller (the lower line in figure 3), and if they are strong
+the effects will be larger (the upper line). As we shall see below, the empirical evidence is that the response
+of inflation to a tighter labor market looks much more like the lower line in the figure. That is, the initial
+build-up is limited and thereafter inflation increases slowly over time. An important distinction between
+figures 2 and 3 is evident: The effects of price shocks on inflation tend to be transitory while the effects of
+                                                     11
+an overheated labor market are more persistent.
+
+II. The Cross-Country Evidence
+
+As the impulse response functions illustrate, in an economy in which there are both large price shocks
+(e.g., shocks to energy or food prices) with limited dynamic effects and an increasingly tight labor market,
+our model predicts that quarter-to-quarter inflation will be dominated early on by the price shocks.
+However, behind the scenes, the overheated labor market will be leading to slowly increasing and
+persistent wage inflation. Thus, the contribution of tight labor conditions to inflation, small in the short
+run, becomes more important as price shocks die away. This pattern, which BB found for the United
+States, appears to characterize most of the other economies studied in this project as well.
+
+
+
+
+...
+11. Indeed, as the model has the property that there is a natural vacancy-unemployment ratio, any permanent increase in this ratio
+    implies steadily increasing inflation. In a full general equilibrium model, this inflation would eventually be brought under control
+    through appropriate policies, leading the ratio to go back to its natural value.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                              9
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Wage Inflation, Price Inflation, and the Labor Market
+
+Before showing results based on the estimated models, it is useful to start with two figures showing some
+raw facts.
+    Figure 4 shows the evolution of wage inflation (in blue) and price inflation (in red) for each economy
+                                                                                                        12
+included in the project, starting in 2019Q1. The two series show quarterly rates of change, annualized.
+
+Figure 4. Wage and price inflation since 2019Q1, quarter-over-quarter annualized percent
+changes
+                                                 United States                                                                                                         Euro area
+  12                                                                                                                   12
+
+
+   8                                                                                                                    8
+
+
+   4                                                                                                                    4
+
+
+   0                                                                                                                    0
+
+  -4                                                                                                                   -4
+           1            3            1            3            1            3            1            3            1
+        9Q           9Q           0Q           0Q           1Q           1Q           2Q           2Q           3Q         Q1     Q3     Q1     Q3     Q1     Q3     Q1     Q3     Q1
+  201          201          202          202          202          202          202          202          202          20
+                                                                                                                         19
+                                                                                                                              20
+                                                                                                                                19
+                                                                                                                                     20
+                                                                                                                                       20
+                                                                                                                                            20
+                                                                                                                                              20
+                                                                                                                                                   20
+                                                                                                                                                     21
+                                                                                                                                                          20
+                                                                                                                                                            21
+                                                                                                                                                                 20
+                                                                                                                                                                   22
+                                                                                                                                                                        20
+                                                                                                                                                                          22
+                                                                                                                                                                               20
+                                                                                                                                                                                 23
+                                         price inflation             wage inflation                                                                        price inflation          wage inflation
+
+
+                                                United Kingdom                                                                                                           Japan
+  16                                                                                                                    8
+
+  12
+                                                                                                                        4
+   8
+
+   4
+                                                                                                                        0
+   0
+
+  -4                                                                                                                   -4
+       Q1     Q3     Q1     Q3     Q1     Q3     Q1     Q3     Q1                                                              1           3           1           3           1           3           1           3           1
+   20
+     19
+          20
+            19
+                 20
+                   20
+                        20
+                          20
+                               20
+                                 21
+                                      20
+                                        21
+                                             20
+                                               22
+                                                    20
+                                                      22
+                                                           20
+                                                             23                                                          19Q         19Q         20Q         20Q         21Q         21Q         22Q         22Q         23Q
+                                                                                                                       20          20          20          20          20          20          20          20          20
+                                         price inflation             wage inflation                                                                        price inflation           wage inflation
+
+
+
+
+...
+12. We report (annualized) quarter-to-quarter movements because the estimations are done using quarterly data. Note, though,
+    that the quarterly data are noticeably more volatile than the more familiar and more frequently reported annual or four-quarter
+    changes.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                                                                                             10
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                       Spain                                                                     Italy
+   12                                                                        20
+
+                                                                             16
+    8
+                                                                             12
+
+    4                                                                         8
+
+                                                                              4
+    0
+                                                                              0
+
+   -4                                                                        -4
+       Q1     Q3     Q1     Q3     Q1     Q3     Q1     Q3     Q1                Q1     Q3     Q1     Q3     Q1     Q3     Q1     Q3     Q1
+     19     19     20     20     21     21     22     22     23                19     19     20     20     21     21     22     22     23
+   20     20     20     20     20     20     20     20     20                20     20     20     20     20     20     20     20     20
+                          price inflation      wage inflation                                       price inflation      wage inflation
+
+
+                                  Netherlands                                                                 Belgium
+   20                                                                        20
+
+   16                                                                        16
+
+   12                                                                        12
+
+    8                                                                         8
+
+    4                                                                         4
+
+    0                                                                         0
+
+   -4                                                                        -4
+        Q1      Q3      Q1      Q3      Q1      Q3      Q1      Q3      Q1        Q1      Q3      Q1      Q3      Q1      Q3      Q1      Q3      Q1
+     19      19      20      20      21      21      22      22      23        19      19      20      20      21      21      22      22      23
+   20      20      20      20      20      20      20      20      20        20      20      20      20      20      20      20      20      20
+                          price inflation      wage inflation                                       price inflation      wage inflation
+
+
+                                     Canada
+   12
+
+
+    8
+
+
+    4
+
+
+    0
+
+
+    -4
+          1     3     1     3     1     3     1     3     1
+       9 Q 019 Q 020 Q 020 Q 021 Q 021 Q 022 Q 022 Q 023 Q
+    201     2     2     2     2     2     2     2     2
+                          price inflation   wage inflation
+
+Sources: National statistics and authors’ calculations.
+
+
+     For all countries, the price series is the local measure of consumer price inflation (the Harmonized
+Index of Consumer Prices for euro members). The wage series is that used in estimation in each country.
+For reasons of both data availability and institutional differences, the wage measures used in estimation
+differed somewhat across countries, including for example compensation per employee, compensation
+per hour, and new wage settlements, with nonwage benefits included in some cases but not in others.
+Because of the large shocks to hours per employee due to COVID and the different treatments of partial
+employment across countries, alternative wage measures in a given country were sometimes quite
+different and the teams had to decide which one to use in their baseline estimations; details and results
+using alternative wage series are given in the respective country papers. For the purposes of the
+comparison in figure 4, the differences are relatively unimportant, and the key conclusion would be the
+same if we plotted other measures of wages.
+     Figure 4 has two key messages: First, across countries, price inflation in recent years has been much
+more volatile than wage inflation. Second, wage inflation has been comparatively smooth, while showing
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                 11
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+in most although not in all countries some increase over time. By the end of our sample, 2023Q2, in
+nearly all countries the decrease in price inflation and the slow increase in wage inflation were such that
+wage inflation exceeded price inflation, implying rising real wages. These observations are consistent with
+the characterization of inflation being driven in the short run by volatile price shocks and in the longer
+run by a slow but persistent increase in wage inflation.
+     In the BB model, wage inflation is driven by the tightness of the labor market, as well as inflation
+expectations. For context, figure 5 shows the evolution, also starting in 2019Q1, of each economy’s
+measure of tightness of the labor market, which, in most cases, is the ratio of measured vacancies to
+unemployed persons. (In some countries, because of data limitations, the variable is defined slightly
+differently but captures the same concept.) In countries for which available data allow the construction of
+vacancy-unemployment ratios, there are some surprisingly large differences in average values of the ratio
+over the sample. Presumably, these differences reflect in large part differences in data definitions and
+                                     13
+coverage, particularly of vacancies. Given our focus on the dynamic behavior of this ratio, these level
+differences are less important, and, for clarity, figure 5 shows vacancy-unemployment ratios normalized
+to one in 2019Q4.
+
+Figure 5. Labor market tightness since 2019Q1, index (2019Q4 = 1)
+
+
+
+
+...
+13. Understanding level differences between vacancy measures across countries should be high on the research agenda.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                 12
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                       Spain                                                                        Italy
+  80                                                                            20
+
+  40
+                                                                                10
+
+   0
+                                                                                 0
+ -40
+
+
+ -80                                                                            -10
+           Q1      Q3      Q1      Q3      Q1      Q3      Q1      Q3      Q1          Q1      Q3      Q1      Q3      Q1      Q3      Q1      Q3      Q1
+         19      19      20      20      21      21      22      22      23          19      19      20      20      21      21      22      22      23
+      20      20      20      20      20      20      20      20      20          20      20      20      20      20      20      20      20      20
+
+
+                                  Netherlands                                                                     Belgium
+  3                                                                              8
+
+
+  2                                                                              4
+
+
+  1                                                                              0
+
+
+
+  0                                                                             -4
+       Q1      Q3      Q1      Q3      Q1      Q3      Q1      Q3      Q1             Q1      Q3      Q1      Q3      Q1      Q3      Q1      Q3      Q1
+     19      19      20      20      21      21      22      22      23             19      19      20      20      21      21      22      22      23
+  20      20      20      20      20      20      20      20      20             20      20      20      20      20      20      20      20      20
+
+
+                                      Canada
+  3
+
+
+
+  2
+
+
+  1
+
+
+  0
+       Q1      Q3      Q1      Q3      Q1      Q3      Q1      Q3      Q1
+     19      19      20      20      21      21      22      22      23
+  20      20      20      20      20      20      20      20      20
+
+
+
+Sources: National statistics and authors’ calculations.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                      13
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+     Once again, the data tell a clear and common story. After a sharp drop at the beginning of the
+pandemic, the vacancy-unemployment ratio steadily increased in most economies. Indeed, in all countries
+except Japan, Germany, and Belgium, the ratio was higher in 2023Q2 than it was in 2019Q4, suggesting
+that in most countries the labor market was substantially tighter at the end of our sample than
+immediately before the pandemic. For the unemployment rate, the more conventional measure of labor
+market tightness, the picture (not shown here) is largely the same, with the unemployment rate lower in
+2023Q2 than in 2019Q4 in all but two countries (Japan and Belgium). This suggests that there is more to
+the inflation story than just price shocks and suggests the potential relevance of the labor market for the
+recent inflation.
+
+Impulse Response Functions
+
+Rather than reporting the detailed estimates for each country, the better way to summarize the estimation
+results for each is to show the impulse response functions implied by those estimates. The estimated
+impulse response functions can then be compared with those derived from the analytical model earlier.
+Note that the impulse response functions shown below are system outcomes of the estimated models, that
+is, they use all the estimated equations simultaneously in solving for dynamic responses.
+     Figure 6 shows the dynamic effects (impulse response functions) on inflation of a one-time
+permanent increase in the relative price of energy (dark blue), in the relative price of food (light blue), and
+in the measure of shortages (yellow), using the empirically estimated parameters and data choices for
+               14
+each country. The initial increases in each of the price shocks are chosen to equal a one-standard-
+deviation change in each of the three variables, computed over the post-2019Q4 sample.
+
+Figure 6. Impulse responses of inflation to relative price shocks, percent
+
+
+
+
+...
+14. While we replicated the estimation results of the country teams, we did not replicate the simulation results in figures 6 to 8,
+    relying on the simulation results reported by each country team.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                14
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Note: The figure shows the full-model, dynamic responses of inflation to a one-standard-deviation positive shock to
+relative energy prices, relative food prices, and the shortage variable.
+Sources: Bernanke and Blanchard (2023), Arce et al. (2024), Nakamura et al. (2024), Haskel, Martin, and Brandt
+(2023), Aldama, Le Bihan, and Le Gall (forthcoming), Menz (2024), Gomi, Hurtado, and Montero (2024), Pisani and
+Tagliabracci (forthcoming), Bonam, Hebbink, and Pruijt (2024), de Walque and Lejeune (2024), and Fares, Roc, and
+Zhang (2023).
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                           15
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+     The shapes of the estimated responses are very similar across countries, with the sharp initial effects
+of price shocks subsiding quickly. This pattern is qualitatively similar to that shown by the weak feedback
+case in figure 2. The limited dynamic effects of price shocks in most countries reflect all five factors
+described earlier (see also estimation results in the appendix).
+     First, weak price-price effects: In most cases, the estimated effect of shocks to the prices of energy or
+food, taking into account the lags, is only slightly larger than the share of energy or food prices in the
+overall consumer price index, implying small second-round effects on other (non-energy, non-food)
+prices.
+     Second, dynamic effects are limited by well-anchored inflation expectations, with relatively small and
+slow effects of inflation on both short-run and (especially) long-run inflation expectations.
+     Third, the “catch-up” effect, the tendency of workers to press for compensation for earlier unexpected
+price increases, appears limited in practice, with the estimated coefficient on the catch-up variable in the
+                                                 15
+wage equation close to zero in most countries.
+     Fourth, wage inflation appears to adjust slowly to increases in inflation expectations.
+     Fifth, empirically, wage inflation feeds into price inflation relatively slowly in most countries.
+     In combination, these factors explain the absence of a price-wage spiral in the economies studied in
+this project, a sharp difference from, for example, the inflation of the 1970s, when (presumably) inflation
+expectations were poorly anchored and wage indexation automatically increased the importance of catch-
+            16
+up effects.
+     Similarly, we can use the country estimates to examine the response of inflation to a hot labor market.
+Figure 7 shows the dynamic effects of a permanent increase in labor market tightness, again using the
+empirically estimated parameters for each economy. In the simulations, the increase in tightness is
+assumed to be equal to a one-standard-deviation increase in the vacancy-unemployment ratio over the
+post-2019Q4 sample.
+
+Figure 7. Impulse responses of inflation to labor market tightness, percent
+
+
+
+
+...
+15. An exception is Belgium (and to a much lesser extent, Spain). We return to it later.
+
+16. For evidence along these lines, see Blanchard and Riggi (2013).
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                     16
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Note: The figure shows the full-model, dynamic responses of inflation to a one-standard-deviation positive shock to
+the labor market tightness variable.
+Sources: Bernanke and Blanchard (2023), Arce et al. (2024), Nakamura et al. (2024), Haskel, Martin, and Brandt
+(2023), Aldama, Le Bihan, and Le Gall (forthcoming), Menz (2024), Gomi, Hurtado, and Montero (2024), Pisani and
+Tagliabracci (forthcoming), Bonam, Hebbink, and Pruijt (2024), de Walque and Lejeune (2024), and Fares, Roc, and
+Zhang (2023).
+
+
+     Recall that the analytical model (figure 3) predicts that a tightening of the labor market leads to an
+initial increase in inflation, with inflation continuing to increase over time as dynamic effects come into
+play. For most economies in the project, the empirical impulse responses roughly fit the theoretically
+predicted pattern, but two characteristics of the empirical responses are worth noting.
+     First, the initial responses of inflation are often jagged, and second, they are small in many cases. The
+jagged initial responses can be interpreted as reflecting the fact that both the level and the rate of change
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                            17
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                                                 17
+of the measure of labor market tightness affect wage inflation. The small initial response reflects the
+small sum of coefficients on the labor market variable in the wage equation, that is, in many countries the
+                                                   18
+wage Phillips curve appears to be relatively flat. For example, after four quarters (to look beyond the
+initial jagged pattern), the estimated effect of a one-standard-deviation increase in the vacancy-
+unemployment ratio on inflation varies from from 0.0 percent for Japan to 1.0 percent for the United
+        19
+States.
+     The amplification mechanisms, which determine how fast inflation increases after the initial effects of
+the tightening of the labor market, are also empirically weak in most countries, so that inflation increases
+only slowly following a labor market tightening. Again, the amplification mechanisms can be enumerated
+(also see estimation results in the appendix):
+     First, empirically, expected inflation adjusts slowly to actual inflation, implying that inflation
+expectations remain largely anchored. Second, wage inflation adjusts only slowly to the increases in
+inflation expectations that occur. Third, there is again little or no evidence of the catch-up phenomenon.
+Fourth, wage inflation appears, empirically, to pass through only slowly to price inflation.
+     So, while the model is constructed so that it has a natural rate property (in this case, for the vacancy-
+unemployment ratio), which implies that a vacancy-unemployment ratio that remains above its natural
+rate leads to ever increasing inflation, empirically, in many economies, the implied increase in inflation is
+very slow. Indeed, the estimated parameters for the euro area imply that a steady increase in inflation to a
+tight labor market is not visible even after four years, although beyond this horizon (and not shown in the
+figure) simulated inflation increases steadily but slowly when labor markets remain tight.
+     In short, small direct and indirect effects of labor market tightness imply an impulse response
+function similar to the weak feedback case shown in figure 3, that is, a relatively small and slow increase
+in wage inflation, implying a small and slow increase in the price inflation induced by wage increases.
+
+Historical Decompositions
+
+Estimation and (system) simulations of the model allow us to decompose inflation in each quarter and for
+each country into components due to each of the exogenous variables and the equation residuals, with
+dynamic effects of exogenous shocks taken fully into account. Obtaining these decompositions for each of
+the eleven economies (figure 8) is the main contribution of this research project, as the decompositions
+both explain the sources of inflation in each country and provide a basis for policy recommendations.
+     The way to read figure 8 is as follows:
+     In each diagram, the solid black line shows actual (quarter on quarter, annualized) inflation. The
+different color bars show the contributions of various factors to inflation in each quarter, with bars
+extending below the x-axis corresponding to negative contributions. The contributions of the equation
+...
+17. This is not specific to the use of the vacancy-unemployment ratio as the labor market variable. The same is true if one uses the
+    unemployment rate. Traditional wage Phillips curve specifications often find an effect of not just the level but also the change in
+    the unemployment rate on wage inflation.
+
+18. Estimation results suggest that the effect of labor market tightness on wage inflation is small but statistically significant; in 7 of
+    the 11 economies, the sum of coefficients on the labor market variable in the wage regression is significant at the 5 percent
+    level, and there is no evidence of a change in this sum during the pandemic, that is, after 2019Q4.
+
+19. A one-standard-deviation increase in the vacancy-unemployment ratio is 0.26 for the United States. Based on the estimated
+    coefficient of the vacancy-unemployment ratio in a regression of the unemployment rate on the vacancy-unemployment ratio
+    over the 1990Q1 to 2019Q4 sample, −4.0, this implies a one-standard-deviation decrease in the unemployment rate of about 1
+    percentage point.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                 18
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+residuals are not shown, as they would be hard to interpret; if they were included, the estimated
+components of inflation would sum exactly to actual inflation.
+
+Figure 8. Historical decompositions of inflation, 2019Q3–2023Q2, percentage points
+
+
+
+
+                                                         Euro area
+ 12
+
+
+  8
+
+
+  4
+
+
+  0
+
+
+  -4
+
+
+  -8
+       2019 Q3   2020 Q1           2020 Q3       2021 Q1       2021 Q3        2022 Q1        2022 Q3   2023 Q1
+
+                           Initial conditions   Labor market       Energy prices        Food prices
+                           Shortages            Productivity       Lockdown             Actual
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                           19
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                      United Kingdom
+
+  12
+
+
+
+      8
+
+
+
+      4
+
+
+
+      0
+
+
+
+  -4
+           2019Q3   2020Q1          2020Q3         2021Q1        2021Q3              2022Q1            2022Q3   2023Q1
+
+                             Initial conditions   Labor market       Energy prices            Food prices
+                             Shortages            Productivity       COVID                    Actual
+
+
+
+
+                                                             Japan
+ 5
+
+
+
+ 3
+
+
+
+ 1
+
+
+
+ -1
+
+
+
+ -3
+          2019Q3    2020Q1         2020Q3         2021Q1         2021Q3          2022Q1                2022Q3   2023Q1
+
+                             Initial conditions   Labor market       Energy prices            Food prices
+                             Shortages            Productivity       COVID                    Actual
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                   20
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                        France
+ 10
+
+
+
+ 6
+
+
+
+ 2
+
+
+
+ -2
+
+
+
+ -6
+      2019Q3   2020Q1          2020Q3         2021Q1        2021Q3               2022Q1            2022Q3   2023Q1
+
+                        Initial conditions   Labor market        Energy prices            Food prices
+                        Shortages            Productivity        COVID                    Actual
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                               21
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                          Spain
+ 13
+
+
+
+ 9
+
+
+
+ 5
+
+
+
+ 1
+
+
+
+ -3
+
+
+
+ -7
+      2019 Q3   2020 Q1          2020 Q3       2021 Q1        2021 Q3        2022 Q1      2022 Q3    2023 Q1
+                          Initial conditions   Labor market        Energy prices       Food prices
+                          Shortages            Productivity        Actual
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                         22
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                       Belgium
+
+ 12
+
+
+
+  6
+
+
+
+  0
+
+
+
+  -6
+
+
+
+ -12
+       2019 Q3   2020 Q1         2020 Q3        2021 Q1        2021 Q3        2022 Q1     2022 Q3     2023 Q1
+
+                           Initial conditions   Labor market         Energy prices      Food prices
+                           Shortages            Productivity         Actual
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                          23
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                               Canada
+  12
+
+
+   8
+
+
+   4
+
+
+   0
+
+
+  -4
+
+
+  -8
+       2019 Q3        2020 Q1           2020 Q3      2021 Q1         2021 Q3         2022 Q1         2022 Q3        2023 Q1
+
+                                Initial conditions   Labor market          Energy prices         Food prices
+                                Shortages            Productivity          Actual
+
+
+Sources: Bernanke and Blanchard (2023), Arce et al. (2024), Nakamura et al. (2024), Haskel, Martin, and Brandt
+(2023), Aldama, Le Bihan, and Le Gall (forthcoming), Menz (2024), Gomi, Hurtado, and Montero (2024), Pisani and
+Tagliabracci (forthcoming), Bonam, Hebbink, and Pruijt (2024), de Walque and Lejeune (2024), Fares, Roc, and
+Zhang (2023).
+
+
+     The dark gray bars reflect the role of initial conditions, that is, what the model predicts would have
+happened if there had been no shocks from 2020Q1 on. Specifically, the component of inflation shown by
+the dark gray bar is what would have been expected if the relative prices of energy and food had remained
+the same as they were in 2019Q4, the measure of sectoral shortages had remained equal to its average
+value pre-COVID, productivity growth had not changed from its average value pre-COVID, and the
+vacancy-unemployment had remained equal to its value in 2019Q4.
+     Because the four equations of the model determine together a unique value of the vacancy-
+unemployment ratio consistent with constant inflation (absent shocks), the evolution of the dark gray
+bars in figure 8 tells us, for each country, where (according to the model) that ratio was relative to its
+natural rate before COVID struck. In most cases, the heights of the dark gray bars are nearly constant over
+time, implying that the vacancy-unemployment ratio for the economy in question was close to its natural
+                              20
+level before the pandemic. The main exception is the United Kingdom, where the effect on inflation of
+the initial conditions increases, suggesting that the UK economy was already overheating to some degree
+in 2019Q4. The United States and Canada show some small increase in inflation in the no-shock baseline.
+
+
+...
+20. The usual warning about the precision of these conclusions applies here and below. The implicit assumption is that the
+    estimated equations remained stable throughout the estimation period. Small missing trends in any of the equations, for
+    example, might well lead to a different estimate of the implicit natural ratio in 2019Q4, and thus a different evolution of the
+    contribution of initial conditions.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                24
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+     The other bars in the diagrams reflect the effects on inflation over time of shocks to the various
+exogenous variables. Again, the bars, being based on system impulse response functions, reflect both the
+direct and indirect effects of each of these variables on inflation over time. The dark blue bars represent
+both the direct and indirect effects of the rate of change of the relative price of energy on inflation; the
+light blue bars represent the effects of the relative price of food; the yellow bars capture the effects of
+shortages (measured as deviations from the pre-COVID sample mean); the green bars represent the
+effects of productivity growth (also as a deviation from its pre-COVID sample mean); and the red bars
+show the effects on inflation of labor market conditions, measured as the deviation of the vacancy-
+unemployment ratio from its 2019Q4 value. When the wage equation includes dummy variables for
+2020Q2 and 2020Q3, their effects are also reported in the decomposition.
+     As the black line in each graph shows the actual path of the country’s inflation rate, the differences
+between the vertical sums of the bars (some of them negative) and the black lines reflect the combined
+direct and indirect effects of the four equation residuals. As can be seen, that difference is typically small,
+reflecting a good fit of the estimated equations and thus a reasonably comprehensive accounting of the
+sources of inflation in each economy.
+
+Commonalities
+
+Our main conclusions are that (i) with some adjustments for institutional and policy differences, the basic
+model works reasonably well for all economies and (ii) estimation of the model produces surprisingly
+similar decompositions across economies. In particular, in each of the participating economies, the model
+implies that the inflation dynamics of recent years have been dominated by repeated price shocks—most
+importantly, energy price shocks. Energy prices typically contributed negatively to inflation in 2020, very
+positively in 2021 and most of 2022, and negatively thereafter. Interestingly, food price shocks have had a
+different pattern: their contributions to inflation were small until 2022, then consistently positive in 2022
+and even more so in 2023.
+     One might have expected that supply disruptions and shortages would play an important role during
+the acute COVID phase, with less effect thereafter. However, for most countries the estimation results
+suggest that supply problems and shortages had little effect on inflation in 2020 but have made
+consistently positive contributions thereafter. Indeed, supply issues were still making significant
+contributions to inflation in 2023Q2, the last quarter covered by the decompositions.
+     As noted above, as the pandemic-induced disruptions dissipated, the labor market in many countries
+became tighter—in nearly all cases, tighter than the pre-COVID period by the end of the sample.
+Nevertheless, the decompositions show that, the labor market generally played a limited role in the
+evolution of price inflation. The contributions of labor market conditions to inflation, shown by the red
+bars in figure 8, are consistently smaller than those of price shocks, typically near zero or negative in
+2020, then positive but small by 2022 and 2023. Indeed, the contribution of labor market tightness to
+inflation is found to be nearly equal to zero in five countries: Germany, Italy, Japan, Spain, and Belgium.
+The relatively weak effect reflects primarily the flatness of wage Phillips curves in the participating
+                               21
+economies, discussed earlier.
+     The decompositions also serve as a warning about extrapolating inflation based on quarter-to-quarter
+movements. The shocks to inflation, especially price shocks, are volatile, and their effects—both direct and
+indirect—can obscure lower-frequency trends. For example, in the United States in 2023Q2, energy price
+...
+21. In the case of Belgium, the effect of the vacancy-unemployment ratio on wage inflation is relatively large and significant. But,
+    as discussed below, there is limited pass-through of wage inflation to price inflation, so the effect on price inflation is small.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                              25
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+declines accounted for a 1.2 percentage point drop in inflation (at annual rates) while higher food prices
+worked the other way; in Japan, for the same quarter, the effect of the energy price decline (1.8 percentage
+points) was fully offset by an increase in food prices (which made a contribution to inflation of 2.0
+percentage points); in Italy, the contributions to inflation in that quarter were −5.2 percentage points
+from energy but 3.6 percentage points from food! Discerning the inflation trend through this noise
+requires close attention to the composition of the shocks to the price level.
+      To repeat the main theme of this paper, the historical decompositions for most countries point to
+sequences of strong price shocks with limited dynamic effects as explaining most of the increase and later
+decrease in the recent inflation. Labor market tightness, together with a small increase in long-run
+inflation expectations, has led, in some countries, to a slow buildup of wage inflation. As price shocks have
+partly reversed, the contribution of the labor market has become relatively larger, although inflation is
+still buffeted by positive and negative price shocks.
+      An encouraging finding is that there is little evidence, in any economy, that a wage-price or price-
+wage spiral emerged. In this sense, the episode is clearly different from the high-inflation episodes of the
+1970s, when increases in the prices of oil and other commodities led to demands for higher nominal
+wages, which in turn led to high and persistent inflation. Presumably, the credibility of central banks and
+institutional factors such as the absence of indexation in nearly all countries made this inflation episode
+                                           22
+very different from that of 50 years ago.
+      Returning to the debate with which we introduced the paper: Who was right, Team Transitory or
+Team Permanent? Team Transitory was right that shocks to prices (e.g., for energy and food) would have
+short-lived effects on inflation, but it did not anticipate the sequence of large price shocks that together
+created an extended period of inflation. Team Permanent was right to worry about labor market tightness
+but significantly overestimated its likely contribution to the inflation early on. As price shocks have
+receded, inflation has indeed fallen substantially; but, with labor markets not yet back in balance, the
+worries of Team Permanent may yet become relevant, as we discuss in the next section.
+
+Differences
+                                                                                                                                   23
+We have so far focused on commonalities, but there are interesting differences across economies as well.
+    For example, countries started with very different initial conditions, including inherited inflation
+levels. We saw that the United Kingdom showed signs of overheating even before COVID. In most
+countries, however, the estimation results suggest that labor market conditions were roughly at their
+sustainable (“natural”) level in 2019Q4, though the associated levels of inflation before the pandemic were
+quite different. Notably, based on its estimated initial conditions, Japan entered the pandemic with an
+inherited inflation rate of 0.5 percent, helping to explain why Japanese inflation remained below 5
+percent throughout the period.
+    Some have suggested that, notwithstanding the dominance of price shocks, labor market tightness
+was more important in the United States than in the euro area where inflation was mostly imported. The
+decompositions support this distinction, with a very limited role of labor market conditions in the euro
+area.
+
+...
+22. Note that our estimation sample starts in 1990 and so cannot directly address the inflation of the 1970s. It would be interesting
+    to estimate the same model on the earlier sample and compare coefficients, although data issues (e.g., lack of data on inflation
+    expectations) pose an important barrier.
+
+23. The same warning as before: Some of the differences may reflect noise in estimation rather than true underlying differences.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                           26
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+     In contrast, the contributions of energy prices have been rather similar, although results for the euro
+area as a whole hide substantial differences among euro members, differences that appear to reflect in
+large part differences in fiscal subsidies intended to cap energy prices. For example, in the first three
+quarters of 2022, the sum of the contributions (direct and indirect) of energy prices to inflation was 5.6
+percentage points for France, 12.1 percentage points for Germany, and 9.9 percentage points for Italy.
+These differences suggest that understanding cross-sectional differences in inflation behavior requires a
+closer look at the effects of energy subsidies and other fiscal policies aimed at limiting costs to households
+            24
+and firms.
+     Japan has had lower inflation, as noted; it also had a smaller increase in inflation, an increase that
+appears to have been almost entirely imported. The labor market has played little or no role in Japanese
+inflation, with no increase in the vacancy-unemployment ratio, and, based on the country team’s
+estimates, a very flat wage Phillips curve (for full time workers).
+     In contrast to the other countries, the main price shocks in Japan have come from the price of food
+rather than the price of energy, especially since the end of 2022. This difference reflects both the
+government’s measures to directly limit the increase in the price of gas and electricity during this period
+and the large share of food in the Japanese CPI (25 percent). Because Japan imports much of its food,
+those prices were also increased by the large depreciation of the yen (by nearly 50 percent against the
+dollar since the start of the pandemic), although of course that factor affected the prices of energy and
+other imports as well. Note also that inflation has subsided in Japan even though the central bank did not
+raise interest rates, suggesting a nearly pure scenario of price shocks, with limited dynamic effects.
+     Belgium is also an interesting case in that it is the only country in the panel to still have widespread
+wage indexation. Based on the experience of the 1970s, one would have expected this institutional feature
+to result in a stronger wage-price interaction and higher inflation, but this has not been the case.
+Cumulative wage inflation in Belgium has indeed been higher than for the euro area: 17.8 percent over the
+period 2019Q4 to 2023Q2, versus 7.5 percent for the euro area over the same period. But cumulative price
+inflation has been roughly the same, 15.6 percent in Belgium versus 15.8 percent in the euro area. Put
+another way, the increase in wage inflation in Belgium has been accompanied by a substantial decrease in
+profit margins. The inability of Belgian firms to raise prices by as much as wages likely reflects the fact
+that Belgium is a small open economy operating under fixed exchange rates in the euro area. (The ratio of
+                                                                                                            25
+Belgian exports to GDP is 95 percent, and 65 percent of exports are to the rest of the European Union. )
+The decrease in profit margins may, however, affect investment and have longer-lasting effects than our
+analysis can capture.
+
+III. Implications and Conclusions
+
+For the last part of the project, each team performed a conditional forecast exercise, starting from the
+positions of their respective economies in 2023Q2. Assuming that, starting in 2023Q3, there would be no
+further price shocks and that shortages and productivity growth would equal their pre-COVID average,
+
+
+...
+24. This issue is explored in Dao et al. (2023).
+
+25. Our conclusion of limited pass-through is in contrast with Gagliardone et al. (2023), who, using a panel dataset for 1999–2019
+    (i.e., pre-COVID), conclude that the pass-through from marginal cost to production prices in manufacturing was high in Belgium
+    during that period. Differences in the period examined—in wage versus marginal cost, production prices versus consumption
+    prices, and manufacturing versus the whole economy—may explain the difference.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                        27
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+the country teams used their estimated models to forecast inflation, based on initial conditions in 2023Q2
+and the values of the vacancy-unemployment ratio prevailing in each country at that time.
+     The conclusion for most countries was that the vacancy-unemployment ratio had to decrease
+substantially (that is, labor markets had to come into better balance) to bring inflation to target. For
+example, for the United States, assuming that the ratio remained the same as in 2023Q2 implied that
+inflation would stabilize at 3.5 percent; in contrast, a decrease in the ratio to its pre-COVID value of 1.2
+percent would lead to a decrease in inflation to 2.8 percent at the end of 2024. A further decrease would
+be needed to get inflation down to 2 percent by the end of 2024. (Note that these figures refer to CPI
+inflation; the Fed targets a different measure of inflation that tends to run a bit lower.) For the euro area,
+while inflation was projected by the estimated model to dip temporarily to 2 percent in 2024, the model
+suggested that maintaining that level would also require a decrease in the vacancy-unemployment ratio
+below its pre-COVID value for some time. The reason that further reductions in labor market tightness
+were required in these two regions and in other economies, according to the model, was again the flatness
+of the wage Phillips curve. Tight labor markets had not contributed very much to the increase in inflation
+in most economies, but, symmetrically, looser labor markets would not reduce inflation very quickly.
+     These conditional forecasts are now more than nine months old and thus obsolete. But they raise an
+important issue that is still relevant at the time we write. The issue is that most of the decrease in inflation
+from its peak has been due to the reversal of shocks to prices rather than cooling in labor market
+conditions. To the extent that wage inflation was still too high in mid-2023 to be consistent with central
+bank targets, and that wage inflation is relatively sticky, the last mile might be more difficult to achieve
+than the earlier gains against inflation.
+     Precisely how costly the last mile might be is not yet resolved. In several, although not all, countries,
+the decrease in inflation in the second half of 2023 was larger than projected by the model’s conditional
+forecasts or by professional forecasters outside of central banks. In the United States in particular,
+productivity growth has recently been strong, making higher wage inflation potentially more consistent
+with price inflation at target. We have not extended the project to assess how much of the decrease in
+inflation since mid-2023 can be attributed to better productivity growth, more favorable price shocks, or
+unexplained residuals, in particular in the wage equation. Doing so will have to wait until the inflation
+episode is fully behind us.
+     Suppose we stipulate nevertheless, per the model, that returning inflation the rest of the way to target
+will require further decreases in the ratio of vacancies to unemployment. The question is what that
+decrease implies for the unemployment rate itself, which is the variable most observers care about.
+     The relation between vacancies and unemployment (and thus between the vacancy-unemployment
+ratio and the unemployment rate) is known as the Beveridge curve. This curve, drawn in vacancy-
+unemployment space, is typically convex and downward sloping: a decrease in vacancies typically comes
+with an increase in unemployment. Equivalently, a decrease in the ratio of vacancies to unemployment,
+characteristic of looser labor market conditions, typically comes with both a decrease in vacancies and an
+increase in unemployment. One of the contributions of this project has been to examine the Beveridge
+curve relation in each economy. The evidence is shown in figure 9, which plots the vacancy rate against
+the unemployment rate (both normalized) for each participating country. The blue dots correspond to the
+period 2011Q1 to 2019Q4, the green dots to 2020Q1 to 2023Q1, and the red dot to 2023Q2.
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                       28
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Figure 9. Beveridge curves, pre-pandemic (2011Q1–2019Q4), during pandemic (2020Q1–
+2023Q1), and 2023Q2
+
+
+
+
+                                 Pre-pandemic         During pandemic    2023Q2                                               Pre-pandemic        During pandemic      2023Q2
+
+
+                                                United Kingdom                                                                                     Japan
+                     2.0                                                                                          2.0
+
+
+
+
+ job vacancy rate                                                                              job vacancy rate
+                     1.5                                                                                          1.5
+
+                     1.0                                                                                          1.0
+
+                     0.5                                                                                          0.5
+
+                     0.0                                                                                          0.0
+                           0.0           0.5           1.0      1.5          2.0         2.5                            0.0        0.5            1.0      1.5           2.0    2.5
+                                                     unemployment rate                                                                          unemployment rate
+
+                                 Pre-pandemic         During pandemic    2023Q2                                               Pre-pandemic        During pandemic      2023Q2
+
+
+                                                      France                                                                                     Germany
+                     2.0                                                                                          2.0
+
+
+
+
+ job vacancy rate                                                                              job vacancy rate
+                     1.5                                                                                          1.5
+
+                     1.0                                                                                          1.0
+
+                     0.5                                                                                          0.5
+
+                     0.0                                                                                          0.0
+                           0.0     0.2         0.4      0.6    0.8     1.0         1.2   1.4                            0.0              0.5           1.0             1.5      2.0
+                                                     unemployment rate                                                                          unemployment rate
+
+                                 Pre-pandemic         During pandemic    2023Q2                                               Pre-pandemic        During pandemic      2023Q2
+
+
+
+
+                                                       Spain                                                                                       Italy
+                     2.0                                                                                          2.0
+
+
+
+
+  job vacancy rate                                                                             job vacancy rate
+                     1.5                                                                                          1.5
+
+                     1.0                                                                                          1.0
+
+                     0.5                                                                                          0.5
+
+                     0.0                                                                                          0.0
+                           0.0           0.5           1.0      1.5          2.0         2.5                            0.0                    0.5               1.0            1.5
+                                                     unemployment rate                                                                           unemployment rate
+
+                                 Pre-pandemic         During pandemic    2023Q2                                               Pre-pandemic        During pandemic      2023Q2
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                                                29
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                  Netherlands                                                                        Belgium
+                       2.0                                                                               3.0
+
+
+
+
+   job vacancy rate                                                                   job vacancy rate
+                       1.5
+                                                                                                         2.0
+                       1.0
+                                                                                                         1.0
+                       0.5
+
+                       0.0                                                                               0.0
+                             0.0        0.5         1.0      1.5         2.0    2.5                            0.0           0.5           1.0          1.5      2.0
+                                                  unemployment rate                                                                 unemployment rate
+
+                                   Pre-pandemic     During pandemic    2023Q2                                        Pre-pandemic    During pandemic    2023Q2
+
+
+
+
+                                                    Canada
+                       2.0
+
+
+
+
+    job vacancy rate
+                       1.5
+
+                       1.0
+
+                       0.5
+
+                       0.0
+                             0.0         0.5         1.0      1.5        2.0    2.5
+                                                   unemployment rate
+
+                                   Pre-pandemic     During pandemic    2023Q2
+
+
+
+Note: Both vacancy rate and unemployment rate are normalized to 1 at 2019Q4.
+Sources: National statistics, Eurostat, and authors’ calculations.
+
+
+    As the figure shows, there is a striking difference in the behavior of the Beveridge curve in the United
+States and Canada on the one hand, and in the other economies on the other. The United States and
+Canada both experienced large increases in their unemployment rates at the start of COVID, and then a
+movement back along a higher Beveridge curve than before. That is, both countries showed a strong
+upward shift in the Beveridge relation during the pandemic, implying that a given unemployment rate
+corresponded to a higher vacancy-unemployment ratio than before the pandemic. The other economies in
+our panel do not show comparable shifts. For example, the Beveridge relation in the euro area seems to
+have remained roughly unchanged, and in Japan, if anything, the curve seems to have shifted slightly
+lower during the pandemic. We are not aware of any systematic attempt yet to explain these differences.
+One place to look for an explanation might be in the differences in labor market policies pursued by
+various countries during the pandemic.
+    As of 2023Q2, then, the question in the United States and Canada was a straightforward one: Would
+the shifts in the Beveridge curve be permanent or temporary? If the original shifts upward proved
+permanent, then reducing the vacancy-unemployment ratio by enough to bring inflation to target could
+involve a significant increase in unemployment. In contrast, if the Beveridge curve shifts reversed,
+reducing the unemployment rate associated with any given vacancy-unemployment ratio, then bringing
+down that ratio might be done with little impact on unemployment.
+    The evidence since mid-2023 suggests that, in Canada and the United States, the initial shift has
+largely reversed, as vacancy rates have decreased while unemployment rates have remained roughly
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                                 30
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+        26
+stable. If the shift fully reverses (i.e., the two Beveridge curves return to their prepandemic positions)
+then the cooling of labor markets, as measured by the decrease in the vacancy-unemployment ratio,
+needed to return inflation to 2 percent may require only a limited increase in unemployment. Coupled
+with higher-than-expected sustained productivity growth, it might even require no increase in
+unemployment. The evolution of the shift in the Beveridge curve, and the persistence of higher
+productivity growth, are two of the most important dimensions of uncertainty facing the Fed today. In
+contrast, in economies where the Beveridge curve has remained stable but a meaningful decrease in the
+vacancy-unemployment ratio is needed to control inflation, successfully navigating the last mile may
+require accepting an increase in unemployment, at least for some time.
+
+Conclusions and Extensions
+
+Our joint project with ten central banks, unprecedented to our knowledge, has cast light on some
+important aspects of the recent inflation episode. The inflation appears explainable by a simple model,
+and for most economies, the model tells a consistent story. In sum, early on, the sharp inflation
+experienced by most countries was accounted for by shocks directly and indirectly affecting price levels,
+including rising commodity prices, shortages of specific goods, and, in some cases, reduced labor supply.
+Labor markets became tight almost everywhere but played almost no role in the inflation takeoff.
+However, the inflation effects of tight labor markets are persistent, so that, as the shocks to prices (e.g.,
+for energy and food) have reversed, the wage pressures from hot labor markets have become a more
+important source of inflation. In most countries, traversing the last mile back to central bank inflation
+targets will likely require bringing labor markets into better balance by reducing vacancy-unemployment
+ratios. The extent to which labor market cooling results in higher unemployment depends importantly on
+both the slope of the wage Phillips curve and the slope and position of the Beveridge curve. In countries
+such as the United States, where the Beveridge curve appears to be shifting down toward its prepandemic
+position, the unemployment costs of the last mile could be limited.
+     Future research might profitably concentrate further on the differences among the participating
+economies as well as the commonalities. For example, it would be interesting to better understand how
+inflation was affected by differences in government policies regarding energy subsidies and caps, and by
+policies for supporting workers and firms during the pandemic.
+     Another direction for future research is to model the role of key variables that we have treated as
+exogenous in this iteration of the model. For example, had fiscal policy in various countries (most notably
+the United States) been less generous, would global energy and food prices have been noticeably lower
+and shortages less severe? How much higher would unemployment have been?
+     Of more narrow interest would be the reconciliation of the estimates for the euro area as a whole and
+those of euro area member countries. Estimated wage equations differ substantially across the countries,
+suggesting that aggregation may be misleading. A first step toward resolving the issue was taken by the
+German team, who used a panel data approach with country fixed effects (the results are reported in their
+paper). But panel estimation with fixed effects may not go far enough if, for example, the response of wage
+inflation to labor market tightness or other variables varies significantly across countries.
+     Finally, it would be worth digging further into the role of productivity growth. Our decompositions
+did not attribute much inflation or disinflation to productivity growth, but this may be an artifact of a
+...
+26. One of the authors (Blanchard) is on record as arguing that much of the shift would likely remain, and he has been proven
+    wrong. The origins of the shift and of its reversal, as well as the absence of such a shift in other countries, is still to be
+    determined.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                               31
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+poor specification. Productivity growth has differed across countries, with the United States in particular
+emerging from the pandemic with higher productivity growth than in the prepandemic period, whereas
+productivity growth has remained low in much of Europe. Whether these productivity trends persist will
+be an important factor in the evolution of unit labor costs and thus, indirectly, a key determinant of the
+costs of the last mile back to inflation targets.
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                   32
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+BIBLIOGRAPHY
+
+Baqaee, David, and Emmanuel Farhi. 2022. Supply and Demand in Disaggregated Keynesian Economies
+   with an Application to the COVID-19 Crisis. American Economic Review 112, no. 5: 1397–436.
+
+Ball, Laurence, Daniel Leigh, and Prachi Mishra. 2022. Understanding U.S. Inflation During the COVID
+    Era. Brookings Papers on Economic Activity 2022, no. 2: 1-36
+Barnichon, Regis. 2010. Building a Composite Help-Wanted Index, Economics Letters 109, no. 5
+   (December): 175-78.
+
+Bernanke, Ben, and Olivier Blanchard. 2023. What Caused the US Pandemic-Era Inflation? American
+   Economic Journal: Macroeconomics, forthcoming.
+
+Blanchard, Olivier. 2021. In Defense of Concerns Over the $1.9 Trillion Relief Plan. RealTime Economics
+    blog, February 18. Washington: Peterson Institute for International Economics.
+
+Blanchard, Olivier, and Marianna Riggi. 2013. Why are the 2000s so different from the 1970s? A
+    structural interpretation of changes in the macroeconomic effects of oil prices. Journal of the
+    European Economic Association 11, no. 5: 1032–52.
+
+Bruno, Michael, and Jeffrey Sachs. 1985. Economics of Worldwide Stagflation. Cambridge, MA: Harvard
+   University Press.
+
+Dao, Mai, Allan Dizioli, Chris Jackson, Pierre-Olivier Gourinchas, and Daniel Leigh. 2023.
+   Unconventional Fiscal Policy in Times of High Inflation. IMF Working Paper 2023/178. Washington:
+   International Monetary Fund.
+
+Dao, Mai Chi, Pierre-Olivier Gourinchas, Daniel Leigh, and Prachi Mishra. 2024. Understanding the
+   International Rise and Fall of Inflation Since 2020. Paper presented at National Bureau of Economic
+   Research conference on Inflation in the COVID Era and Beyond, Cambridge, MA, May 16-17.
+   Available at https://www.nber.org/conferences/inflation-covid-era-and-beyond-spring-2024.
+
+di Giovanni, Julian, Şebnem Kalemli-Özcan, Alvaro Silva, and Muhammed Yıldırım. 2023. Quantifying
+    the Inflationary Impact of Fiscal Stimulus under Supply Constraints. AEA Papers and Proceedings
+    113: 76–80.
+Gagliardone, Luca, Mark Gertler, Simone Lenzu, and Joris Tielens. 2023. Anatomy of the Phillips Curve:
+   Micro Evidence and Macro Implications. NBER Working Paper 31382. Cambridge, MA: National
+   Bureau of Economic Research.
+Reifschneider, David, and David Wilcox. 2022. The Case for a Cautiously Optimistic Outlook for US
+    Inflation. PIIE Policy Brief 22-3. Washington: Peterson Institute for International Economics.
+
+Ryland, Thomas, and Nicholas Dimsdale. 2017. A millennium of macroeconomic data. Bank of England
+    research dataset. Available at https://www.bankofengland.co.uk/statistics/research-datasets.
+
+Summers, Lawrence. 2021. The Biden Stimulus Is Admirably Ambitious. But It Brings Some Big Risks,
+   Too. Washington Post, February 4.
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                 33
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Central Bank Working Papers Based on Bernanke-Blanchard (2023)
+
+Bank of Canada. Bounajm, Fares, Jean Garry Junior Roc, and Yang Zhang. 2023. Sources of Pandemic-
+   Era Inflation in Canada: An Application of Bernanke and Blanchard. Staff Analytical Note.
+Bank of England. Haskel, Jonathan, Josh Martin, and Lennart Brandt. 2023. Recent UK inflation; An
+   Application of the Bernanke-Blanchard Model.
+Bank of France. Aldama, Pierre, Hervé Le Bihan, and Claire Le Gall. 2024. What caused the post-
+   pandemic inflation? Replicating Bernanke and Blanchard (2023) on French data. Mimeo, March.
+
+Bank of Italy. Pisani, Massimiliano, and Alex Tagliabracci. 2024. What Caused the Post-Pandemic
+   Inflation in Italy? An Application of Bernanke and Blanchard (2023). Bank of Italy Occasional
+   Paper, forthcoming.
+
+Bank of Japan. Nakamura, Koji, Shogo Nakano, Mitsuhiro Osada, and Hiroki Yamamoto. 2024. What
+   caused the Pandemic-Era Inflation? Application of the Bernanke-Blanchard Model to Japan.
+   Working Paper, February 16.
+
+Bank of the Netherlands. Bonam, Dennis, Gerbert Hebbink, and Beer Pruijt. 2024. Drivers of Dutch
+   inflation during the pandemic era.” DNB Analysis.
+
+Bank of Spain. Ghomi, Morteza, Samuel Hurtado, and José Manuel Montero. 2024. Recent Dynamics
+   of Inflation in Spain: An Analysis Based on the Model by Blanchard and Bernanke (2023). Banco de
+   España Occasional Paper 2404.
+
+Bundesbank. Menz, Jan-Oliver. 2024. Sources of Post-Pandemic Inflation in Germany and the Euro
+   Area: An Application of Bernanke and Blanchard. Technical Paper.
+
+European Central Bank. Arce, Óscar, Matteo Ciccarelli, Antoine Kornprobst, and Carlos Montes-
+   Galdón. 2024. What caused the euro area post-pandemic inflation? ECB Occasional Paper Series
+   343.
+
+National Bank of Belgium. de Walque, Grégory, and Thomas Lejeune. 2024. What caused the post-
+   pandemic era inflation in Belgium? Replication of the Bernanke-Blanchard model for Belgium.
+   Working Paper 447.
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                             34
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+APPENDIX
+
+The analytical model in BB is composed of four equations.
+
+
+
+The wage equation has two components.
+
+The first gives the nominal wage 𝑤, as a function of the expected price level 𝑝𝑒 , and the aspiration real
+wage 𝜔 𝐴 , all in logs, and a generic measure of labor market tightness x :
+
+             𝑤 = 𝑝𝑒 + 𝜔 𝐴 + 𝛽𝑥
+
+    The second gives the aspiration wage 𝜔 𝐴 as a linear combination of the lagged aspiration wage,
+𝜔 𝐴 (−1), the actual lagged real wage 𝑤(−1) − 𝑝(−1), and a generic wage shock 𝑧𝑤 :
+
+             𝜔 𝐴 = 𝛼𝜔 𝐴 (−1) + (1 − 𝛼)(𝑤(−1) − 𝑝(−1)) + 𝑧𝜔
+
+    Combining the two gives the wage equation:
+
+    (1) 𝑤 − 𝑤(−1) = (𝑝𝑒 − 𝑝(−1)) + 𝛼(𝑝(−1) − 𝑝𝑒 (−1)) + 𝛽(𝑥 − 𝛼𝑥(−1)) + 𝑧𝑤
+
+
+
+The price equation gives the price level 𝑝 as a function of the nominal wage 𝑤, both in logs, and a
+generic measure of price shocks 𝑧𝑝 :
+
+             𝑝 = 𝑤 + 𝑧𝑝
+
+    Taking first differences gives the price equation:
+
+    (2) 𝑝 − 𝑝(−1) = (𝑤 − 𝑤(−1)) + (𝑧𝑝 − 𝑧𝑝 (−1))
+
+
+
+Short-run inflation expectations (𝑝𝑒 − 𝑝(−1)) are assumed to be a function of long-run inflation
+expectations 𝜋 ∗ and of past inflation:
+
+    (3) 𝑝𝑒 − 𝑝(−1) = 𝛿𝜋 ∗ + (1 − 𝛿)(𝑝(−1) − 𝑝(−2))
+
+
+
+Long-run inflation expectations are assumed to be a function of themselves lagged and of past
+inflation:
+
+    (4) 𝜋 ∗ = 𝛾𝜋 ∗ (−1) + (1 − 𝛾)(𝑝(−1) − 𝑝(−2))
+
+    Given wage and price shocks and labor market tightness, these four equations determine the
+dynamics of price and wage inflation as well as short- and long-run inflation expectations.
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                       35
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+     The impulse response presented in figure 2 shows the response of inflation to a positive price shock,
+for example an increase in the relative price of energy, for two different sets of values of the parameters.
+The impulse response presented in figure 3 shows the response of inflation to a tightening of the labor
+market, again for two different sets of values of the parameters.
+
+
+
+The quarterly empirical model that we estimated in BB and in this project has the same structure, but
+a more generous lag structure.
+
+
+
+The wage inflation equation is
+
+                                                   𝑔𝑤                            𝑔𝑝𝑒𝑠𝑟
+                   𝑔𝑤𝑡 = 𝛼 +             ∑       𝛼𝑘 𝑔𝑤𝑡−𝑘 +          ∑         𝛼𝑘        𝑔𝑝𝑒𝑠𝑟𝑡−𝑘 +        ∑         𝛼𝑘𝑉𝑈 (𝑣/𝑢)𝑡−𝑘
+                                     𝑘=1,2,3,4                     𝑘=1,2,3,4                             𝑘=1,2,3,4
+
+                                     𝑐𝑎𝑡𝑐ℎ𝑢𝑝                                                                                                 𝑔𝑤
+                   +      ∑         𝛼𝑘         𝑐𝑎𝑡𝑐ℎ𝑢𝑝𝑡−𝑘 + 𝛼𝑝𝑡𝑦 𝑚𝑎𝑝𝑡𝑦𝑡−1 + 𝛼𝑑1 𝐷2020: 2 + 𝛼𝑑2 𝐷2020: 3 + 𝑢𝑡
+                        𝑘=1,2,3,4
+
+     Wage inflation depends on lagged wage inflation, lagged expected short-run inflation, the lagged ratio
+of vacancies to unemployment (or, for countries for which this ratio is not available, a closely related
+variable), taken as the measure of labor market tightness, the lagged catch-up variable, constructed as the
+sum of unexpected inflation over the previous 4 quarters, an 8-quarter moving average productivity
+growth, and, in some countries, two dummies to capture the unusual movements in wages in 2020Q2 and
+2020Q3.
+
+
+
+The price inflation equation is
+
+                               𝑔𝑝                                                             𝑠ℎ𝑜𝑟𝑡𝑎𝑔𝑒                                        𝑔𝑟𝑝𝑒
+ 𝑔𝑝 = 𝛽 +           ∑        𝛽𝑘 𝑔𝑝𝑡−𝑘 +             ∑          𝛽𝑘𝑤 𝑔𝑤𝑡−𝑘 +          ∑        𝛽𝑘          𝑠ℎ𝑜𝑟𝑡𝑎𝑔𝑒𝑡−𝑘 +            ∑          𝛽𝑘      𝑔𝑟𝑝𝑒𝑡−𝑘
+               𝑘=1,2,3,4                         𝑘=0,1,2,3,4                   𝑘=0,1,2,3,4                                     𝑘=0,1,2,3,4
+
+                    𝑔𝑟𝑝𝑓                                                 𝑔𝑝
+ +      ∑          𝛽𝑘       𝑔𝑟𝑝𝑓𝑡−𝑘 + 𝛽𝑚𝑎𝑝𝑡𝑦 𝑚𝑎𝑝𝑡𝑦𝑡−1 + 𝑢𝑡
+     𝑘=0,1,2,3,4
+
+     Price inflation depends on lagged price inflation, lagged wage inflation, a moving average of
+productivity growth, and three measures of price shocks: the rate of growth of the price of energy relative
+to the wage, the rate of growth of the price of food relative to the wage, and a measure of shortages, based
+on Google trends (or, in some countries, alternative variables or synthetic measures).
+
+
+
+The short-run inflation expectation equation is
+
+                                           𝑔𝑝𝑒𝑠𝑟                                    𝑔𝑝𝑒𝑙𝑟                                 𝑔𝑝                 𝑔𝑝𝑒𝑠𝑟
+             𝑔𝑝𝑒𝑠𝑟𝑡 =           ∑        𝜙𝑘        𝑔𝑝𝑒𝑠𝑟𝑡−𝑘 +          ∑         𝜙𝑘         𝑔𝑝𝑒𝑙𝑟𝑡−𝑘 +        ∑          𝜙𝑘 𝑔𝑝𝑡−𝑘 + 𝑢𝑡
+                             𝑘=1,2,3,4                             𝑘=0,1,2,3,4                             𝑘=0,1,2,3,4
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                    36
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+    Short-run inflation expectations depend on themselves lagged, on lagged long-run expectations, and
+on current and lagged actual inflation. There is no constant term.
+
+
+
+The long-run inflation expectation equation is
+
+                                                  𝑔𝑝𝑒𝑙𝑟                                    𝑔𝑝             𝑔𝑝𝑒𝑙𝑟
+                        𝑔𝑝𝑒𝑙𝑟𝑡 =     ∑         𝜃𝑘         𝑔𝑝𝑒𝑙𝑟𝑡−𝑘 +           ∑          𝜃𝑘 𝑔𝑝𝑡−𝑘 + 𝑢𝑡
+                                   𝑘=1,2,3,4                                𝑘=0,1,2,3,4
+
+
+    Long-run inflation expectations depend on themselves lagged, and on current and lagged actual
+inflation. There is no constant term.
+
+    The four equations are constrained by homogeneity restrictions, which imply no long-run tradeoff
+between inflation and activity:
+
+                                          𝑔𝑤                     𝑔𝑝𝑒𝑠𝑟
+                               ∑         𝛼𝑘 +           ∑       𝛼𝑘          =1
+                             𝑘=1,2,3,4              𝑘=1,2,3,4
+
+                                          𝑔𝑝
+                               ∑         𝛽𝑘 +           ∑       𝛽𝑘𝑤 = 1
+                             𝑘=1,2,3,4            𝑘=0,1,2,3,4
+
+                                          𝑔𝑝𝑒𝑙𝑟                        𝑔𝑝
+                               ∑         𝜃𝑘       +        ∑          𝜃𝑘 = 1
+                             𝑘=1,2,3,4                  𝑘=0,1,2,3,4
+
+                                          𝑔𝑝𝑒𝑠𝑟                        𝑔𝑝𝑒𝑙𝑟                      𝑔𝑝
+                               ∑         𝜙𝑘         +       ∑         𝜙𝑘       +      ∑          𝜙𝑘 = 1
+                             𝑘=1,2,3,4                  𝑘=0,1,2,3,4                𝑘=0,1,2,3,4
+
+
+
+
+    The results of estimation of each equation are given in the following four tables. In some cases, the
+country team explored several specifications (e.g., alternative choices of the wage variable). The tables
+present the results of the specification emphasized by the country team and used to construct the impulse
+response functions and decompositions shown in the text. The reader is referred to the country papers for
+more details.
+
+    For each equation and variable, the tables give the estimated sum of coefficients and the p-value
+associated with the hypothesis that the sum or the set of coefficients is equal to zero. For each equation,
+they also give the p-value associated with the homogeneity hypothesis and with subsample stability. Table
+A1 reports two wage equations for Japan, for full- and part-time workers; the equation used in the model
+simulations is based on a regression of a weighted average of both wages on its determinants.
+
+
+
+
+________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                            37
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+ Table A1. Wage growth regressions
+                           United                  United        Japan        Japan
+                                                                                                                                                                a
+                           States     Euro area   Kingdom     (full-time)   (part-time)   France     Germany     Spain      Italy         Netherlands   Belgium       Canada
+ Lagged wages
+   sum of coefficients        0.544       0.309      0.602         0.778         0.177       0.781      0.305      0.680      0.455             0.048       -0.425        0.836
+   p (sum)                    0.000       0.126      0.000         0.000         0.251       0.000      0.113      0.000      0.021             0.874        0.074        0.000
+   p (set)                    0.004       0.285      0.000         0.000         0.000       0.000      0.000      0.000      0.000             0.000        0.005        0.000
+ Expected inflation
+   sum of coefficients        0.456       0.691      0.398         0.222         0.823       0.219      0.695      0.320      0.545             0.952        1.425        0.164
+   p (sum)                    0.003       0.001      0.000         0.003         0.000       0.113      0.000      0.013      0.006             0.002        0.000        0.015
+   p (set)                    0.035       0.000      0.001         0.073         0.000       0.011      0.006      0.000      0.052             0.001        0.000        0.140
+ Labor market variable
+   sum of coefficients        0.688       0.064      2.364        -0.070         0.934       0.056      0.256      -0.006     0.399             0.034        0.944        1.533
+   p (sum)                    0.012       0.566      0.016         0.636         0.003       0.552      0.101       0.985     0.030             0.005        0.001        0.024
+   p (set)                    0.000       0.147      0.007         0.841         0.028       0.000      0.113       0.228     0.023             0.000        0.013        0.193
+ Catch-up
+   sum of coefficients       -0.021       0.066      0.088        -0.022        -0.202       0.061      0.011      0.263      -0.137           -0.275        0.735       -0.018
+   p (sum)                    0.727       0.595      0.510         0.797         0.219       0.510      0.952      0.050       0.292            0.155        0.093        0.831
+   p (set)                    0.886       0.003      0.260         0.608         0.234       0.969      0.823      0.016       0.250            0.270        0.374        0.833
+ Productivity
+   coefficient                0.038       0.075      0.210         0.060         0.061       0.032      0.184      -0.086     0.098             0.208        0.011        0.081
+   p (coeff)                  0.517       0.288      0.093         0.348         0.581       0.531      0.185       0.589     0.402             0.099        0.967        0.029
+ Dummy 2020Q2
+   coefficient               -1.064       0.505      -2.786        0.049         0.239      -1.312      -0.802       n/a            n/a           n/a        1.106       -0.338
+   p (coeff)                  0.157       0.402       0.115        0.928         0.814       0.008       0.532       n/a            n/a           n/a        0.039        0.509
+ Dummy 2020Q3
+   coefficient                3.762       1.850      4.997         1.708        -2.311      -0.463      -0.098       n/a            n/a           n/a          n/a       -0.304
+   p (coeff)                  0.001       0.017      0.050         0.009         0.065       0.451       0.964       n/a            n/a           n/a          n/a        0.662
+
+    p (homogeneity)           0.008       0.158      0.919         0.771         0.001       0.532      0.006      0.001      0.435             0.246        0.794        0.487
+    p (sample stability)      0.445       0.033      0.006         0.313         0.005       0.018      0.712      0.035      0.550             0.018        0.954        0.698
+
+
+
+ R2                           0.660       0.722      0.597         0.765         0.602       0.747      0.276      0.584      0.526             0.775        0.552        0.702
+ number of observations         134          89        134           119           117         114        110         94         90                90          105          118
+
+                                                                                                                                          a. Belgium uses employers’ social
+                                                                                                                                          contributions instead of dummies.
+
+Sources: National statistics, authors’ calculations, Nakamura et al (2024).
+____________________________________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                                            38
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+ Table A2. Price growth regressions
+                           United               United
+                            States   Euro area Kingdom           Japan        France     Germany    Spain     Italy      Netherlands   Belgium    Canada
+ Lagged price
+   sum of coefficients         0.333     0.687     0.703            0.295        0.436      0.657     0.940      0.346        0.436       0.908      0.576
+   p (sum)                     0.037     0.000     0.000            0.198        0.002      0.000     0.000      0.165        0.005       0.000      0.000
+   p (set)                     0.063     0.001     0.000            0.110        0.001      0.006     0.000      0.513        0.005       0.000      0.000
+ Wage
+   sum of coefficients         0.667     0.313     0.297            0.705        0.564      0.343     0.060      0.654        0.564       0.092      0.424
+   p (sum)                     0.000     0.060     0.000            0.002        0.000      0.063     0.672      0.010        0.000       0.274      0.002
+   p (set)                     0.000     0.115     0.000            0.000        0.000      0.000     0.331      0.005        0.011       0.000      0.004
+ Energy prices
+   sum of coefficients         0.066     0.038     0.005            0.046        0.066      0.047     0.031      0.058        0.074       0.012      0.030
+   p (sum)                     0.000     0.040     0.768            0.019        0.000      0.044     0.218      0.028        0.001       0.309      0.136
+   p (set)                     0.000     0.000     0.000            0.000        0.000      0.000     0.000      0.000        0.000       0.000      0.000
+ Food prices
+   sum of coefficients         0.126     0.013     0.131            0.240        0.095      0.119     0.026      0.422        0.136       0.044      0.197
+   p (sum)                     0.049     0.872     0.013            0.002        0.022      0.255     0.765      0.007        0.067       0.455      0.032
+   p (set)                     0.048     0.000     0.000            0.000        0.000      0.000     0.213      0.000        0.001       0.000      0.000
+ Shortages
+   sum of coefficients         0.019     0.210     0.036            0.043        0.183      0.261     0.173      0.275        0.007       0.114      0.004
+   p (sum)                     0.225     0.034     0.375            0.153        0.186      0.076     0.259      0.071        0.060       0.075      0.778
+   p (set)                     0.000     0.050     0.030            0.008        0.773      0.003     0.124      0.335        0.342       0.069      0.614
+ Productivity
+   coefficients               -0.144     0.073    -0.221              n/a       -0.106      0.103     0.005    -0.008         -0.014      0.020     -0.031
+   p (coeff)                   0.025     0.213     0.002              n/a        0.005      0.255     0.950     0.922          0.900      0.758      0.593
+
+       p (homogeneity)          0.459       0.515       0.659       0.495        0.117      0.000     0.018      0.426        0.167       0.000      0.001
+       p (sample stability)     0.000       0.000       0.753       0.000        0.000      0.000     0.000      0.000        0.001       0.039      0.629
+
+
+   2
+ R                              0.947       0.974       0.888       0.838        0.944      0.911     0.831      0.956        0.870       0.965      0.865
+ number of observations           134          90         134         117          129        110       109         90          102         105        118
+
+Sources: National statistics, authors’ calculations, Nakamura et al (2024).
+____________________________________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                       39
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+  Table A3. Inflation expectations regressions, 1 year
+                               United                  United
+                               States     Euro area   Kingdom    Japan        France     Germany    Spain      Italy     Netherlands   Belgium    Canada
+  Lagged 1-year expectations
+    sum of coefficients           0.295       0.719      0.841      0.981        0.805      0.297     0.823      0.816        0.762       0.649      0.588
+    p (sum)                       0.032       0.000      0.000      0.000        0.000      0.003     0.000      0.000        0.000       0.000      0.000
+    p (set)                       0.000       0.000      0.000      0.000        0.000      0.006     0.000      0.000        0.000       0.000      0.000
+  10-year expectations
+    sum of coefficients           0.569       0.079      0.143      0.018       -0.013      0.378     -0.187     0.128        0.188       0.120      0.256
+    p (sum)                       0.000       0.022      0.012      0.154        0.752      0.000      0.154     0.071        0.009       0.006      0.000
+    p (set)                       0.000       0.285      0.000      0.000        0.694      0.000      0.329     0.175        0.044       0.058      0.000
+  Price
+    sum of coefficients           0.136       0.202      0.015      0.001        0.208      0.325     0.364      0.055        0.050       0.231      0.156
+    p (sum)                       0.000       0.000      0.519      0.979        0.000      0.000     0.025      0.079        0.021       0.000      0.000
+    p (set)                       0.000       0.000      0.027      0.016        0.000      0.000     0.001      0.000        0.000       0.000      0.000
+
+    p (homogeneity)               0.244       0.002      0.323      0.154        0.173      0.587     0.837      0.017        0.135       0.000      0.019
+    p (sample stability)          0.324       0.000      0.747      0.585        0.000      0.000     0.066      0.000        0.000       0.000      0.157
+
+
+
+  R2                              0.910       0.984      0.831      0.975        0.829      0.901     0.883      0.821        0.860       0.965      0.939
+  number of observations            134          93        134        123          110        110        94         93          110         109        118
+
+Sources: National statistics, authors’ calculations, Nakamura et al (2024).
+
+
+
+
+____________________________________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                       40
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Table A4. Inflation expectations regressions, 10 years
+                              United                    United
+                               States     Euro area    Kingdom     Japan      France     Germany    Spain     Italy     Netherlands   Belgium    Canada
+Lagged 10-year expectations
+  sum of coefficients             0.975        0.988       0.994      0.994      0.989      0.988     0.992     0.994        0.999       0.994      0.997
+  p (sum)                         0.000        0.000       0.000      0.000      0.000      0.000     0.000     0.000        0.000       0.000      0.000
+  p (set)                         0.000        0.000       0.000      0.000      0.000      0.000     0.000     0.000        0.000       0.000      0.000
+Price
+  sum of coefficients             0.025        0.012       0.006      0.006      0.011      0.012     0.008     0.006        0.001       0.006      0.003
+  p (sum)                         0.040        0.005       0.640      0.396      0.054      0.038     0.005     0.059        0.840       0.071      0.404
+  p (set)                         0.000        0.000       0.000      0.004      0.032      0.431     0.001     0.023        0.765       0.510      0.274
+
+  p (homogeneity)                 0.116       0.851       0.078       0.646      0.336      0.446     0.712     0.855        0.209       0.129      0.633
+  p (sample stability)            0.465       0.134       0.717       0.829      0.001      0.021     0.073     0.295        0.362       0.607      0.854
+
+
+R2                                0.932       0.830       0.944       0.908      0.863      0.826     0.894     0.913        0.752       0.853      0.893
+number of observations              134          93         134         123        110        110        94        93          110         109        118
+
+
+Sources: National statistics, authors’ calculations, Nakamura et al (2024).
+
+
+
+
+____________________________________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                                      41
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Table A5. List of variables, endogenous and exogenous
+
+                             United States                 Euro area                    United Kingdom                        Japan
+
+Endogenous variables
+
+gp        Price inflation   Quarterly               Quarterly annualized rates of   Quarterly annualized rates of   Quarterly annualized rates of
+                               annualized rates        change in the quarterly         change in the “All Items”       change in the CPI, Statistics
+                               of change in the        average in the euro area        CPI, seasonally adjusted        Bureau of Japan
+                               Consumer Price          (changing composition),         by Bank of England (BoE)
+                               Index (CPI),            Harmonized Index of             staff before changes
+                               Bureau of Labor         Consumer Prices (HICP)          calculated
+                               Statistics (BLS)        Overall index, European
+                                                       Central Bank (ECB)
+
+gw        Wage inflation    Rate of growth of       Rate of growth of nominal       Quarterly and annualized        Full-time: Nominal wage per
+                                nominal wages,          wages, quarterly and           changes in average weekly        month (scheduled cash
+                                quarterly and           annualized, as measured        earnings. The team uses          earnings), quarterly
+                                annualized, as          by the rate of change in       series for pay growth that       annualized change
+                                measured by the         euro area (changing            has been adjusted for the        Part-time: Nominal wage per
+                                rate of change in       composition) negotiated        furlough scheme to               month (scheduled cash
+                                the BLS                 wage growth (seasonally        capture wage growth over         earnings/hours worked),
+                                Employment              adjusted)                      the pandemic period              Monthly Labor Survey,
+                                Cost Index (ECI)                                                                        Ministry of Health, Labor,
+                                                                                                                        and Welfare of Japan
+
+
+
+
+     ____________________________________________________________________________________________________
+
+     An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                   42
+     HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+cf1         Short-term       Measured by 1-year     Measured by the quarterly       Based on a BoE summary          Synthetic indicator of 1-year
+               inflation        inflation              average of 1-year-ahead         measure of 1-year-ahead         inflation expectation across
+               expectation      expectations as        inflation expectations          annual inflation                firms, households, and
+                                constructed by         from the monthly                expectations across             experts, annual change;
+                                the Federal            consensus survey                households, businesses,         nonpublic data, calculated by
+                                Reserve Bank of                                        and professional                BOJ staff
+                                Cleveland                                              forecasters; extended
+                                                                                       historically by Thomas and
+                                                                                       Dimsdale (2017), and
+                                                                                       extended forward using a
+                                                                                       household expectations
+                                                                                       measure from the BoE
+                                                                                       Inflation Attitudes Survey
+
+cf10        Long-term        Measured by the        Measured by the longer-term     Long-run annual inflation       Synthetic indicator of 10-year
+               inflation        Cleveland Fed’s        (5-year-ahead) annual           expectation (5–10 years),       inflation expectation across
+               expectation      10-year inflation      HICP inflation forecast of      summary measure across          firms, households, and
+                                expectations           the ECB Survey of               households, professionals,      experts, annual change;
+                                series                 Professional Forecasters        and markets; extended           nonpublic data, calculated by
+                                                       (SPF)                           historically by Thomas and      BOJ staff
+                                                                                       Dimsdale (2017); extended
+                                                                                       forward using an average
+                                                                                       of various measures
+
+
+
+
+       ____________________________________________________________________________________________________
+
+       An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                43
+       HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+catch-up    Losses to           Losses to workers’      Losses to workers’ purchasing    Annual inflation minus 1-year
+                workers’            purchasing              power due to inflation,         inflation expectations 1
+                purchasing          power due to            measured by the 4-              year ago
+                power due to        inflation,              quarter average of HICP
+                inflation           measured by the         inflation minus the 1-year
+                                    4-quarter               inflation expectation 4
+                                    average of CPI          quarters earlier; catch-up
+                                    inflation minus         is a linear combination of
+                                    the 1-year              past gp and cf1
+                                    inflation
+                                    expectation 4
+                                    quarters earlier;
+                                    catch-up is a
+                                    linear
+                                    combination of
+                                    past gp and cf1
+
+Exogenous variables
+
+grpe        Rate of growth of   Quarterly and           Quarterly and annualized,        Quarterly and annualized         Ratio of CPI energy prices to
+                the relative       annualized,             measured as the rate of          change in ratio of energy         scheduled cash earning,
+                price of           measured as the         change of the ratio of           price to wage index               annualized quarterly change.
+                energy             rate of change of       HICP energy prices to the        consistent with gw.               CPI by the Statistics Bureau
+                                   the ratio of CPI        compensation per                 Combined “energy” prices          of Japan, and Monthly Labor
+                                   energy prices to        employees                        cover household energy            Survey by the Ministry of
+                                   the ECI                                                  bills (natural gas and            Health, Labor, and Welfare
+                                                                                            electricity) and vehicle
+                                                                                            fuels (petrol, diesel) from
+                                                                                            the UK CPI, Office for
+                                                                                            National Statistics (ONS)
+
+
+
+
+       ____________________________________________________________________________________________________
+
+       An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                      44
+       HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+grpf        Rate of growth of   Rate of growth of the   Rate of growth of the relative   Quarterly and annualized         Ratio of CPI food prices to
+                the relative        relative price of       price of food, quarterly        change in ratio of food           scheduled cash earning,
+                price of food       food, quarterly         and annualized,                 price to wage index;              annualized quarterly change.
+                                    and annualized,         measured as the rate of         measure of food prices            CPI by the Statistics Bureau
+                                    measured as the         change of the ratio of          covers food and                   of Japan and Monthly Labor
+                                    rate of change of       HICP food prices to             nonalcoholic beverages            Survey by the Ministry of
+                                    the ratio of CPI        compensation per                from the UK CPI                   Health, Labor, and Welfare
+                                    food prices to          employee                        (seasonally adjusted by
+                                    the ECI                                                 team), ONS
+
+v/u         Labor market        Ratio of job            Ratio of job vacancies to        Vacancies from ONS Vacancy       Ratio of job vacancies and
+               variable/ratio       vacancies to            unemployment, backcast          Survey (of businesses);           unemployment, Monthly
+               of job               unemployment,           using EU Commission             backcast using Job Centre         Labor Survey by the Ministry
+               vacancies to         from the BLS            survey-based measure of         vacancies with official           of Health, Labor, and Welfare
+               unemployme           job openings            labor shortage as a factor      linking factor sourced
+               nt                   and labor               limiting production in          from Thomas and
+                                    turnover survey         industry, working day           Dimsdale (2017).
+                                    and BLS                 and seasonally adjusted         Unemployment from
+                                    Employment                                              official ONS labor market
+                                    Report; pre-                                            statistics derived from
+                                    2001 data from                                          Labor Force Survey (of
+                                    Barnichon                                               households). Not adjusted
+                                    (2010)                                                  for furlough.
+
+shortage    Index of            Index of shortages      Global Supply Chain Pressure     Google trends results for        Number of Google searches with
+                shortages           based on Google        Index, first lag, Federal        shortage in UK. Average of       the term supply shortage in
+                based on            searches               Reserve of New York              months to create quarterly       Japanese
+                Google                                                                      series. Pre-2004 series set
+                searches                                                                    to = 4, approx. equal to
+                                                                                            average 2004–07.
+
+
+
+
+       ____________________________________________________________________________________________________
+
+       An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                      45
+       HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+gpty        Trend              Measured by the 8-    Long-term productivity          Moving 8-quarter average of       Real GDP/(work hour * number
+                productivity      quarter moving        growth, measured by the         quarterly market sector           of employed persons),
+                growth            average of log        change in the 8-quarter         productivity growth,              annualized quarterly change,
+                                  changes of            moving average of the           annualized. Productivity          8-quarter average; National
+                                  nonfarm               quarterly change of gross       index smoothed before             Accounts of Japan (SNA)
+                                  business value        value added divided by          growth rates taken, given         Cabinet Office, Monthly
+                                  added divided         total employment, from          volatility especially during      Labor Survey by the Ministry
+                                  by nonfarm            Eurostat                        COVID period. Smoothing           of Health, Labor, and Welfare
+                                  employee hours,                                       helps the fit.
+                                  from the BLS
+
+
+
+                                        France                        Germany                          Spain                           Italy
+
+  Endogenous variables
+
+  gp         Price inflation   Annualized quarterly log-     HICP, seasonally and          General HICP including food     Consumer price inflation, as
+                                  difference of total HICP      calendar adjusted,            and energy prices,              measured by quarterly
+                                  (seasonally adjusted),        Destatis                      National Accounts,              annualized rates of
+                                  National Institute of                                       National Statistics             change in the HICP, SA,
+                                  Statistics and Economic                                     Institute                       ECB
+                                  Studies (Insee)
+
+  gw         Wage inflation    Basic monthly wage,           Negotiated wages, basic       Wages approximated by           Rate of growth of nominal
+                                   measured by the              salaries                      remuneration per                 wages, quarterly and
+                                   annualized quarterly         (Grundvergütungen),           employee, National               annualized, measured by
+                                   growth rate, an              excluding lump-sum            Accounts and Ministry of         the rate of change in
+                                   employee’s gross wage        payments (e.g., vacation      Labor and Social                 private sector
+                                   before deduction of          pay), hourly basis,           Economy                          contractualized wages,
+                                   contributions and            seasonally adjusted,                                           Italian National Institute
+                                   excluding bonuses or         Bundesbank                                                     of Statistics (ISTAT)
+                                   remuneration for
+                                   overtime (seasonally
+
+       ____________________________________________________________________________________________________
+
+       An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                   46
+       HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                               adjusted), Dares,
+                               Acemo survey
+
+cf1      Short-term         1-year-ahead inflation       1-year-ahead expectation        1-year quarterly inflation      1-year inflation expectations,
+            inflation           expectation, Consensus       series as a weighted            expectation (not                Consensus Economics
+            expectation         Forecast, backcast           average of professional         seasonally adjusted),
+                                using 12 quarters            forecasters’ predictions        Business and Consumer
+                                moving average of            for the current and next        Surveys of the European
+                                HICP inflation               calendar year, Consensus        Commission
+                                                             Economics
+
+cf10     Long-term          Long-run annual inflation    Inflation expectations of       Long-term quarterly inflation   Long-term inflation
+            inflation          expectation (5–10 years       professional forecasters,      expectation (5 years) for       expectations (10 years),
+            expectation        ahead), Consensus             6–10 years ahead,              the euro area, due to lack      annual series,
+                               Forecast                      Consensus Economics            of a comparable variable        interpolated by authors
+                                                                                            for Spain (not seasonally       to obtain quarterly data,
+                                                                                            adjusted), Survey of            Consensus Economics
+                                                                                            Professional Forecasters
+                                                                                            (SPF) of the European
+                                                                                            Central Bank
+
+catch-   Losses to                                       Average headline inflation      Difference between the          Losses to workers’
+    up       workers’                                       over the current and the         inflation rate                  purchasing power due to
+             purchasing                                     previous 3 quarters              accumulated in the last         inflation, measured by
+             power due                                      minus the 1-year-ahead           year and the 1-year             the 4-quarter average of
+             to inflation                                   inflation expectations 1         inflation expectation           CPI inflation minus the
+                                                            year ago                         recorded 4 quarters             1-year inflation
+                                                                                             earlier                         expectation 4 quarters
+                                                                                                                             earlier. Catch-up is a
+                                                                                                                             linear combination of
+                                                                                                                             past gp and cf1.
+
+
+
+  ____________________________________________________________________________________________________
+
+  An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                      47
+  HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+Exogenous variables
+
+grpe    Rate of growth      Annualized quarterly           HICP energy subcomponent,        HICP energy prices relative    Rate of growth of the relative
+            of the             change of HICP energy          seasonally and calendar          to wage series, National        price of energy, quarterly
+            relative           subcomponent relative          adjusted, relative to wage       Accounts, National              and annualized,
+            price of           to the wage index as           index, Destatis                  Statistics Institute            measured as the rate of
+            energy             defined above                                                                                   change of the ratio of CPI
+                                                                                                                               energy prices to the
+                                                                                                                               private sector
+                                                                                                                               contractualized wages
+
+grpf    Rate of growth      Annualized quarterly           HICP food subcomponent,          HICP food prices relative to   Rate of growth of the relative
+            of the             change of HICP food            seasonally and calendar          wage series, National           price of food, quarterly
+            relative           subcomponent relative          adjusted, relative to wage       Accounts, National              and annualized,
+            price of food      to the wage index as           index, Destatis                  Statistics Institute            measured as the rate of
+                               defined above                                                                                   change of the ratio of CPI
+                                                                                                                               food prices to the private
+                                                                                                                               sector contractualized
+                                                                                                                               wages
+
+v/u     Labor Market        Ratio of job vacancies and     Ratio of total number of         Ratio of job vacancies to      Ratio of job vacancies to
+           Variable/rat         unemployment,                  unemployed persons,              unemployment,                  unemployment, backcast
+           io of job            backcast using the 8-          national definition (e.g.,       Eurostat. Unemployment         by team’s calculations,
+           vacancies to         quarter moving-average         including refugees),             rate (adjusted estimated       ISTAT
+           unemploym            growth rate of the Insee       seasonally adjusted, and         and calculated) from
+           ent                  survey-based measure           total number of posted           Labor Force Survey.
+                                                               jobs, seasonally and
+                                                               calendar adjusted,
+                                                               Federal Employment
+                                                               Agency
+
+
+
+
+ ____________________________________________________________________________________________________
+
+ An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                         48
+ HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+shorta   Index of           Average value for Google     Number of Google search        Google trend data for the        Global Supply Chain
+    ge       shortages         searches for the words       requests for the term          search term escasez              Pressure Index, first lag,
+             based on          pénurie(s) and               Lieferengpässe                                                  Federal Reserve of New
+             Google            approvisionnement,                                                                           York
+             searches          corrected for peaks
+                               related to strikes at
+                               major oil refineries
+
+gpty     Trend              Measure of trend labor       Real labor productivity per    Moving average of 8 quarters     Trend productivity growth
+             productivity      hourly productivity in       hour, seasonally               of the growth of gross            measured by the change
+             growth            market branches using        adjusted, total economy,       value added per                   in the 8-quarter moving
+                               an 8-quarter moving          Destatis                       employee in the total             average of nonfarm
+                               average of productivity                                     economy, National                 business value added
+                               annualized quarterly                                        Accounts and Ministry of          divided by nonfarm
+                               growth rate, adjusted                                       Labor and Social                  employee hours
+                               (through interpolation)                                     Economy
+                               for the steep fall
+                               observed during the
+                               COVID period
+
+
+
+                                   Netherlands                            Belgiuma                                      Canada
+
+Endogenous Variables
+
+gp       Price inflation    CPI, annualized quarterly    Quarterly inflation rate of the National Index   Inflation measured by quarterly
+                                growth rate                 for Consumer Prices (NICP), which is the          annualized changes in the CPI,
+                                                            reference index for Belgian automatic             Statistics Canada
+                                                            wage indexation (seasonally adjusted),
+                                                            NBB.Stat
+
+gw       Wage inflation     Compensation per hour,       Quarterly growth rate of the nominal hourly      Wage growth measured by annual
+                               annualized quarterly         wage cost of the private sector, computed        average negotiated wage
+                               growth rate                  as total compensation of employees               adjustment over the period of the
+ ____________________________________________________________________________________________________
+
+ An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                        49
+ HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                              divided by the total volume of hours           contract in collective bargaining
+                                                              worked; includes gross wages as well as        agreements
+                                                              employers’ social security contributions
+                                                              (calendar and seasonally adjusted but
+                                                              not adjusted for job retention schemes),
+                                                              NBB.Stat
+
+cf1      Short-term         1-year-ahead inflation        1-year-ahead consumption price inflation       Short-term inflation expectations,
+            inflation           expectations, Consensus       expectations, measured as the quarterly       defined as expectation of up to 2
+            expectation         Economics                     average from the monthly Consensus            years ahead, Bank of Canada staff
+                                                              survey, Consensus Economics                   calculation (not public)
+
+cf10     Long-term          6–10-year-ahead inflation     6–10-year-ahead consumption price inflation    Long-term inflation expectations,
+            inflation          expectations, Consensus       expectations, Consensus Economics.             defined as expectations from 3 to
+            expectation        Economics                     Backcast using long-term inflation             10 years ahead, Bank of Canada
+                                                             expectations for the euro area as a whole      staff calculation (not public)
+                                                             (5-year-ahead annual HICP inflation
+                                                             forecast), ECB SPF.
+
+catch-   Losses to                                                                                       4-quarter average of CPI inflation
+    up       workers’                                                                                        minus short-term inflation
+             purchasing                                                                                      expectation 4 quarters earlier
+             power due
+             to inflation
+
+Exogenous variables
+
+grpe     Rate of growth     HICP energy, relative to      Energy price inflation as the quarterly        Annualized log-difference of CPI energy
+             of the            nominal wages,                growth rate of the relative price of           prices relative to the wage measure,
+             relative          annualized quarterly          energy, measured as the rate of change of      Statistics Canada and team’s
+             price of          growth rate                   the ratio of NICP energy component (not        calculation
+             energy                                          seasonally adjusted) to compensation per
+                                                             hour
+
+
+
+  ____________________________________________________________________________________________________
+
+  An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                         50
+  HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+grpf     Rate of growth      HICP food relative to         Quarterly growth rate of the relative price of   Annualized log-difference of CPI food
+             of the             nominal wages,                food, measured as the rate of change of          prices relative to our aggregate wage
+             relative           annualized quarterly          the ratio of NICP food components (not           measure, Statistics Canada and
+             price of food      growth rate                   seasonally adjusted) to compensation per         Canadian authors’ calculation
+                                                              hour
+
+v/u      Labor market        Ratio of job vacancies to     Average over two indicators: (1) 1 minus the     Ratio of job vacancies to unemployment,
+            variable/rat         unemployment                 harmonized unemployment rate for                  Statistics Canada and Bank of
+            io of job                                         Belgium (seasonally adjusted), NBB.Stat;          Canada staff calculation
+            vacancies to                                      and (2) the percentage of manufacturing
+            unemploym                                         firms pointing to “labor shortage as a
+            ent                                               factor limiting production” in the
+                                                              European Commission business survey
+                                                              (not seasonally adjusted); both
+                                                              indicators are detrended before entering
+                                                              the average
+
+shorta   Index of            Google searches of the term   The first component of a principal               Indexed measure of Google searches of
+    ge       shortages          shortage in the                component analysis on several                    the word shortage
+             based on           Netherlands                    indicators: Google searches of the terms
+             Google                                            pénurie(s), krapte, the Global Supply
+             searches                                          Chain Pressure index from the Federal
+                                                               Reserve of New York, and two seasonally
+                                                               adjusted purchasing managers’ indices
+                                                               for European markets by S&P Global,
+                                                               tracking manufacturing suppliers’
+                                                               delivery times, and an index for input
+                                                               prices in both manufacturing and
+                                                               services
+
+gpty     Trend               Gross value added per hours   8-quarter moving average on the quarterly        Trend productivity growth in the
+             productivity       worked, 8-quarter             growth rate of productivity until 2019Q4,         business sector, measured by the 8-
+             growth             moving average of the         reduced to 4-quarter moving average               quarter moving average of log change
+
+ ____________________________________________________________________________________________________
+
+ An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                         51
+ HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                               annualized quarterly             thereafter, measured as Belgian private          in business sector productivity,
+                               growth rate                      value added per hours worked                     Statistics Canada
+                                                                (seasonally adjusted)
+
+a. Belgium uses a social contributions variable in addition to the other variables: Quarterly (detrended) implicit rate of social contributions
+    measured by the ratio of total employers’ social contributions to (before-tax) gross wages. The addition of this variable improves the fit of the
+    wage equation without significantly changing the coefficients of other variables.
+
+
+
+
+____________________________________________________________________________________________________
+
+An Analysis of Pandemic -Era Inflation in 11 Economies                                                                                              52
+HUTCHINS CENTER ON FISCAL & MONETARY POLICY
+                                                    The mission of the Hutchins Center on
+                                                    Fiscal and Monetary Policy is to improve
+                                                    the quality and efficacy of fiscal and
+                                                    monetary policies and public
+                                                    understanding of them.
+
+
+
+
+  Questions about the research? Email ESmedia@brookings.edu.
+     Be sure to include the title of this paper in your inquiry.
+The Brookings Institution | 1775 Massachusetts Ave., NW, Washington, DC 20036 | 202.797.6000
+

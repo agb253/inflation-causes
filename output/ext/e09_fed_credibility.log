@@ -1,0 +1,36 @@
+    series        date                                        event  change_2day  ordinary_p5  ordinary_p95  outside_ordinary_range
+0    T5YIE  2020-08-27  New framework (average inflation targeting)         0.05        -0.07          0.07                   False
+1    T5YIE  2021-01-27                                         FOMC         0.03        -0.07          0.07                   False
+2    T5YIE  2021-03-17                                         FOMC        -0.09        -0.07          0.07                    True
+3    T5YIE  2021-04-28                                         FOMC         0.05        -0.07          0.07                   False
+4    T5YIE  2021-06-16                                         FOMC        -0.15        -0.07          0.07                    True
+5    T5YIE  2021-07-28                                         FOMC         0.03        -0.07          0.07                   False
+6    T5YIE  2021-09-22                                         FOMC         0.04        -0.07          0.07                   False
+7    T5YIE  2021-11-03                                         FOMC         0.04        -0.07          0.07                   False
+8    T5YIE  2021-12-15                                         FOMC         0.04        -0.07          0.07                   False
+9   T10YIE  2020-08-27  New framework (average inflation targeting)         0.05        -0.05          0.06                   False
+10  T10YIE  2021-01-27                                         FOMC         0.05        -0.05          0.06                   False
+11  T10YIE  2021-03-17                                         FOMC        -0.03        -0.05          0.06                   False
+12  T10YIE  2021-04-28                                         FOMC         0.03        -0.05          0.06                   False
+13  T10YIE  2021-06-16                                         FOMC        -0.11        -0.05          0.06                    True
+14  T10YIE  2021-07-28                                         FOMC         0.05        -0.05          0.06                   False
+15  T10YIE  2021-09-22                                         FOMC         0.02        -0.05          0.06                   False
+16  T10YIE  2021-11-03                                         FOMC         0.05        -0.05          0.06                   False
+17  T10YIE  2021-12-15                                         FOMC         0.05        -0.05          0.06                   False
+18  T5YIFR  2020-08-27  New framework (average inflation targeting)         0.05        -0.07          0.07                   False
+19  T5YIFR  2021-01-27                                         FOMC         0.07        -0.07          0.07                    True
+20  T5YIFR  2021-03-17                                         FOMC         0.03        -0.07          0.07                   False
+21  T5YIFR  2021-04-28                                         FOMC         0.01        -0.07          0.07                   False
+22  T5YIFR  2021-06-16                                         FOMC        -0.07        -0.07          0.07                   False
+23  T5YIFR  2021-07-28                                         FOMC         0.07        -0.07          0.07                   False
+24  T5YIFR  2021-09-22                                         FOMC         0.00        -0.07          0.07                   False
+25  T5YIFR  2021-11-03                                         FOMC         0.06        -0.07          0.07                   False
+26  T5YIFR  2021-12-15                                         FOMC         0.06        -0.07          0.07                   False
+                        0
+T5YIFR_2015_19_min   1.41
+T5YIFR_2015_19_max   2.35
+T5YIFR_2015_19_mean  1.95
+T5YIFR_2021_22_max   2.67
+T5YIFR_2021_22_mean  2.22
+T5YIFR_2020_08_26    1.81
+T5YIFR_2021_12_31    2.25

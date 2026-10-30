@@ -1,0 +1,16 @@
+shapiro,case,supply_after,demand_after
+SF Fed published,central,7.023,7.608
+SF Fed published,"a=0,c=0",4.115,10.56
+SF Fed published,"a=1,c=1",9.781,4.809
+recomputed L4t,central,5.813,8.822
+recomputed L4t,"a=0,c=0",3.446,11.229
+recomputed L4t,"a=1,c=1",8.764,5.825
+recomputed L4pct,central,7.155,7.471
+recomputed L4pct,"a=0,c=0",3.684,10.991
+recomputed L4pct,"a=1,c=1",10.172,4.418
+recomputed L5t,central,7.425,7.194
+recomputed L5t,"a=0,c=0",4.212,10.463
+recomputed L5t,"a=1,c=1",10.032,4.558
+recomputed L5pct,central,6.892,7.74
+recomputed L5pct,"a=0,c=0",3.218,11.458
+recomputed L5pct,"a=1,c=1",10.318,4.272

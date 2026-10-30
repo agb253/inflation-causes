@@ -1,0 +1,1405 @@
+              Congressional Budget Office                                                                                                                                 Revised August 5, 2022
+              Cost Estimate
+Summary
+Estimated Budgetary Effects of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+https://s3.documentcloud.org/documents/22122281/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030       2031     2022-2026    2022-2031
+
+                                                                                     Increases or Decreases (-) in Direct Spending
+Title I. Committee on Finance
+     Budget Authority                                     83,623    18,549      12,147      -2,159    -12,581     -24,529    -42,463    -43,170     -52,512     -55,497      99,578      -118,593
+     Estimated Outlays                                         0    24,250      16,145       3,043      -5,948    -16,267    -32,340    -31,055     -37,944     -40,595      37,489      -120,712
+     On-Budget Outlays                                         0    24,266      16,181      3,091      -5,888    -16,194    -32,254    -30,961     -37,846     -40,494       37,649     -120,100
+     Off-Budget Outlays                                        0       -16         -36         -48         -60        -73        -86        -94         -98        -101        -160          -612
+Title II. Committee on Agriculture, Nutrition, and
+Forestrya
+     Budget Authority                                     18,665      1,062      3,642       6,565      8,310        200           0          0          0           0        38,244      38,444
+     Estimated Outlays                                         0        507      1,782       3,343      5,268      6,616       6,417      5,441      3,593       1,714        10,900      34,681
+Title III. Committee on Banking, Housing, and
+Urban Affairs
+     Budget Authority                                      1,500          0          0           0          0          0           0          0            0         0         1,500       1,500
+     Estimated Outlays                                         0         45        165         235        235        255         260        200           60        10           680       1,465
+Title IV. Committee on Commerce, Science, and
+Transportation
+     Budget Authority                                      3,607          0          0           0          0          0           0          0            0         0         3,607       3,607
+     Estimated Outlays                                         0         35        345         897      1,244        824         182         21            6         0         2,521       3,554
+Title V. Committee on Energy and
+Natural Resources
+     Budget Authority                                     37,917       -235        -44         -22        -46        -51         -47        -69        -63         -67        37,570      37,273
+     Estimated Outlays                                         0        219      2,439       4,786      6,954      6,541       4,778      3,058      1,744         817        14,398      31,336
+Title VI. Committee on Environment and
+Public Works
+     Budget Authority                                     50,335          0          0           0          0          0           0          0          0           0        50,335      50,335
+     Estimated Outlays                                         0      1,486      4,476       7,964     10,315      9,095       4,986      2,019      1,035         439        24,241      41,815
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               1
+              Congressional Budget Office                                                                                                                                 Revised August 5, 2022
+              Cost Estimate
+Summary
+Estimated Budgetary Effects of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+https://s3.documentcloud.org/documents/22122281/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                           2022       2023       2024        2025       2026       2027       2028       2029        2030         2031    2022-2026    2022-2031
+
+Title VII. Committee on Homeland Security and
+Governmental Affairsb
+      Budget Authority                                    3,635         70         70         70          70          0          0          0              0         0         3,915      3,915
+      Estimated Outlays                                       0        195        448        641         716        681        528        421            323        23         2,000      3,976
+      On-Budget Outlays                                   3,000         75        148        206         236        141         78         46             23        23         3,665      3,976
+      Off-Budget Outlays                                 -3,000        120        300        435         480        540        450        375            300         0        -1,665          0
+Title VIII. Committee on Indian Affairs
+     Budget Authority                                       423          0           0          0          0           0          0          0             0         0          423          423
+     Estimated Outlays                                        0         29          88        107         94          70         29          6             0         0          318          423
+Total Changes in Direct Spending
+     Budget Authority                                  199,705     19,446      15,815       4,454     -4,247    -24,380     -42,510    -43,239     -52,575      -55,564      235,172      16,904
+     Estimated Outlays                                       0     26,766      25,888      21,016    18,878       7,815     -15,160    -19,889     -31,183      -37,592       92,547       -3,462
+     On-Budget Outlays                                   3,000     26,662      25,624      20,629    18,458       7,348    -15,524    -20,170     -31,385      -37,491        94,372      -2,850
+     Off-Budget Outlays                                 -3,000        104         264         387       420         467        364        281         202          -101       -1,825         -612
+
+                                                                                         Increases or Decreases (-) in Revenues
+Title I. Committee on Finance
+     Estimated Revenues                                     -416   44,575      22,486       3,847      -4,096     2,557      3,017      3,091       2,789       2,836        66,391      80,680
+             On-Budget Revenues                            -416    43,963      21,236       2,183     -5,586      1,268      1,596      1,486       1,066       1,028        61,375      67,818
+             Off-Budget Revenues                               0      612       1,250       1,664      1,490      1,289      1,421      1,605       1,723       1,808         5,016      12,862
+Title VI. Committee on Environment and
+Public Works
+     Estimated Revenues                                       0           0          0          0        850      1,350       1,400      1,200      1,050          500          850       6,350
+     Total Changes in Revenues                              -416   44,575      22,486       3,847      -3,246     3,907      4,417      4,291       3,839       3,336        67,241      87,030
+             On-Budget Revenues                            -416    43,963      21,236       2,183     -4,736      2,618      2,996      2,686       2,116       1,528        62,225      74,168
+             Off-Budget Revenues                               0      612       1,250       1,664      1,490      1,289      1,421      1,605       1,723       1,808         5,016      12,862
+
+
+
+
+                                                           See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                          How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              2
+               Congressional Budget Office                                                                                                                                Revised August 5, 2022
+               Cost Estimate
+Summary
+Estimated Budgetary Effects of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+https://s3.documentcloud.org/documents/22122281/inflation_reduction_act_of_2022.pdf
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                             2022       2023       2024       2025        2026       2027       2028       2029        2030      2031     2022-2026    2022-2031
+
+
+                                                                                       Net Increase or Decrease (-) in the Deficit
+                                                                                    From Changes In Direct Spending and Revenues
+
+     Effect on the Deficit                                    416     -17,809     3,402     17,169     22,124       3,908     -19,577    -24,180     -35,022    -40,928      25,306       -90,492
+              On-Budget Deficit                             3,416    -17,301      4,388     18,446     23,194       4,730    -18,520    -22,856     -33,501    -39,019       32,147      -77,018
+              Off-Budget Deficit                           -3,000        -508      -986     -1,277     -1,070        -822      -1,057     -1,324      -1,521     -1,909      -6,841      -13,474
+
+Memorandum:
+Nonscored Revenue Increases
+    Enhancement of Internal Revenue Service
+    Resourcesc                                                   0     2,919      7,794     13,459      19,024     24,351     29,552      33,743     37,553     35,315        43,196     203,710
+
+Estimates are relative to CBO’s July 2021 baseline.
+Components may not sum to totals because of rounding.
+
+Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.
+On August 5, 2022, CBO issued a revision to the table published on August 3, 2022, to include estimates for Sections 13601 and 13802. As a result, the updated
+estimate of the deficit reduction was lowered by $11 billion over the 2022-2031 period.
+See Notes for additional details.
+
+
+
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                3
+                Congressional Budget Office                                                                                                                              Revised August 5, 2022
+                Cost Estimate
+Summary Notes
+Estimated Budgetary Effects of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+
+On August 5, 2022, CBO issued a revision to the table published on August 3, 2022, to include estimates of spending for sections 13601 and 13802. As a result, the updated
+estimate of the deficit reduction was lowered by $11.0 billion over the 2022-2031 period. CBO’s estimate of H.R. 5376, the Build Back Better Act, as passed by the House of
+Representatives on November 19, 2021, also did not include an estimate of the spending that would result from enacting a similar provision, section 136701. As a result, the
+estimated deficit for that piece of legislation also would be different, but CBO has not finished its estimate of that spending.
+
+Titles I, II, III, IV, VI, VII, and VIII would not increase on-budget deficits after 2031.
+CBO cannot determine whether part 6 of title V would increase or decrease deficits after 2031 because there is significant uncertainty about federal mineral leasing and energy
+development activities and related receipts after 2031. The remaining provisions of title V would not increase deficits after 2031.
+
+a.    The Budget Control Act of 2011 (BCA) requires the annual sequestration of nonexempt mandatory spending programs. The Office of Management and Budget determines
+      which accounts are subject to reductions under the BCA. Some of the accounts affected by title II are subject to sequestration; this estimate reflects the effects of
+      sequestration on those accounts.
+b.    Postal Service cash flows are recorded in the Postal Service Fund in the federal budget and are classified as off-budget. Title VII of the legislation would transfer funds
+      from the Treasury to the Postal Service Fund; that transfer would be classified as an on-budget transaction.
+c.    CBO expects that the provisions in title I that would increase funding for tax enforcement activities also would increase revenues. However, under guidelines agreed to by
+      the legislative and executive branches, that change is not included in this cost estimate, although it would be reflected in CBO’s baseline budget projections after the
+      legislation was enacted. (For more information on those guidelines, see Congressional Budget Office, CBO Explains Budgetary Scorekeeping Guidelines, January 2021,
+      www.cbo.gov/publication/56507.) CBO estimates that as a result of those increases in outlays, revenues would increase by $204 billion over the 2022-2031 period.
+
+
+
+
+                                                                  See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                                 How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                     4
+              Congressional Budget Office                                                                                                                                  Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                             2022       2023       2024       2025        2026       2027       2028       2029        2030        2031    2022-2026    2022-2031
+
+                                                                                      Increases or Decreases (-) in Direct Spending
+
+Subtitle A. Deficit Reduction
+Sec. 10301 Enhancement of Internal Revenue Service
+               Resourcesa
+               Budget Authority                    79,622                  0          0           0          0          0           0          0          0           0        79,622      79,622
+               Estimated Outlays                        0              5,240      4,175       5,215      6,493      7,982       9,820     11,813     14,269      14,605        21,123      79,612
+
+Subtitle B. Prescription Drug Pricing Reform
+Part 1. Lowering Prices Through Drug Price Negotiation
+Sec. 11001 Providing for Lower Prices for Certain
+               High-Priced Single Source Drugsb
+               Budget Authority                                 0           0          0          0     -4,844      -9,432   -18,498     -20,807    -23,603      -24,612       -4,844    -101,796
+               Estimated Outlays                                0           0          0          0     -4,844      -9,432   -18,498     -20,807    -23,603      -24,612       -4,844    -101,796
+Sec. 11002    Special Rule to Delay Selection and       Estimate included in section 11001
+              Negotiation of Biologics for Biosimilar
+              Market Entry
+Sec. 11003    Selected Drug Manufacturer Excise         Estimate included in section 11001
+              Tax Imposed During Noncompliance
+              Periods
+Sec. 11004    Funding
+              Budget Authority                              3,000          0          0           0          0          0           0          0             0        0         3,000       3,000
+              Estimated Outlays                                 0        333        314         314        314        314         314        314           314      314         1,275       2,845
+
+
+
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                5
+              Congressional Budget Office                                                                                                                             Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                        By Fiscal Year, Millions of Dollars
+
+                                                          2022       2023       2024       2025        2026       2027       2028       2029        2030     2031     2022-2026     2022-2031
+
+
+Part 2. Prescription Drug Inflation Rebates
+Sec. 11101 Medicare Part B Rebate by Manufacturersb,c
+     and
+Sec. 11002 Medicare Part D Rebate by Manufacturersc
+               Budget Authority, Total                     160      -2,339     -3,166    -18,191      -5,700     -5,929     -6,161      -6,446     -7,068    -7,455       -29,236      -62,295
+               Estimated Outlays, Total                      0      -2,309     -3,150    -18,177      -5,686     -5,915     -6,147      -6,432     -7,054    -7,441       -29,322      -62,311
+               On-Budget Outlays                             0     -2,293     -3,114    -18,129      -5,626     -5,842     -6,061      -6,338     -6,956    -7,340       -29,162      -61,699
+               Off-Budget Outlays                            0         -16        -36        -48         -60        -73        -86         -94        -98      -101          -160         -612
+              Medicare
+              Budget Authority                             160     -2,348      -3,298    -18,538     -6,180      -6,630     -7,204     -7,915     -9,076    -9,992       -30,204      -71,021
+              Estimated Outlays                              0     -2,318      -3,282    -18,524     -6,166      -6,616     -7,190     -7,901     -9,062    -9,978       -30,290      -71,037
+              Medicaid
+              Budget Authority                               0        138        566         994      1,328      1,791       2,350      2,928      3,548     4,162         3,026       17,805
+              Estimated Outlays                              0        138        566         994      1,328      1,791       2,350      2,928      3,548     4,162         3,026       17,805
+              Otherd
+              Budget Authority                               0        -129       -434       -647        -848     -1,090     -1,307      -1,459     -1,540    -1,625        -2,058       -9,079
+              Estimated Outlays                              0        -129       -434       -647        -848     -1,090     -1,307      -1,459     -1,540    -1,625        -2,058       -9,079
+              On-Budget Outlays                              0       -113       -398       -599        -788     -1,017     -1,221      -1,365     -1,442    -1,524        -1,898       -8,467
+              Off-Budget Outlays                             0         -16        -36        -48         -60        -73        -86         -94        -98      -101          -160         -612
+
+Part 3. Part D Improvements and Maximum Out-of-Pocket Cap for Medicare Beneficiaries
+Sec. 11201 Medicare Part D Benefit Redesign
+                Budget Authority                      341         0     1,952     3,252               3,500      4,492       4,426      3,902      1,736     1,412         9,045       25,013
+                Estimated Outlays                       0        48     1,988     3,291               3,530      4,522       4,456      3,932      1,766     1,442         8,857       24,975
+
+
+
+
+                                                          See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                         How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                             6
+              Congressional Budget Office                                                                                                                                 Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030        2031    2022-2026    2022-2031
+
+Sec. 11202    Maximum Monthly Cap on
+              Cost-Sharing Payments Under Prescription
+              Drug Plans and MA-PD Plans
+              Budget Authority                                 0         10           0         15         15          15         20         15            15       20           40         125
+              Estimated Outlays                                0          5           3         17         15          15         20         15            15       20           40         125
+
+Part 4. Repeal of Prescription Drug Rebate Rule
+Sec. 11301 Prohibiting Implementation of Rule Relating to
+              Eliminating the Anti-Kick-Back Statute Safe Harbor
+              Protection for Prescription Drug Rebates
+              Budget Authority                                 0           0          0          0           0   -16,290    -25,656     -23,394    -27,561      -29,250           0     -122,151
+              Estimated Outlays                                0           0          0          0           0   -16,290    -25,656     -23,394    -27,561      -29,250           0     -122,151
+
+Part 5. Miscellaneous
+Sec. 11401 Coverage of Adult Vaccines Recommended
+               by the Advisory Committee on Immunization
+               Practices Under Medicare Part D
+               Budget Authority                                0         -69       301         863        579        466         551        503           593      632         1,674       4,419
+               Estimated Outlays                               0         -69       301         863        579        466         551        503           593      632         1,674       4,419
+Sec. 11402    Payment for Biosimilar Biological
+              Products During Initial Periodb
+              Budget Authority                                 0          -1         -1          -1         -2         -2         -2          -2           -2        -2           -5         -15
+              Estimated Outlays                                0          -1         -1          -1         -2         -2         -2          -2           -2        -2           -5         -15
+Sec. 11403    Temporary Increase in Medicare Part B
+              Payment for Certain Biosimilar Biological Products
+              Budget Authority                                  0          0          0          0           0          0          0          0             0        0            0           0
+              Estimated Outlays                                 0          0          0          0           0          0          0          0             0        0            0           0
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               7
+              Congressional Budget Office                                                                                                                               Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030      2031    2022-2026    2022-2031
+
+Sec. 11404    Expanding Eligibility for Low-Income Subsidies
+              Under Part D of the Medicare Program
+              Budget Authority                                   0         0       195         230        248        266         311        281           327    347          673        2,205
+              Estimated Outlays                                  0         0       195         230        248        266         311        281           327    347          673        2,205
+Sec. 11405    Improving Access to Adult Vaccines
+              Under Medicaid and CHIP
+              Budget Authority                                   0         0       235         317        304        314         324        335           346    359          856        2,534
+              Estimated Outlays                                  0         0       235         317        304        314         324        335           346    359          856        2,534
+
+Subtitle C. Affordable Care Act Subsidies
+Sec. 12001 Improve Affordability and Reduce
+               Premium Costs of Health Insurance for Consumers
+               Budget Authority                              0       20,892     11,288       9,651     -8,548       -463           0          0             0      0        33,283      32,820
+               Estimated Outlays                             0       20,892     11,288       9,651     -8,548       -463           0          0             0      0        33,283      32,820
+
+Subtitle D. Energy Security
+Sec. 13204 Clean Hydrogenc
+              Budget Authority                                   0       59        149         244        364        498         657        851      1,086      1,410         815        5,317
+              Estimated Outlays                                  0       59        149         244        364        498         657        851      1,086      1,410         815        5,317
+              Adjustment for Sequestration of
+              Tax Creditse
+              Budget Authority                                   0        -3         -8        -14         -21        -28        -37        -49           -62     -80          -46        -302
+              Estimated Outlays                                  0        -3         -8        -14         -21        -28        -37        -49           -62     -80          -46        -302
+Sec. 13601    Reinstatement of Superfundc,f,g
+              Budget Authority                                   0         0     1,202       1,475      1,524      1,564       1,602      1,641      1,681      1,722        4,201      12,411
+              Estimated Outlays                                  0         0       601       1,038      1,251      1,431       1,492      1,530      1,567      1,606        2,890      10,516
+Sec. 13802    Appropriationsf
+              Budget Authority                                 500        0           0          0          0           0          0          0             0      0          500         500
+              Estimated Outlays                                  0       55          55         55         55          55         55         55            55     55          220         495
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               8
+              Congressional Budget Office                                                                                                                                Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024        2025       2026       2027       2028       2029        2030      2031     2022-2026    2022-2031
+
+
+Total Changes in Direct Spending
+             Budget Authority                             83,623    18,549      12,147      -2,159    -12,581     -24,529    -42,463    -43,170     -52,512    -55,497      99,578      -118,593
+             Estimated Outlays                                 0    24,250      16,145       3,043      -5,948    -16,267    -32,340    -31,055     -37,944    -40,595      37,489      -120,712
+             On-Budget Outlays                                 0    24,266      16,181      3,091      -5,888    -16,194    -32,254    -30,961     -37,846    -40,494       37,649     -120,100
+             Off-Budget Outlays                                0       -16         -36         -48         -60        -73        -86        -94         -98       -101        -160          -612
+
+                                                                                          Increases or Decreases (-) in Revenues
+Subtitle A. Deficit Reduction
+Sec. 10101 Corporate Alternative Minimum Tax                   0     52,618     44,000      29,738     26,464     27,191     29,697      32,160     34,463     36,808       152,820     313,138
+Sec. 10201    Modification of Rules for Partnership
+              Interests Held in Connection With the
+              Performance of Services                          0      1,594      1,511       1,430      1,389      1,379       1,389      1,413      1,445      1,487         5,924      13,037
+Sec. 10301    Enhancement of Internal Revenue Service
+              Resourcesa                                       0           0          0          0           0          0          0          0           0         0            0            0
+
+Subtitle B. Prescription Drug Pricing Reform
+Part 2. Prescription Drug Inflation Rebates
+Sec. 11101 Medicare Part B Rebate by Manufacturersb,c
+     and
+Sec. 11002 Medicare Part D Rebate by
+               Manufacturersc                                  0        696      1,792       2,651      3,610      4,550      5,440      6,141       6,588     6,938         8,749      38,406
+               On-Budget Revenues                              0        491      1,267       1,877      2,636      3,353      4,010      4,532       4,865     5,130         6,271      28,161
+               Off-Budget Revenues                             0        205        525         774        974      1,197      1,430      1,609       1,723     1,808         2,478      10,245
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               9
+              Congressional Budget Office                                                                                                                                  Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                             By Fiscal Year, Millions of Dollars
+
+                                                               2022       2023       2024       2025        2026       2027       2028       2029        2030      2031    2022-2026     2022-2031
+
+
+Subtitle C. Affordable Care Act Subsidies
+Sec. 12001 Improve Affordability and Reduce
+               Premium Costs of Health Insurance
+               for Consumers                                      0      1,297     -10,555    -10,586    -11,431        -154       132          53           6        0        -31,275      -31,238
+               On-Budget Revenues                                 0       890     -11,280    -11,476    -11,947        -246        141          57           6        0       -33,813      -33,855
+               Off-Budget Revenues                                0       407         725        890        516           92        -9          -4           *        0          2,538        2,617
+
+Subtitle D. Energy Security
+Part 1. Clean Electricity and Reducing Carbon Emissions
+Sec. 13101 Extension and Modification of Credit for
+               Electricity Produced From Certain
+               Renewable Resources                                0     -1,562      -2,183     -3,317     -4,822      -6,428     -7,677     -8,232     -8,329     -8,511      -11,885      -51,062
+Sec. 13102    Extension and Modification of
+              Energy Credit                                       0     -2,140      -1,559     -2,458     -5,367      -2,359        -48        -38           -9      15       -11,523      -13,962
+Sec. 13103    Increase in Energy Credit for Solar        Estimate included in sections 13101 and 13102
+              Facilities Placed in Service in
+              Connection With Low-Income
+              Communities
+Sec. 13104    Extension and Modification of Credit for
+              Carbon Oxide Sequestration                          0         -42       -303       -469       -495       -463        -429       -388       -343      -296        -1,309       -3,229
+Sec. 13105    Zero-Emission Nuclear Power
+              Production Credit                                   0           0     -2,188     -3,524     -3,710      -3,838     -3,960     -4,050     -4,279     -4,452       -9,421      -30,001
+
+
+
+
+                                                               See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                              How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                 10
+              Congressional Budget Office                                                                                                                                 Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                             2022       2023       2024       2025        2026       2027       2028       2029        2030       2031    2022-2026    2022-2031
+
+
+Part 2. Clean Fuels
+Sec. 13201 Extension of Incentives for Biodiesel,
+               Renewable Diesel and
+               Alternative Fuels                             -104     -2,672      -1,780     -1,015           0          0          0          0            0        0        -5,571      -5,571
+Sec. 13202    Extension of Second Generation
+              Biofuel Incentives                                -7        -17        -20        -10           0          0          0          0            0        0           -54         -54
+Sec. 13203    Sustainable Aviation Fuel Credit                  0         -10        -25        -14           0          0          0          0            0        0           -49         -49
+                               c
+Sec. 13204    Clean Hydrogen                                    0         -72       -213       -366       -554       -753        -970     -1,231     -1,581      -2,108       -1,206      -7,849
+
+Part 3. Clean Energy and Efficiency Incentives for Individuals
+Sec. 13301 Extension, Increase, and Modifications of
+               Nonbusiness Energy Property Credit
+               Energy Property Credit                      -253       -1,634      -1,348     -1,324     -1,345      -1,327     -1,277     -1,301     -1,314      -1,327       -5,904     -12,451
+Sec. 13302    Residential Clean Energy Credit                 -52       -407      -1,021     -2,692     -2,770      -2,850     -2,935     -3,019     -3,092      -3,185       -6,942     -22,022
+Sec. 13303    Energy Efficient Commercial Buildings
+              Deduction                                         0         -62        -50        -46         -42        -38        -35        -32           -30     -28          -200        -362
+Sec. 13304    Extension, Increase, and Modifications of
+              New Energy Efficient Home Credit                  0       -273        -193       -203       -216       -230        -241       -240       -229       -217          -887      -2,043
+
+Part 4. Clean Vehicles
+Sec. 13401 Clean Vehicle Credit                                 0         -85       -451       -557       -681       -854      -1,024     -1,155     -1,303      -1,429       -1,775      -7,541
+Sec. 13402    Credit for Previously-Owned
+              Clean Vehicles                                    0         -99        -96       -120       -132       -146        -162       -179       -197       -215          -447      -1,347
+Sec. 13403    Qualified Commercial Clean Vehicles               0       -189        -177       -228       -298       -388        -469       -539       -607       -687          -892      -3,583
+Sec. 13404    Alternative Fuel Refueling
+              Property Credit                                   0       -138        -128       -145       -164       -184        -207       -231       -257       -284          -575      -1,738
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               11
+              Congressional Budget Office                                                                                                                                 Revised August 5, 2022
+              Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                            By Fiscal Year, Millions of Dollars
+
+                                                              2022       2023       2024       2025        2026       2027       2028       2029        2030      2031    2022-2026    2022-2031
+
+
+Part 5. Investment in Clean Energy Manufacturing and Energy Security
+Sec. 13501 Extension of the Advanced Energy
+               Project Credit                             0    -1,463              -1,377       -915       -926       -614        -442       -280       -196        -42       -4,681      -6,255
+Sec. 13502    Advanced Manufacturing Production
+              Credit                                             0     -1,754      -2,502     -2,690     -3,164      -3,562     -3,937     -4,533     -4,561     -3,920      -10,110     -30,622
+
+Part 6. Superfund
+                                      c,f,g
+Sec. 13601 Reinstatement of Superfund                            0        902      1,230       1,271      1,304      1,336       1,368      1,402      1,436     1,470         4,707      11,719
+
+Part 7. Incentives for Clean Electricity and Clean Transportation
+Sec. 13701 Clean Electricity Production Credit                0              0          0          0         -12        -45       -571     -1,864     -3,497     -5,215          -12     -11,204
+Sec. 13702    Clean Electricity Investment Credit                0           0          0        -39         -57     -6,575   -10,315     -10,742    -11,264    -11,865          -97     -50,858
+Sec. 13703    Cost Recovery for Qualified Facilities,
+              Qualified Property, and Energy
+              Storage Technology                                 0           0          0          0           0        -26        -83       -134       -171      -211            0         -624
+Sec. 13704    Clean Fuel Production Credit                       0           0          0       -641       -791      -1,177       -337          0           0        0        -1,432      -2,946
+
+Part 8. Credit Monetization and Appropriations
+Sec. 13801 Elective Payment for Energy              Estimate included in relevant sections above
+               Property and Electricity Produced
+               From Certain Renewable Resources, Etc.
+
+
+
+
+                                                              See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                             How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                12
+               Congressional Budget Office                                                                                                                                  Revised August 5, 2022
+               Cost Estimate
+Table 1.
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+                                                                                            By Fiscal Year, Millions of Dollars
+
+                                                             2022       2023       2024       2025        2026       2027       2028       2029        2030        2031     2022-2026     2022-2031
+
+
+Part 9. Other Provisions
+Sec. 13901 Permanent Extension of Tax Rate
+               to Fund Black Lung Disability
+               Trust Fund                                       0        103         135        131        130        130         131        132           133       134           498        1,159
+Sec. 13902     Increase in Research Credit Against
+               Payroll Tax for Small Businesses                 0         -16        -13        -15         -16        -18        -21        -22           -23       -24           -60         -168
+
+Total Changes in Revenues                                     -416   44,575       22,486     3,847       -4,096     2,557      3,017      3,091       2,789       2,836        66,391       80,680
+             On-Budget Revenues                              -416    43,963       21,236     2,183      -5,586      1,268      1,596      1,486       1,066       1,028        61,375       67,818
+             Off-Budget Revenues                                 0      612        1,250     1,664       1,490      1,289      1,421      1,605       1,723       1,808         5,016       12,862
+
+                                                                                       Net Increase or Decrease (-) in the Deficit
+                                                                                    From Changes in Direct Spending and Revenues
+
+Net Effect on the Deficit                                    416      -20,325      -6,341      -804      -1,852    -18,824    -35,357    -34,146     -40,733      -43,431       -28,902     -201,392
+               On-Budget Deficit                             416     -19,697      -5,055        908        -302   -17,462    -33,850    -32,447     -38,912      -41,522       -23,726     -187,918
+               Off-Budget Deficit                              0         -628     -1,286     -1,712     -1,550      -1,362     -1,507     -1,699      -1,821       -1,909        -5,176      -13,474
+
+Estimates are relative to CBO's July 2021 baseline.
+Components may not sum to totals because of rounding; CHIP = Children’s Health Insurance Program; JCT = staff of the Joint Committee on Taxation;
+MA-PD = Medicare Advantage Prescription Drug; * = between -$500,000 and $500,000.
+
+Sources: Congressional Budget Office; staff of the Joint Committee on Taxation.
+On August 5, 2022, CBO issued a revision to the table published on August 3, 2022, to include estimates for Sections 13601 and 13802. As a result, the updated estimate of the
+deficit reduction was lowered by $11 billion over the 2022-2031 period.
+See Notes for additional details.
+
+
+
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               13
+               Congressional Budget Office                                                                                                                               Revised August 5, 2022
+               Cost Estimate
+Table 1. Notes
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+
+Title I would not increase on-budget deficits after 2031.
+
+The Budget Control Act of 2011 (BCA) requires the annual sequestration of nonexempt mandatory spending programs. The Office of Management and Budget determines which accounts are
+subject to reductions under the BCA. Some existing programs affected by title I are subject to sequestration; this estimate reflects the effects of sequestration on those accounts. Some new
+mandatory funding provided in title I also is subject to annual sequestration under the BCA. On the basis of information from the Office of Management and Budget, CBO’s estimates reflect the
+sequestration of those accounts. (In the case of new tax credits, the effects of sequestration are included in a separate row.) For more information see Office of Management and Budget, letter
+to the Honorable Bernard Sanders concerning sequestration classification for certain programs in H.R. 5376, the Build Back Better Act (November 10, 2021), https://go.usa.gov/xe8gW (PDF,
+99 KB).
+
+a.   CBO expects that the provisions in title I that would increase funding for tax enforcement activities also would increase revenues. However, under guidelines agreed to by the legislative
+     and executive branches, that change is not included in this cost estimate, although it would be reflected in CBO’s baseline budget projections after the legislation was enacted. (For more
+     information on those guidelines, see Congressional Budget Office, CBO Explains Budgetary Scorekeeping Guidelines, January 2021, www.cbo.gov/publication/56507.) CBO estimates
+     that as a result of those increases in outlays, revenues would increase by $204 billion over the 2022-2031 period.
+
+                                                                                               By Fiscal Year, Millions of Dollars
+
+                                                               2022       2023       2024       2025        2026       2027       2028        2029       2030     2031    2022-2026    2022-2031
+
+                                                                                                     Increases in Revenues
+
+               Enhancement of Internal Revenue Service
+               Resources                                           0     2,919      7,794     13,459      19,024     24,351     29,552      33,743     37,553   35,315        43,196     203,710
+
+
+b.   Estimate includes interactions with Medicare Advantage payments and Medicare Part B premiums.
+c.   This section would affect direct spending and revenues, which are shown separately.
+d.   “Other” spending is for health programs of the Department of Defense, the Federal Employees Health Benefits program, and subsidies for health insurance coverage
+     through the marketplaces established under the Affordable Care Act.
+e.   This row includes estimates of the effect of sequestration on new tax credits, which are not otherwise reflected in the table. On the basis of information from the Office of
+     Management and Budget, CBO and JCT expect sequestration to apply to the proposed tax credits in section 13204.
+
+
+
+
+                                                               See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                              How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                 14
+              Congressional Budget Office                                                                                                                          Revised August 5, 2022
+              Cost Estimate
+Table 1. Notes
+Estimated Budgetary Effects of Title I, Committee on Finance, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+
+
+f.   On August 5, 2022, CBO issued a revision to the table published on August 3, 2022, to include estimates of spending for sections 13601 and 13802. As a result, the
+     updated estimate of the deficit reduction was lowered by $11.0 billion over the 2022-2031 period. CBO’s estimate of H.R. 5376, the Build Back Better Act, as passed by the
+     House of Representatives on November 19, 2021, also did not include an estimate of the spending that would result from enacting a similar provision, section 136701. As a
+     result, the estimated deficit for that piece of legislation also would be different, but CBO has not finished its estimate of that spending.
+
+
+g.   JCT estimates that enacting section 13601 would increase revenues credited to the Hazardous Substance Superfund. That section also would increase spending because
+     there is permanent authority to spend amounts available in that fund beginning the year after the funds are received. Those funds are appropriated under section 613 of
+     division J of the Infrastructure Investment and Jobs Act, P.L. 117-58 (26 U.S.C. 9507 note (2022)), to carry out the Comprehensive Environmental Response,
+     Compensation, and Liability Act of 1980. JCT’s estimate of net revenues under section 13601 is reduced to account for indirect tax effects; however, CBO’s estimate of
+     spending is based on the full amount of revenues estimated to be collected.
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              15
+              Congressional Budget Office                                                                                                                                     August 3, 2022
+              Cost Estimate
+Table 2.
+Estimated Budgetary Effects of Title II, Committee on Agriculture, Nutrition, and Forestry, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+                                                                                              Increases in Direct Spending
+Subtitle B. Conservation
+Sec. 21001    Additional Agricultural Conservation Investmentsa
+              Budget Authority                                  0       850      3,442       6,365      8,110          0           0          0          0         0      18,767      18,767
+              Estimated Outlays                                 0       178        620       1,268      2,267      3,139       2,964      2,510      1,674       694       4,333      15,314
+Sec. 21002    Conservation Technical Assistance
+              Budget Authority                             1,400          0           0          0          0          0           0          0             0      0       1,400       1,400
+              Estimated Outlays                                0         86          95        125        225        225         245        240           109     50         531       1,400
+
+Subtitle C. Rural Development
+Sec. 22001    Additional Funding for Electric Loans
+              for Renewable Energy
+              Budget Authority                             1,000           0          0          0          0          0           0          0             0      0       1,000       1,000
+              Estimated Outlays                                0           5         60        215        280        210         130         70            25      5         560       1,000
+Sec. 22002    Rural Energy for America Programa
+              Budget Authority                               965        212        200         200        200        200           0          0             0      0       1,777       1,977
+              Estimated Outlays                                0          5         41         116        284        417         459        355           210     90         446       1,977
+Sec. 22003    Biofuel Infrastructure and
+              Agriculture Product Market Expansion
+              Budget Authority                               500          0           0          0          0           0          0          0             0      0        500         500
+              Estimated Outlays                                0         24          65        112        130          98         56         15             0      0        331         500
+Sec. 22004    USDA Assistance for Rural Electric
+              Cooperatives
+              Budget Authority                             9,700          0          0           0          0          0           0          0          0         0       9,700       9,700
+              Estimated Outlays                                0         50        500         920      1,310      1,680       1,780      1,640      1,090       630       2,780       9,600
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              16
+              Congressional Budget Office                                                                                                                                     August 3, 2022
+              Cost Estimate
+Table 2.
+Estimated Budgetary Effects of Title II, Committee on Agriculture, Nutrition, and Forestry, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Sec. 22005    Additional USDA Rural Development
+              Administrative Funds
+              Budget Authority                               100          0           0          0          0           0          0          0             0      0        100         100
+              Estimated Outlays                                0         19          26         27         17           7          3          1             0      0         89         100
+
+Subtitle D. Forestry
+Sec. 23001    National Forest System Restoration
+              and Fuels Reduction Projects
+              Budget Authority                             2,150          0          0           0          0          0           0          0             0      0       2,150       2,150
+              Estimated Outlays                                0         30        120         165        370        470         420        285           220     65         685       2,145
+
+Sec. 23002    Competitive Grants for Non-Federal
+              Forest Landowners
+              Budget Authority                               550          0           0          0          0           0          0          0             0      0        550         550
+              Estimated Outlays                                0         30          90         90         85          70         65         65            35     15        295         545
+
+Sec. 23003    State and Private Forestry
+              Conservation Programs
+              Budget Authority                             2,200          0          0           0          0          0           0          0             0      0       2,200       2,200
+              Estimated Outlays                                0         65        150         290        290        290         285        250           220    160         795       2,000
+
+Sec. 23005    Administrative Costs
+              Budget Authority                               100          0           0          0          0           0          0          0             0      0        100         100
+              Estimated Outlays                                0         15          15         15         10          10         10         10            10      5         55         100
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              17
+               Congressional Budget Office                                                                                                                                     August 3, 2022
+               Cost Estimate
+Table 2.
+Estimated Budgetary Effects of Title II, Committee on Agriculture, Nutrition, and Forestry, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                             By Fiscal Year, Millions of Dollars
+
+                                                               2022       2023       2024       2025        2026       2027       2028       2029        2030   2031    2022-2026   2022-2031
+
+Total Changes in Direct Spending
+             Budget Authority                                18,665      1,062      3,642       6,565      8,310        200           0          0          0       0      38,244      38,444
+             Estimated Outlays                                    0        507      1,782       3,343      5,268      6,616       6,417      5,441      3,593   1,714      10,900      34,681
+
+Estimates are relative to CBO’s July 2021 baseline.
+USDA = Department of Agriculture.
+
+Source: Congressional Budget Office.
+
+Title II would not increase on-budget deficits after 2031.
+   a. The Budget Control Act of 2011 (BCA) requires the annual sequestration of nonexempt mandatory spending programs. The Office of Management and Budget determines
+      which accounts are subject to reductions under the BCA. Some of the accounts affected by title II are subject to sequestration; this estimate reflects the effects of
+      sequestration on those accounts.
+
+
+
+
+                                                               See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                              How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                 18
+                Congressional Budget Office                                                                                                                                     August 3, 2022
+                Cost Estimate
+Table 3.
+Estimated Budgetary Effects of Title III, Committee on Banking, Housing, and Urban Affairs, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                             By Fiscal Year, Millions of Dollars
+
+                                                               2022       2023       2024       2025        2026       2027       2028       2029        2030     2031   2022-2026   2022-2031
+
+                                                                                                 Increases in Direct Spending
+Sec. 30001     Enhanced Use of Defense Production
+               Act of 1950
+               Budget Authority                                 500          0          0           0          0           0          0          0            0      0        500         500
+               Estimated Outlays                                  0         25        100         125        100          75         30         20            0      0        350         475
+Sec. 30002     Improving Energy Efficiency or Water
+               Efficiency or Climate Resilience of
+               Affordable Housing
+               Budget Authority                               1,000          0           0          0          0          0           0          0            0      0       1,000       1,000
+               Estimated Outlays                                  0         20          65        110        135        180         230        180           60     10         330         990
+
+Total Changes in Direct Spending
+               Budget Authority                               1,500          0          0           0          0          0           0          0            0      0       1,500       1,500
+               Estimated Outlays                                  0         45        165         235        235        255         260        200           60     10         680       1,465
+
+Estimates are relative to CBO’s July 2021 baseline.
+
+Source: Congressional Budget Office.
+
+Title III would not increase on-budget deficits after 2031.
+
+
+
+
+                                                               See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                              How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                 19
+              Congressional Budget Office                                                                                                                                    August 3, 2022
+              Cost Estimate
+Table 4.
+Estimated Budgetary Effects of Title IV, Committee on Commerce, Science, and Transportation, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                              2022      2023       2024       2025        2026       2027       2028       2029        2030    2031   2022-2026   2022-2031
+
+                                                                                               Increases in Direct Spending
+
+Sec. 40001    Investing in Coastal Communities and
+              Climate Resilience
+              Budget Authority                                2,600        0          0           0          0          0           0          0           0      0       2,600       2,600
+              Estimated Outlays                                   0       10        230         660        945        605         100          0           0      0       1,845       2,550
+Sec. 40002    Facilities of the National Oceanic and
+              Atmospheric Administration and
+              National Marine Sanctuaries
+              Budget Authority                                 200          0          0          0          0           0          0          0           0      0        200         200
+              Estimated Outlays                                  0          5         25         45         65          50          8          2           0      0        140         200
+Sec. 40003    NOAA Efficient and Effective Reviews
+              Budget Authority                                  20          0          0          0           0          0          0          0           0      0         20          20
+              Estimated Outlays                                  0          2          5          5           5          3          0          0           0      0         17          20
+Sec. 40004    Oceanic and Atmospheric Research
+              and Forecasting for Weather and Climate
+              Budget Authority                                 200          0          0          0          0           0          0          0           0      0        200         200
+              Estimated Outlays                                  0          5         35         65         60          30          5          0           0      0        165         200
+Sec. 40005    Computing Capacity and Research for
+              Weather, Oceans, and Climate
+              Budget Authority                                 190          0          0          0          0           0          0          0           0      0        190         190
+              Estimated Outlays                                  0          2         13         35         55          55         30          0           0      0        105         190
+Sec. 40006    Acquisition of Hurricane Forecasting Aircraft
+              Budget Authority                                 100          0          0          0          0           0          0          0           0      0        100         100
+              Estimated Outlays                                  0          8         18         20         28          22          4          0           0      0         74         100
+
+
+
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               20
+               Congressional Budget Office                                                                                                                                    August 3, 2022
+               Cost Estimate
+Table 4.
+Estimated Budgetary Effects of Title IV, Committee on Commerce, Science, and Transportation, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                            By Fiscal Year, Millions of Dollars
+
+                                                              2022       2023       2024       2025        2026       2027       2028       2029        2030    2031   2022-2026   2022-2031
+
+Sec. 40007     Alternative Fuel and Low-Emission
+               Aviation Technology Program
+               Budget Authority                                297           0          0          0          0           0          0          0           0      0        297         297
+               Estimated Outlays                                 0           3         19         67         86          59         35         19           6      0        175         294
+
+Total Changes in Direct Spending
+               Budget Authority                              3,607          0          0           0          0          0           0          0           0      0       3,607       3,607
+               Estimated Outlays                                 0         35        345         897      1,244        824         182         21           6      0       2,521       3,554
+
+Estimates are relative to CBO’s July 2021 baseline.
+NOAA = National Oceanic and Atmospheric Administration.
+
+Source: Congressional Budget Office.
+
+Title IV would not increase on-budget deficits after 2031.
+
+
+
+
+                                                              See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                             How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                21
+              Congressional Budget Office                                                                                                                                     August 3, 2022
+              Cost Estimate
+Table 5.
+Estimated Budgetary Effects of Title V, Committee on Energy and Natural Resources, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                             2022      2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+                                                                                     Increases or Decreases (-) in Direct Spending
+Subtitle A. Energy
+Part 2. Residential Efficiency and Electrification Rebates
+Sec. 50121    Home Energy Performance-Based,
+              Whole-House Rebates
+              Budget Authority                               4,300        0          0           0          0          0           0          0             0      0       4,300       4,300
+              Estimated Outlays                                  0       30        490         860      1,230      1,230         440         20             0      0       2,610       4,300
+Sec. 50122    High-Efficiency Electric Home
+              Rebate Program
+              Budget Authority                               4,500        0          0           0          0          0           0          0             0      0       4,500       4,500
+              Estimated Outlays                                  0       30        840       1,530      1,530        470         100          0             0      0       3,930       4,500
+Sec. 50123    State-Based Home Energy Efficiency
+              Contractor Training Grants
+              Budget Authority                                200          0          0          0          0           0          0          0             0      0        200         200
+              Estimated Outlays                                 0          5         30         40         40          40         30         15             0      0        115         200
+
+Part 3. Building Efficiency and Resilience
+Sec. 50131 Assistance for Latest and Zero
+               Building Energy Code Adoption
+              Budget Authority                               1,000         0          0          0          0          0           0          0             0      0       1,000       1,000
+              Estimated Outlays                                  0         5         20         65        105        140         175        210           150     35         195         905
+
+Part 4. DOE Loan and Grant Programs
+Sec. 50141    Funding for Department of Energy
+              Loan Programs Office
+              Budget Authority                               4,330         0          0          0          0          0           0          0             0      0       4,330       4,330
+              Estimated Outlays                                  0         5         75        280        570        840         785        515           195     75         930       3,340
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              22
+              Congressional Budget Office                                                                                                                                      August 3, 2022
+              Cost Estimate
+Table 5.
+Estimated Budgetary Effects of Title V, Committee on Energy and Natural Resources, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                             2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Sec. 50142    Advanced Technology Vehicle
+              Manufacturing
+              Budget Authority                              3,000          0           0          0          0          0           0          0             0      0       3,000       3,000
+              Estimated Outlays                                 0         20          70        130        155        155         155        135            80     20         375         920
+Sec. 50143    Domestic Manufacturing Conversion
+              Grants
+              Budget Authority                              2,000          0          0           0          0          0           0          0             0      0       2,000       2,000
+              Estimated Outlays                                 0         10        150         300        590        460         295        195             0      0       1,050       2,000
+Sec. 50144    Energy Infrastructure Reinvestment
+              Financing
+              Budget Authority                              5,100           0          0          0          0          0           0          0             0      0       5,100       5,100
+              Estimated Outlays                                 0           0         50        270        680        850         730        485           285    145       1,000       3,495
+Sec. 50145    Tribal Energy Loan Guarantee Program
+              Budget Authority                                 75           0          0          0          0           0          0          0             0      0         75          75
+              Estimated Outlays                                 0           2          4          8         13          18         15         10             5      0         27          75
+
+Part 5. Electric Transmission
+Sec. 50151    Transmission Facility Financing
+              Budget Authority                              2,030           0          0          0          0           0          0          0             0      0       2,030       2,030
+              Estimated Outlays                                 0           5          5         10         25          70        175        385           460    325          45       1,460
+Sec. 50152    Grants to Facilitate the Siting of
+              Interstate Electricity Transmission Lines
+              Budget Authority                                760          0           0          0          0          0           0          0             0      0        760         760
+              Estimated Outlays                                 0         10          45         70        100        100         100        100           100    100        225         725
+
+
+
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               23
+               Congressional Budget Office                                                                                                                                         August 3, 2022
+               Cost Estimate
+Table 5.
+Estimated Budgetary Effects of Title V, Committee on Energy and Natural Resources, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                               By Fiscal Year, Millions of Dollars
+
+                                                                 2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Sec. 50153     Interregional and Offshore Wind Electricity
+               Transmission Planning, Modeling, and Analysis
+               Budget Authority                             100                 0          0          0          0           0          0          0             0      0        100         100
+               Estimated Outlays                              0                 2         10         25         28          17         11          4             2      1         65         100
+
+Part 6. Industrial
+Sec. 50161     Advanced Industrial Facilities
+               Deployment Program
+               Budget Authority                                 5,812          0          0           0          0          0           0          0             0      0       5,812       5,812
+               Estimated Outlays                                    0         20        100         460      1,070      1,430       1,110        660           300    100       1,650       5,250
+
+Part 7. Other Energy Matters
+Sec. 50171     Department of Energy Oversight
+               Budget Authority                                    10           0          0          0           0          0          0          0             0      0         10          10
+               Estimated Outlays                                    0           1          2          2           2          2          1          0             0      0          7          10
+Sec. 50172     National Laboratory Infrastructure
+               Budget Authority                                 2,000          0          0           0          0          0           0          0             0      0       2,000       2,000
+               Estimated Outlays                                    0         40        170         310        400        400         370        155           105     50         920       2,000
+Sec. 50173     Availability of High-Assay
+               Low-Enriched Uranium
+               Budget Authority                                   700          0           0          0          0          0           0          0             0      0        700         700
+               Estimated Outlays                                    0         10          30         65        120        145         145        110            55     20        225         700
+
+Subtitle B. Natural Resources
+Part 2. Public Lands
+Sec. 50221     National Parks and Public Lands
+               Conservation and Resilience
+               Budget Authority                                   250          0           0          0          0           0          0          0             0      0        250         250
+               Estimated Outlays                                    0         40          60         52         40          27         19         10             2      0        192         250
+
+                                                                 See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                                How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                   24
+               Congressional Budget Office                                                                                                                                       August 3, 2022
+               Cost Estimate
+Table 5.
+Estimated Budgetary Effects of Title V, Committee on Energy and Natural Resources, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                             By Fiscal Year, Millions of Dollars
+
+                                                               2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Sec. 50222     National Parks and Public Lands
+               Conservation and Ecosystem Restoration
+               Budget Authority                                 250          0           0          0          0           0          0          0            0       0        250         250
+               Estimated Outlays                                  0         40          60         52         40          27         19         10            2       0        192         250
+Sec. 50223     National Park Service Employees
+               Budget Authority                                 500          0           0          0          0           0          0          0            0       0        500         500
+               Estimated Outlays                                  0         49          62         62         62          63         63         63           64      12        235         500
+
+Part 3. Drought Response and Preparedness
+Sec. 50231     Bureau of Reclamation Domestic
+               Water Supply Projects
+               Budget Authority                                 550          0          0           0          0           0          0          0            0       0        550         550
+               Estimated Outlays                                  0         66        116         115        110          55         55         33            0       0        407         550
+Sec. 50232     Canal Improvement Projects
+               Budget Authority                                  25           0          0          0           0          0          0          0            0      0          25          25
+               Estimated Outlays                                  0           6          7          7           5          0          0          0            0      0          25          25
+
+Part 4. Insular Affairs
+Sec. 50241     Office of Insular Affairs Climate
+               Change Technical Assistance
+               Budget Authority                                  16           0          0          0           0          0          0          0            0       0         16          16
+               Estimated Outlays                                  0           1          2          2           2          2          2          2            2       1          7          16
+
+Part 5. Offshore Wind
+Sec. 50251     Leasing on the Outer Continental Shelf
+               Budget Authority                                   0           0          0          0         -20        -28        -28        -28           -28    -28         -20        -160
+               Estimated Outlays                                  0           0          0          0         -20        -28        -28        -28           -28    -28         -20        -160
+
+
+
+
+                                                               See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                              How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                 25
+              Congressional Budget Office                                                                                                                                     August 3, 2022
+              Cost Estimate
+Table 5.
+Estimated Budgetary Effects of Title V, Committee on Energy and Natural Resources, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Part 6. Fossil Fuel Resources
+Sec. 50261, 50262, 50263, 50264, 50265
+             Budget Authority                                  0       -235         -44        -22         -26        -23        -19        -41           -35    -39        -327        -484
+             Estimated Outlays                                 0       -235         -44        -22         -26        -23        -19        -41           -35    -39        -327        -484
+
+Part 7. United States Geological Survey
+Sec. 50271    United States Geological Survey
+              3D Elevation Program
+              Budget Authority                                24           0          0          0           0          0          0          0            0       0         24          24
+              Estimated Outlays                                0           7          8          6           2          1          0          0            0       0         23          24
+
+Part 8. Other Natural Resources Matters
+Sec. 50281    Department of the Interior Oversight
+              Budget Authority                                10           0          0          0           0          0          0          0            0       0         10          10
+              Estimated Outlays                                0           5          2          2           1          *          *          *            *       *         10          10
+
+Subtitle C. Environmental Reviews
+Sec. 50301    Department of Energy
+              Budget Authority                               125          0           0          0          0           0          0          0            0       0        125         125
+              Estimated Outlays                                0         10          20         25         25          25         15          5            0       0         80         125
+Sec. 50302    Federal Energy Regulatory Commission
+              Budget Authority                               100           0          0          0          0           0          0          0            0       0        100         100
+              Estimated Outlays                                0           5         15         20         20          20         15          5            0       0         60         100
+Sec. 50303    Department of the Interior
+              Budget Authority                               150          0           0          0          0           0          0          0            0       0        150         150
+              Estimated Outlays                                0         30          40         40         35           5          0          0            0       0        145         150
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              26
+               Congressional Budget Office                                                                                                                                        August 3, 2022
+               Cost Estimate
+Table 5.
+Estimated Budgetary Effects of Title V, Committee on Energy and Natural Resources, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                             2022       2023       2024       2025        2026       2027       2028       2029        2030   2031    2022-2026       2022-2031
+
+
+Total Changes in Direct Spending
+               Budget Authority                            37,917       -235        -44         -22        -46        -51         -47        -69        -63    -67        37,570          37,273
+               Estimated Outlays                                0        219      2,439       4,786      6,954      6,541       4,778      3,058      1,744    817        14,398          31,336
+
+Estimates are relative to CBO’s July 2021 baseline.
+DOE = Department of Energy; * = between zero and $500,000.
+
+Source: Congressional Budget Office.
+
+CBO cannot determine whether part 6 of title V would increase or decrease deficits after 2031 because there is significant uncertainty about federal mineral leasing and energy
+development activities and related receipts after 2031. The remaining provisions of title V would not increase deficits after 2031.
+
+
+
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               27
+               Congressional Budget Office                                                                                                                                      August 3, 2022
+               Cost Estimate
+Table 6.
+Estimated Budgetary Effects of Title VI, Committee on Environment and Public Works, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                            By Fiscal Year, Millions of Dollars
+
+                                                              2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+                                                                                                Increases in Direct Spending
+Subtitle A. Air Pollution
+Sec. 60101     Clean Heavy-Duty Vehicles
+               Budget Authority                               1,000         0           0          0          0          0           0          0             0      0       1,000       1,000
+               Estimated Outlays                                  0        20          57         96        150        200         185        147           106     39         323       1,000
+Sec. 60102     Grants to Reduce Air Pollution
+               at Ports
+               Budget Authority                               3,000         0          0           0          0          0           0          0             0      0       3,000       3,000
+               Estimated Outlays                                  0        49        190         379        531        619         580        387           196     69       1,149       3,000
+Sec. 60103     Greenhouse Gas Reduction Fund
+               Budget Authority                              27,000         0          0           0          0          0           0          0             0      0      27,000      27,000
+               Estimated Outlays                                  0       465      2,420       4,755      5,980      4,694       1,573         93             0      0      13,620      19,980
+Sec. 60104     Diesel Emissions Reductions
+               Budget Authority                                 60          0           0          0           0          0          0          0             0      0         60          60
+               Estimated Outlays                                 0         42          18          0           0          0          0          0             0      0         60          60
+Sec. 60105     Funding to Address Air Pollution
+               Budget Authority                                281          0          0           0          0           0          0          0             0      0        281         281
+               Estimated Outlays                                 0         70        132          51         20           8          0          0             0      0        273         281
+Sec. 60106     Funding to Address Air Pollution at Schools
+               Budget Authority                                 50          0           0          0           0          0          0          0             0      0         50          50
+               Estimated Outlays                                 0         22          22          6           0          0          0          0             0      0         50          50
+Sec. 60107     Low Emissions Electricity Program
+               Budget Authority                                 87          0           0          0           0          0          0          0             0      0         87          87
+               Estimated Outlays                                 0         36          30         14           7          0          0          0             0      0         87          87
+
+
+
+
+                                                              See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                             How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                28
+              Congressional Budget Office                                                                                                                                     August 3, 2022
+              Cost Estimate
+Table 6.
+Estimated Budgetary Effects of Title VI, Committee on Environment and Public Works, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Sec. 60108    Funding for Section 211(O) of the
+              Clean Air Act
+              Budget Authority                                15           0          0          0           0          0          0          0             0      0         15          15
+              Estimated Outlays                                0           6          8          1           0          0          0          0             0      0         15          15
+Sec. 60109    Funding for Implementation of the American
+              Innovation and Manufacturing Act
+              Budget Authority                                39          0           0          0           0          0          0          0             0      0         39          39
+              Estimated Outlays                                0         15          12          8           4          0          0          0             0      0         39          39
+Sec. 60110    Funding for Enforcement Technology
+              and Public Information
+              Budget Authority                                25          0           0          0           0          0          0          0             0      0         25          25
+              Estimated Outlays                                0         14          11          0           0          0          0          0             0      0         25          25
+Sec. 60111    Greenhouse Gas Corporate Reporting
+              Budget Authority                                 5           0          0          0           0          0          0          0             0      0          5           5
+              Estimated Outlays                                0           3          2          0           0          0          0          0             0      0          5           5
+Sec. 60112    Environmental Product Declaration Assistance
+              Budget Authority                             250            0           0          0          0           0          0          0             0      0        250         250
+              Estimated Outlays                              0           70          80         62         25          13          0          0             0      0        237         250
+Sec. 60113    Methane Emissions Reduction Program
+              Budget Authority                             1,550          0          0           0          0          0           0          0             0      0       1,550       1,550
+              Estimated Outlays                                0         77        232         341        496        310          47         31            15      1       1,146       1,550
+Sec. 60114    Climate Pollution Reduction Grants
+              Budget Authority                             5,000          0          0           0          0          0           0          0             0      0       5,000       5,000
+              Estimated Outlays                                0         84        320         638        928        940         720        300           120      0       1,970       4,050
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              29
+              Congressional Budget Office                                                                                                                                    August 3, 2022
+              Cost Estimate
+Table 6.
+Estimated Budgetary Effects of Title VI, Committee on Environment and Public Works, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                          By Fiscal Year, Millions of Dollars
+
+                                                            2022       2023       2024       2025        2026       2027       2028       2029        2030     2031   2022-2026   2022-2031
+
+Sec. 60115    Environmental Protection Agency
+              Efficient, Accurate, and Timely Reviews
+              Budget Authority                                40          0           0          0           0          0          0          0            0      0         40          40
+              Estimated Outlays                                0         10          12         12           6          0          0          0            0      0         40          40
+Sec. 60116    Low-Embodied Carbon Labeling for
+              Construction Materials
+              Budget Authority                               100          0           0          0          0           0          0          0            0      0        100         100
+              Estimated Outlays                                0         23          42         25         10           0          0          0            0      0        100         100
+
+Subtitle B. Hazardous Materials
+Sec. 60201    Environmental and Climate Justice
+              Block Grants
+              Budget Authority                             3,000          0          0           0          0          0           0          0            0      0       3,000       3,000
+              Estimated Outlays                                0        185        394         639        722        595         346        101           18      0       1,940       3,000
+
+Subtitle C. United States Fish and Wildlife Service
+Sec. 60301    Endangered Species Act Recovery Plans
+              Budget Authority                               125          0           0          0          0           0          0          0            0      0        125         125
+              Estimated Outlays                                0         40          40         30         10           5          0          0            0      0        120         125
+Sec. 60302    Funding for the United States Fish and
+              Wildlife Service to Address Climate-
+              Induced Weather Events
+              Budget Authority                               125          0           0          0          0           0          0          0            0      0        125         125
+              Estimated Outlays                                0         30          30         40         15           5          5          0            0      0        115         125
+
+
+
+
+                                                            See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                           How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                              30
+              Congressional Budget Office                                                                                                                                      August 3, 2022
+              Cost Estimate
+Table 6.
+Estimated Budgetary Effects of Title VI, Committee on Environment and Public Works, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                           By Fiscal Year, Millions of Dollars
+
+                                                             2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Subtitle D. Council on Environmental Quality
+Sec. 60401    Environmental and Climate Data Collection
+              Budget Authority                                 33           0          0          0           0          0          0          0             0      0         33          33
+              Estimated Outlays                                 0           5          8          8           8          4          0          0             0      0         29          33
+Sec. 60402    Council On Environmental Quality Efficient
+              and Effective Environmental Reviews
+              Budget Authority                                 30           0          0          0           0          0          0          0             0      0         30          30
+              Estimated Outlays                                 0           3          8          8           8          3          0          0             0      0         27          30
+
+Subtitle E. Transportation and Infrastructure
+Sec. 60501    Neighborhood Access and Equity
+              Grant Program
+              Budget Authority                              3,045          0          0           0          0          0           0          0             0      0       3,045       3,045
+              Estimated Outlays                                 0         40        200         400        660        640         515        240           105      0       1,300       2,800
+Sec. 60502    Assistance for Federal Buildings
+              Budget Authority                                250          0           0          0          0           0          0          0             0      0        250         250
+              Estimated Outlays                                 0         15          15         25         40          40         40         40            25     10         95         250
+Sec. 60503    Use of Low-Carbon Materials
+              Budget Authority                              2,150          0          0           0          0          0           0          0             0      0       2,150       2,150
+              Estimated Outlays                                 0        100        100         130        200        350         400        400           250    220         530       2,150
+Sec. 60504    General Services Administration
+              Emerging Technologies
+              Budget Authority                                975          0           0          0          0          0           0          0             0      0        975         975
+              Estimated Outlays                                 0         50          50         75        100        100         100        200           200    100        275         975
+Sec. 60505    Environmental Review Implementation Funds
+              Budget Authority                          100                 0          0          0          0           0          0          0             0      0        100         100
+              Estimated Outlays                           0                 2         13         26         30          24          0          0             0      0         71          95
+
+
+
+                                                             See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                            How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                               31
+               Congressional Budget Office                                                                                                                                      August 3, 2022
+               Cost Estimate
+Table 6.
+Estimated Budgetary Effects of Title VI, Committee on Environment and Public Works, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                            By Fiscal Year, Millions of Dollars
+
+                                                              2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Sec. 60506     Low-Carbon Transportation Materials Grants
+               Budget Authority                           2,000             0           0          0          0          0           0          0            0       0       2,000       2,000
+               Estimated Outlays                              0            10          30        195        365        545         475         80            0       0         600       1,700
+
+Total Changes in Direct Spending
+               Budget Authority                              50,335         0          0           0          0          0           0          0          0         0      50,335      50,335
+               Estimated Outlays                                  0     1,486      4,476       7,964     10,315      9,095       4,986      2,019      1,035       439      24,241      41,815
+
+                                                                                                    Increases in Revenues
+Subtitle A. Air Pollution
+Sec. 60113     Methane Emissions Reduction
+               Program                                           0           0          0          0        850      1,350       1,400      1,200      1,050       500        850        6,350
+
+                                                                                        Net Increase or Decrease (-) in the Deficit
+                                                                                     From Changes in Direct Spending and Revenues
+
+Effect on the Deficit                                            0      1,486      4,476       7,964      9,465      7,745       3,586        819           -15    -61      23,391      35,465
+
+Estimates are relative to CBO’s July 2021 baseline.
+
+Source: Congressional Budget Office.
+
+Title VI would not increase on-budget deficits after 2031.
+
+
+
+
+                                                              See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                             How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                32
+              Congressional Budget Office                                                                                                                                       August 3, 2022
+              Cost Estimate
+Table 7.
+Estimated Budgetary Effects of Title VII, Committee on Homeland Security and Governmental Affairs, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                            By Fiscal Year, Millions of Dollars
+
+                                                              2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+                                                                                       Increases or Decreases (-) in Direct Spending
+
+Sec. 70001    DHS Office of Chief Readiness Support Officer
+              Budget Authority                              500             0           0          0          0           0          0          0             0      0        500         500
+              Estimated Outlays                               0            35          93        141        131          73         24          3             0      0        400         500
+Sec. 70002    United States Postal Service Clean Fleetsa
+              Budget Authority                            3,000             0          0           0          0          0           0          0             0     0        3,000      3,000
+              Estimated Outlays                               0           120        300         435        480        540         450        375           300     0        1,335      3,000
+              On-Budget Outlays                           3,000             0          0           0          0          0           0          0             0     0        3,000      3,000
+              Off-Budget Outlays                         -3,000           120        300         435        480        540         450        375           300     0       -1,665          0
+Sec. 70003    United States Postal Service
+              Office of Inspector General
+              Budget Authority                                  15           0          0          0           0          0          0          0             0      0         15          15
+              Estimated Outlays                                  0           3          3          3           3          2          1          0             0      0         12          15
+Sec. 70004    Government Accountability Office Oversight
+              Budget Authority                                  25           0          0          0           0          0          0          0             0      0         25          25
+              Estimated Outlays                                  0           2          2          3           3          3          3          3             3      3         10          25
+Sec. 70005    Office of Management and Budget Oversight
+              Budget Authority                                  25           0          0          0           0          0          0          0             0      0         25          25
+              Estimated Outlays                                  0           5          7          7           6          0          0          0             0      0         25          25
+Sec. 70006    FEMA Building Materials Program
+              Budget Authority                                   0           0          0          0          0           0          0          0             0      0          0           0
+              Estimated Outlays                                  0           5          8         12         33           3          0          0             0      0         58          61
+
+
+
+
+                                                              See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                             How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                33
+               Congressional Budget Office                                                                                                                                       August 3, 2022
+               Cost Estimate
+Table 7.
+Estimated Budgetary Effects of Title VII, Committee on Homeland Security and Governmental Affairs, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                             By Fiscal Year, Millions of Dollars
+
+                                                               2022       2023       2024       2025        2026       2027       2028       2029        2030      2031   2022-2026   2022-2031
+
+Sec. 70007     Federal Permitting Improvement Steering Council
+               Environmental Review Improvement Fund
+               Mandatory Funding
+               Budget Authority                             70              70          70         70         70           0          0          0             0      0         350        350
+               Estimated Outlays                               0            25          35         40         60          60         50         40            20     20         160        350
+
+Total Changes in Direct Spending
+               Budget Authority                                3,635        70         70         70          70          0           0          0             0     0        3,915      3,915
+               Estimated Outlays                                   0       195        448        641         716        681         528        421           323    23        2,000      3,976
+               On-Budget Outlays                               3,000        75        148        206         236        141          78         46            23    23        3,665      3,976
+               Off-Budget Outlays                             -3,000       120        300        435         480        540         450        375           300     0       -1,665          0
+
+Estimates are relative to CBO’s July 20212 baseline.
+DHS = Department of Homeland Security; FEMA = Federal Emergency Management Agency.
+
+Source: Congressional Budget Office.
+
+Title VII would not increase on-budget deficits after 2031.
+   a. Postal Service cash flows are recorded in the Postal Service Fund in the federal budget and are classified as off-budget. The legislation would transfer funds from the
+      Treasury to the Postal Service Fund; that transfer would be classified as an on-budget transaction.
+
+
+
+
+                                                               See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                              How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                 34
+               Congressional Budget Office                                                                                                                                       August 3, 2022
+               Cost Estimate
+Table 8.
+Estimated Budgetary Effects of Title VIII, Committee on Indian Affairs, of H.R. 5376, the Inflation Reduction Act of 2022,
+as Amended in the Nature of a Substitute (ERN22335) and Posted on the Website of the Senate Majority Leader on July 27, 2022
+www.democrats.senate.gov/imo/media/doc/inflation_reduction_act_of_2022.pdf
+                                                                                               By Fiscal Year, Millions of Dollars
+
+                                                                 2022       2023       2024       2025        2026       2027       2028       2029        2030    2031   2022-2026   2022-2031
+
+                                                                                                   Increases in Direct Spending
+
+Sec. 80001     Tribal Climate Resilience
+               Budget Authority                                   235          0           0          0          0           0          0          0           0      0        235         235
+               Estimated Outlays                                    0         15          53         57         48          43         17          2           0      0        173         235
+Sec. 80002     Native Hawaiian Climate Resilience
+               Budget Authority                                    25           0          0          0           0          0          0          0           0      0         25          25
+               Estimated Outlays                                    0           3          6          6           5          4          1          0           0      0         20          25
+Sec. 80003     Tribal Electrification Program
+               Budget Authority                                   150           0          0          0          0           0          0          0           0      0        150         150
+               Estimated Outlays                                    0           8         26         41         38          22         11          4           0      0        113         150
+Sec. 80004     Emergency Drought Relief for Tribes
+               Budget Authority                                    13           0          0          0           0          0          0          0           0      0         13          13
+               Estimated Outlays                                    0           3          3          3           3          1          0          0           0      0         12          13
+
+Total Changes in Direct Spending
+               Budget Authority                                   423          0           0          0          0           0          0          0           0      0        423         423
+               Estimated Outlays                                    0         29          88        107         94          70         29          6           0      0        318         423
+
+Estimates are relative to CBO’s July 2021 baseline.
+
+Source: Congressional Budget Office.
+
+Title VIII would not increase on-budget deficits after 2031.
+
+
+
+
+                                                                 See also CBO’s Cost Estimates Explained, www.cbo.gov/publication/54437;
+                                                How CBO Prepares Cost Estimates, www.cbo.gov/publication/53519; and Glossary, www.cbo.gov/publication/42904.
+                                                                                                   35
+

@@ -1,0 +1,44 @@
+{
+ "markup": {
+  "quote": "We will not treat producer markups as an independent variable but note that markups will endogenously increase in our model when strong sectoral demand confronts limited supply",
+  "pdf_page": [
+   9
+  ]
+ },
+ "fiscal_not_needed": {
+  "quote": "While other factors no doubt have influenced markups, including for example the fiscal transfers that directly affected demand in product markets, at least in this simple specification we do not find that including these factors is needed to explain the behavior of pandemic-era inflation",
+  "pdf_page": [
+   25
+  ]
+ },
+ "vu_given": {
+  "quote": "the model takes v/u as given and provides no insight about the particular fiscal and monetary policies",
+  "pdf_page": [
+   37
+  ]
+ },
+ "overall": {
+  "quote": "the inflation largely reflected strong aggregate demand, the product of easy fiscal and monetary policies, excess savings accumulated during the pandemic, and the reopening of locked-down economies",
+  "pdf_page": [
+   40
+  ]
+ },
+ "google": {
+  "quote": "This led us to use an index of the quarterly average of the number of U.S.-based Google searches for the term",
+  "pdf_page": [
+   24
+  ]
+ },
+ "fullsample": {
+  "quote": "we estimate the baseline price equation over the full sample, including the covid period",
+  "pdf_page": [
+   13
+  ]
+ },
+ "gpty_def": {
+  "quote": "Trend productivity growth, measured by the eight-quarter moving average of log changes of nonfarm business value added divided by nonfarm employee hours, from the BLS",
+  "pdf_page": [
+   15
+  ]
+ }
+}

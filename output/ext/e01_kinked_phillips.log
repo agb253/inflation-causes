@@ -1,0 +1,6 @@
+V/U range 1990-2019: 0.16 to 1.22 ; 2020Q2: 0.27
+tau 0.6: WAGE eq: V/U +0.208 (0.606), above-threshold +0.599 (0.866), RSS 58.8 | PRICE eq: V/U -0.287 (0.296), above-threshold +0.675 (0.744), RSS 19.0
+tau 0.8: WAGE eq: V/U +0.585 (0.412), above-threshold +0.047 (0.779), RSS 56.4 | PRICE eq: V/U +0.003 (0.399), above-threshold +0.979 (0.675), RSS 18.6
+tau 1.0: WAGE eq: V/U +0.682 (0.340), above-threshold -0.451 (0.842), RSS 57.9 | PRICE eq: V/U +0.132 (0.580), above-threshold +0.913 (0.800), RSS 18.8
+tau 1.2: WAGE eq: V/U +0.662 (0.316), above-threshold -0.895 (1.047), RSS 60.5 | PRICE eq: V/U -0.540 (0.739), above-threshold -0.006 (0.882), RSS 19.1
+tau 1.4: WAGE eq: V/U +0.616 (0.308), above-threshold -1.221 (1.594), RSS 60.8 | PRICE eq: V/U -0.726 (1.349), above-threshold -0.335 (1.475), RSS 19.9

@@ -1,0 +1,14 @@
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.25 (se 2.33), g1 -4.28 (se 2.36), R2 0.95 (uncentered; centered 0.80); labor-market miss max |2.51| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+geometric scale 0.50  SSR  15.45  centered R2 0.80  2023-24 mean miss  0.73  g0 14.3
+geometric scale 1.00  SSR  19.58  centered R2 0.80  2023-24 mean miss  0.85  g0 15.2
+geometric scale 1.50  SSR  25.50  centered R2 0.80  2023-24 mean miss  0.97  g0 16.2
+geometric scale 2.04  SSR  33.91  centered R2 0.79  2023-24 mean miss  1.10  g0 17.3
+geometric scale 3.00  SSR  54.04  centered R2 0.78  2023-24 mean miss  1.33  g0 19.2
+hutchins  scale 0.50  SSR  14.12  centered R2 0.80  2023-24 mean miss  0.88  g0 13.9
+hutchins  scale 1.00  SSR  16.34  centered R2 0.80  2023-24 mean miss  1.15  g0 14.6
+hutchins  scale 1.50  SSR  19.80  centered R2 0.79  2023-24 mean miss  1.42  g0 15.2
+hutchins  scale 2.04  SSR  24.92  centered R2 0.78  2023-24 mean miss  1.72  g0 15.9
+hutchins  scale 3.00  SSR  37.56  centered R2 0.77  2023-24 mean miss  2.24  g0 17.2

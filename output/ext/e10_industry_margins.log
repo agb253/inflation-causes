@@ -1,0 +1,30 @@
+Economy-wide change from 2015-19 average (points of output):
+      gos_share  comp_share  inter_share
+year                                    
+2021       1.10       -0.18         0.28
+2022       0.35       -1.39         1.15
+2023       1.35       -0.87        -0.37
+
+2021: largest margin rises (points of output; weight = % of total output)
+                                          industry  d_gos_share  d_comp_share  d_inter_share  weight
+code                                                                                                
+483                           Water transportation        16.32          5.07         -21.15    0.10
+315AL      Apparel and leather and allied products        15.70         -5.19          -4.61    0.04
+212                     Mining, except oil and gas        10.85         -1.45          -9.76    0.28
+321                                  Wood products         8.28         -3.25          -4.25    0.39
+525    Funds, trusts, and other financial vehicles         7.92          0.92          -8.70    0.43
+111CA                                        Farms         7.77         -0.88          -4.45    1.13
+722              Food services and drinking places         7.64         -2.32           3.12    2.44
+721                                  Accommodation         7.37          2.42          -8.05    0.59
+
+2022: largest margin rises (points of output; weight = % of total output)
+                                          industry  d_gos_share  d_comp_share  d_inter_share  weight
+code                                                                                                
+213                  Support activities for mining        13.87          7.06         -21.87    0.19
+315AL      Apparel and leather and allied products        11.82         -5.28          -6.66    0.04
+212                     Mining, except oil and gas        10.18         -2.44          -9.37    0.29
+111CA                                        Farms         8.28         -1.13          -7.74    1.23
+325                              Chemical products         8.00         -0.33          -7.62    2.13
+321                                  Wood products         7.37         -2.56          -4.69    0.37
+483                           Water transportation         7.02         -0.56          -6.69    0.14
+525    Funds, trusts, and other financial vehicles         5.80          1.48          -7.21    0.41

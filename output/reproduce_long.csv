@@ -1,0 +1,361 @@
+line,label,quarter,value,data,equations,p5,p16,p84,p95
+actual_pce_yoy,Actual PCE inflation,2020Q1,1.55,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2020Q2,0.571,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2020Q3,1.119,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2020Q4,1.236,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2021Q1,1.975,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2021Q2,3.921,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2021Q3,4.517,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2021Q4,5.731,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2022Q1,6.556,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2022Q2,6.881,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2022Q3,6.745,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2022Q4,6.065,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2023Q1,5.079,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2023Q2,3.988,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2023Q3,3.431,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2023Q4,2.95,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2024Q1,2.836,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2024Q2,2.702,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2024Q3,2.43,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+actual_pce_yoy,Actual PCE inflation,2024Q4,2.515,BEA DPCERG (NIPA 2.3.4),100 x (P_t / P_t-4 - 1),,,,
+pre_existing,Pre-existing (end-2019 momentum),2020Q1,1.639,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.552,1.585,1.691,1.724
+pre_existing,Pre-existing (end-2019 momentum),2020Q2,1.397,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.263,1.311,1.476,1.532
+pre_existing,Pre-existing (end-2019 momentum),2020Q3,1.569,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.375,1.438,1.683,1.77
+pre_existing,Pre-existing (end-2019 momentum),2020Q4,1.587,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.306,1.402,1.756,1.86
+pre_existing,Pre-existing (end-2019 momentum),2021Q1,1.564,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.225,1.349,1.766,1.887
+pre_existing,Pre-existing (end-2019 momentum),2021Q2,1.687,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.276,1.429,1.927,2.085
+pre_existing,Pre-existing (end-2019 momentum),2021Q3,1.73,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.265,1.43,2.006,2.195
+pre_existing,Pre-existing (end-2019 momentum),2021Q4,1.789,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.238,1.455,2.105,2.327
+pre_existing,Pre-existing (end-2019 momentum),2022Q1,1.863,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.226,1.467,2.234,2.498
+pre_existing,Pre-existing (end-2019 momentum),2022Q2,1.929,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.205,1.461,2.359,2.642
+pre_existing,Pre-existing (end-2019 momentum),2022Q3,1.983,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.174,1.461,2.494,2.811
+pre_existing,Pre-existing (end-2019 momentum),2022Q4,2.041,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.137,1.458,2.608,2.964
+pre_existing,Pre-existing (end-2019 momentum),2023Q1,2.088,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.09,1.449,2.721,3.109
+pre_existing,Pre-existing (end-2019 momentum),2023Q2,2.122,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.036,1.424,2.784,3.229
+pre_existing,Pre-existing (end-2019 momentum),2023Q3,2.165,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.044,1.42,2.875,3.328
+pre_existing,Pre-existing (end-2019 momentum),2023Q4,2.186,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.026,1.405,2.913,3.374
+pre_existing,Pre-existing (end-2019 momentum),2024Q1,2.197,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.017,1.416,2.924,3.383
+pre_existing,Pre-existing (end-2019 momentum),2024Q2,2.2,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.013,1.411,2.928,3.365
+pre_existing,Pre-existing (end-2019 momentum),2024Q3,2.201,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.029,1.419,2.915,3.356
+pre_existing,Pre-existing (end-2019 momentum),2024Q4,2.209,all model inputs at 2019 reference; data_us_new.csv,"E14, E10-E12, E2",1.044,1.433,2.924,3.365
+trump,Relief signed by Trump,2020Q1,0.0,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+trump,Relief signed by Trump,2020Q2,0.0,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.0,0.0,0.001,0.002
+trump,Relief signed by Trump,2020Q3,0.097,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.011,0.044,0.213,0.313
+trump,Relief signed by Trump,2020Q4,0.298,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.106,0.178,0.635,0.829
+trump,Relief signed by Trump,2021Q1,0.5,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.215,0.325,1.058,1.376
+trump,Relief signed by Trump,2021Q2,0.656,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.291,0.428,1.396,1.86
+trump,Relief signed by Trump,2021Q3,0.685,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.288,0.464,1.486,1.991
+trump,Relief signed by Trump,2021Q4,0.635,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.235,0.405,1.455,1.933
+trump,Relief signed by Trump,2022Q1,0.533,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.161,0.32,1.31,1.754
+trump,Relief signed by Trump,2022Q2,0.47,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.129,0.285,1.211,1.594
+trump,Relief signed by Trump,2022Q3,0.47,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.176,0.318,1.207,1.587
+trump,Relief signed by Trump,2022Q4,0.405,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.124,0.266,1.105,1.454
+trump,Relief signed by Trump,2023Q1,0.387,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.089,0.262,1.072,1.394
+trump,Relief signed by Trump,2023Q2,0.392,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.1,0.257,1.055,1.399
+trump,Relief signed by Trump,2023Q3,0.348,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.044,0.206,0.961,1.318
+trump,Relief signed by Trump,2023Q4,0.337,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.031,0.179,0.925,1.291
+trump,Relief signed by Trump,2024Q1,0.33,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",0.001,0.173,0.87,1.253
+trump,Relief signed by Trump,2024Q2,0.305,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",-0.032,0.135,0.792,1.177
+trump,Relief signed by Trump,2024Q3,0.29,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",-0.033,0.124,0.753,1.114
+trump,Relief signed by Trump,2024Q4,0.277,"BEA pandemic program tables; CBO 56537 T2-3; FRED GDPPOT, UNRATE, NROU, GDPC1; V/U","E3, E4, E8, E10-E12, E1, E2",-0.032,0.123,0.752,1.073
+biden,Relief signed by Biden,2020Q1,0.0,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+biden,Relief signed by Biden,2020Q2,0.0,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+biden,Relief signed by Biden,2020Q3,0.0,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+biden,Relief signed by Biden,2020Q4,0.0,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+biden,Relief signed by Biden,2021Q1,0.0,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+biden,Relief signed by Biden,2021Q2,0.066,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.008,0.032,0.156,0.221
+biden,Relief signed by Biden,2021Q3,0.268,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.089,0.153,0.563,0.756
+biden,Relief signed by Biden,2021Q4,0.537,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.205,0.319,1.092,1.434
+biden,Relief signed by Biden,2022Q1,0.743,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.304,0.445,1.491,2.021
+biden,Relief signed by Biden,2022Q2,0.792,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.294,0.468,1.609,2.165
+biden,Relief signed by Biden,2022Q3,0.737,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.26,0.426,1.536,2.127
+biden,Relief signed by Biden,2022Q4,0.65,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.176,0.367,1.41,1.922
+biden,Relief signed by Biden,2023Q1,0.584,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.167,0.333,1.328,1.794
+biden,Relief signed by Biden,2023Q2,0.581,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.203,0.37,1.312,1.722
+biden,Relief signed by Biden,2023Q3,0.541,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.182,0.353,1.232,1.643
+biden,Relief signed by Biden,2023Q4,0.478,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.132,0.308,1.166,1.566
+biden,Relief signed by Biden,2024Q1,0.443,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.098,0.267,1.113,1.494
+biden,Relief signed by Biden,2024Q2,0.433,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.077,0.26,1.092,1.458
+biden,Relief signed by Biden,2024Q3,0.42,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.054,0.235,1.034,1.459
+biden,Relief signed by Biden,2024Q4,0.393,same as Trump relief,"E3, E4, E8, E10-E12, E1, E2",0.035,0.209,0.992,1.414
+fed_easing,Fed 2020-21 cuts + QE,2020Q1,0.0,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_easing,Fed 2020-21 cuts + QE,2020Q2,-0.001,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.004,-0.003,0.0,0.001
+fed_easing,Fed 2020-21 cuts + QE,2020Q3,-0.004,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.012,-0.008,0.002,0.005
+fed_easing,Fed 2020-21 cuts + QE,2020Q4,-0.004,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.023,-0.013,0.007,0.017
+fed_easing,Fed 2020-21 cuts + QE,2021Q1,-0.001,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.036,-0.019,0.023,0.045
+fed_easing,Fed 2020-21 cuts + QE,2021Q2,0.008,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.052,-0.026,0.051,0.102
+fed_easing,Fed 2020-21 cuts + QE,2021Q3,0.024,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.073,-0.031,0.098,0.186
+fed_easing,Fed 2020-21 cuts + QE,2021Q4,0.052,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.089,-0.035,0.17,0.307
+fed_easing,Fed 2020-21 cuts + QE,2022Q1,0.093,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.104,-0.032,0.272,0.47
+fed_easing,Fed 2020-21 cuts + QE,2022Q2,0.144,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.105,-0.019,0.367,0.649
+fed_easing,Fed 2020-21 cuts + QE,2022Q3,0.191,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.113,-0.0,0.462,0.833
+fed_easing,Fed 2020-21 cuts + QE,2022Q4,0.214,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.125,0.018,0.524,0.952
+fed_easing,Fed 2020-21 cuts + QE,2023Q1,0.219,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.127,0.023,0.544,1.008
+fed_easing,Fed 2020-21 cuts + QE,2023Q2,0.223,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.114,0.032,0.555,1.045
+fed_easing,Fed 2020-21 cuts + QE,2023Q3,0.244,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.084,0.058,0.578,1.09
+fed_easing,Fed 2020-21 cuts + QE,2023Q4,0.277,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.055,0.083,0.608,1.088
+fed_easing,Fed 2020-21 cuts + QE,2024Q1,0.306,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.031,0.11,0.64,1.058
+fed_easing,Fed 2020-21 cuts + QE,2024Q2,0.322,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.009,0.122,0.663,1.057
+fed_easing,Fed 2020-21 cuts + QE,2024Q3,0.316,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.009,0.114,0.659,1.033
+fed_easing,Fed 2020-21 cuts + QE,2024Q4,0.301,SF Fed MPS + VAR data; SF Fed proxy funds rate; UNRATE,"E6, E8, E10-E12, E1, E2",-0.018,0.097,0.631,1.0
+fed_hikes,Fed 2022-23 hikes,2020Q1,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2020Q2,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2020Q3,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2020Q4,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2021Q1,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2021Q2,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2021Q3,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2021Q4,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2022Q1,0.0,same as Fed cuts,"E6, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+fed_hikes,Fed 2022-23 hikes,2022Q2,0.002,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.001,-0.0,0.003,0.005
+fed_hikes,Fed 2022-23 hikes,2022Q3,0.009,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.011,-0.002,0.018,0.028
+fed_hikes,Fed 2022-23 hikes,2022Q4,0.018,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.046,-0.017,0.046,0.074
+fed_hikes,Fed 2022-23 hikes,2023Q1,0.018,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.126,-0.062,0.077,0.137
+fed_hikes,Fed 2022-23 hikes,2023Q2,-0.007,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.267,-0.138,0.091,0.18
+fed_hikes,Fed 2022-23 hikes,2023Q3,-0.058,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.479,-0.248,0.086,0.196
+fed_hikes,Fed 2022-23 hikes,2023Q4,-0.117,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.681,-0.38,0.079,0.196
+fed_hikes,Fed 2022-23 hikes,2024Q1,-0.172,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-0.885,-0.507,0.063,0.202
+fed_hikes,Fed 2022-23 hikes,2024Q2,-0.217,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-1.028,-0.595,0.048,0.209
+fed_hikes,Fed 2022-23 hikes,2024Q3,-0.254,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-1.197,-0.668,0.031,0.219
+fed_hikes,Fed 2022-23 hikes,2024Q4,-0.289,same as Fed cuts,"E6, E8, E10-E12, E1, E2",-1.305,-0.725,0.015,0.222
+pentup,Pent-up demand,2020Q1,0.0,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+pentup,Pent-up demand,2020Q2,0.0,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+pentup,Pent-up demand,2020Q3,0.0,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+pentup,Pent-up demand,2020Q4,0.0,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+pentup,Pent-up demand,2021Q1,0.0,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+pentup,Pent-up demand,2021Q2,0.0,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+pentup,Pent-up demand,2021Q3,0.071,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.006,0.025,0.105,0.146
+pentup,Pent-up demand,2021Q4,0.195,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.058,0.097,0.271,0.34
+pentup,Pent-up demand,2022Q1,0.31,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.102,0.168,0.415,0.539
+pentup,Pent-up demand,2022Q2,0.386,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.134,0.204,0.52,0.671
+pentup,Pent-up demand,2022Q3,0.399,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.12,0.203,0.551,0.701
+pentup,Pent-up demand,2022Q4,0.403,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.115,0.203,0.552,0.716
+pentup,Pent-up demand,2023Q1,0.388,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.109,0.185,0.536,0.687
+pentup,Pent-up demand,2023Q2,0.416,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.129,0.212,0.562,0.717
+pentup,Pent-up demand,2023Q3,0.456,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.164,0.246,0.605,0.772
+pentup,Pent-up demand,2023Q4,0.442,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.151,0.232,0.591,0.758
+pentup,Pent-up demand,2024Q1,0.384,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.134,0.227,0.545,0.697
+pentup,Pent-up demand,2024Q2,0.284,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",0.065,0.177,0.508,0.65
+pentup,Pent-up demand,2024Q3,0.196,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",-0.041,0.102,0.466,0.611
+pentup,Pent-up demand,2024Q4,0.169,BEA DPCERX (NIPA 1.1.6); CBO 56537 T3; GDPPOT,"E5, E4, E8, E10-E12, E1, E2",-0.072,0.075,0.473,0.616
+covid_other,COVID shutdown drag,2020Q1,-0.239,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-0.253,-0.248,-0.23,-0.223
+covid_other,COVID shutdown drag,2020Q2,-1.295,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-1.545,-1.44,-1.163,-1.078
+covid_other,COVID shutdown drag,2020Q3,-1.745,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-2.462,-2.152,-1.403,-1.226
+covid_other,COVID shutdown drag,2020Q4,-2.146,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.305,-2.847,-1.668,-1.358
+covid_other,COVID shutdown drag,2021Q1,-1.863,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.582,-2.899,-1.289,-0.837
+covid_other,COVID shutdown drag,2021Q2,-0.719,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-2.803,-2.026,-0.068,0.411
+covid_other,COVID shutdown drag,2021Q3,-0.616,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.067,-2.097,0.055,0.53
+covid_other,COVID shutdown drag,2021Q4,-0.222,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-2.787,-1.782,0.499,1.012
+covid_other,COVID shutdown drag,2022Q1,-0.821,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.472,-2.42,-0.063,0.484
+covid_other,COVID shutdown drag,2022Q2,-1.556,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-4.347,-3.166,-0.807,-0.271
+covid_other,COVID shutdown drag,2022Q3,-1.61,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-4.481,-3.205,-0.846,-0.268
+covid_other,COVID shutdown drag,2022Q4,-1.882,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-4.679,-3.433,-1.108,-0.559
+covid_other,COVID shutdown drag,2023Q1,-1.864,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-4.465,-3.419,-1.102,-0.586
+covid_other,COVID shutdown drag,2023Q2,-1.673,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-4.17,-3.212,-0.913,-0.421
+covid_other,COVID shutdown drag,2023Q3,-1.312,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.815,-2.783,-0.527,-0.018
+covid_other,COVID shutdown drag,2023Q4,-1.086,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.515,-2.435,-0.23,0.323
+covid_other,COVID shutdown drag,2024Q1,-0.963,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.36,-2.229,-0.099,0.565
+covid_other,COVID shutdown drag,2024Q2,-0.892,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.218,-2.123,-0.004,0.671
+covid_other,COVID shutdown drag,2024Q3,-1.012,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.306,-2.193,-0.123,0.56
+covid_other,COVID shutdown drag,2024Q4,-1.152,"OxCGRT stringency; UNRATE; plus BEA DNRGRG, DFXARG 2020Q1-2021Q4","E7, E8, E10-E12 (+E11 energy/food), E1, E2",-3.252,-2.291,-0.328,0.324
+worker_shortage,Worker shortage,2020Q1,0.0,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.0,0.0,0.0,0.0
+worker_shortage,Worker shortage,2020Q2,-0.011,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",-0.023,-0.018,-0.004,-0.001
+worker_shortage,Worker shortage,2020Q3,0.155,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.005,0.054,0.251,0.334
+worker_shortage,Worker shortage,2020Q4,0.365,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.121,0.212,0.496,0.624
+worker_shortage,Worker shortage,2021Q1,0.43,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.165,0.258,0.594,0.736
+worker_shortage,Worker shortage,2021Q2,0.409,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.125,0.215,0.586,0.714
+worker_shortage,Worker shortage,2021Q3,0.369,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.074,0.181,0.553,0.692
+worker_shortage,Worker shortage,2021Q4,0.497,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.192,0.304,0.693,0.846
+worker_shortage,Worker shortage,2022Q1,0.607,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.262,0.379,0.817,0.961
+worker_shortage,Worker shortage,2022Q2,0.815,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.361,0.532,1.091,1.28
+worker_shortage,Worker shortage,2022Q3,0.942,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.451,0.638,1.235,1.435
+worker_shortage,Worker shortage,2022Q4,0.809,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.332,0.483,1.123,1.338
+worker_shortage,Worker shortage,2023Q1,0.804,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.296,0.477,1.109,1.339
+worker_shortage,Worker shortage,2023Q2,0.814,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.319,0.492,1.109,1.356
+worker_shortage,Worker shortage,2023Q3,0.739,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.257,0.416,1.039,1.267
+worker_shortage,Worker shortage,2023Q4,0.675,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.181,0.353,0.971,1.193
+worker_shortage,Worker shortage,2024Q1,0.649,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.15,0.313,0.952,1.172
+worker_shortage,Worker shortage,2024Q2,0.631,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.126,0.291,0.938,1.163
+worker_shortage,Worker shortage,2024Q3,0.578,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.063,0.244,0.895,1.126
+worker_shortage,Worker shortage,2024Q4,0.539,V/U (JOLTS via data_us_new.csv); UNRATE,"E9, E8, E10-E12, E1, E2",0.015,0.206,0.843,1.074
+energy_war,War in Ukraine (energy & food),2020Q1,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2020Q2,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2020Q3,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2020Q4,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2021Q1,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2021Q2,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2021Q3,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2021Q4,0.0,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.0,0.0,0.0,0.0
+energy_war,War in Ukraine (energy & food),2022Q1,0.494,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.432,0.457,0.528,0.556
+energy_war,War in Ukraine (energy & food),2022Q2,1.128,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.98,1.033,1.217,1.278
+energy_war,War in Ukraine (energy & food),2022Q3,0.954,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.72,0.805,1.091,1.194
+energy_war,War in Ukraine (energy & food),2022Q4,0.829,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.496,0.626,1.028,1.158
+energy_war,War in Ukraine (energy & food),2023Q1,0.178,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",-0.205,-0.055,0.416,0.562
+energy_war,War in Ukraine (energy & food),2023Q2,-0.369,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",-0.796,-0.62,-0.106,0.046
+energy_war,War in Ukraine (energy & food),2023Q3,-0.034,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",-0.47,-0.314,0.242,0.424
+energy_war,War in Ukraine (energy & food),2023Q4,0.228,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",-0.217,-0.056,0.509,0.689
+energy_war,War in Ukraine (energy & food),2024Q1,0.497,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.082,0.233,0.762,0.919
+energy_war,War in Ukraine (energy & food),2024Q2,0.534,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.147,0.296,0.776,0.92
+energy_war,War in Ukraine (energy & food),2024Q3,0.472,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.133,0.26,0.678,0.818
+energy_war,War in Ukraine (energy & food),2024Q4,0.422,"BEA DNRGRG, DFXARG / ECI, 2022Q1-2023Q1","E11, E1, E2",0.117,0.229,0.603,0.753
+shortage,Supply chains,2020Q1,0.009,NY Fed GSCPI,"E11, E1, E2",-0.063,-0.035,0.052,0.081
+shortage,Supply chains,2020Q2,0.206,NY Fed GSCPI,"E11, E1, E2",0.02,0.095,0.329,0.398
+shortage,Supply chains,2020Q3,0.534,NY Fed GSCPI,"E11, E1, E2",0.259,0.361,0.707,0.823
+shortage,Supply chains,2020Q4,0.718,NY Fed GSCPI,"E11, E1, E2",0.355,0.499,0.929,1.077
+shortage,Supply chains,2021Q1,0.881,NY Fed GSCPI,"E11, E1, E2",0.461,0.623,1.144,1.312
+shortage,Supply chains,2021Q2,0.998,NY Fed GSCPI,"E11, E1, E2",0.544,0.721,1.283,1.482
+shortage,Supply chains,2021Q3,1.057,NY Fed GSCPI,"E11, E1, E2",0.508,0.722,1.416,1.656
+shortage,Supply chains,2021Q4,1.328,NY Fed GSCPI,"E11, E1, E2",0.613,0.892,1.772,2.109
+shortage,Supply chains,2022Q1,1.752,NY Fed GSCPI,"E11, E1, E2",0.926,1.24,2.289,2.632
+shortage,Supply chains,2022Q2,1.891,NY Fed GSCPI,"E11, E1, E2",0.963,1.316,2.523,2.886
+shortage,Supply chains,2022Q3,1.975,NY Fed GSCPI,"E11, E1, E2",0.98,1.343,2.676,3.051
+shortage,Supply chains,2022Q4,1.834,NY Fed GSCPI,"E11, E1, E2",0.747,1.184,2.535,3.011
+shortage,Supply chains,2023Q1,1.551,NY Fed GSCPI,"E11, E1, E2",0.406,0.902,2.321,2.819
+shortage,Supply chains,2023Q2,1.234,NY Fed GSCPI,"E11, E1, E2",0.044,0.581,2.032,2.575
+shortage,Supply chains,2023Q3,0.79,NY Fed GSCPI,"E11, E1, E2",-0.411,0.12,1.58,2.194
+shortage,Supply chains,2023Q4,0.565,NY Fed GSCPI,"E11, E1, E2",-0.618,-0.106,1.358,1.959
+shortage,Supply chains,2024Q1,0.394,NY Fed GSCPI,"E11, E1, E2",-0.694,-0.219,1.151,1.748
+shortage,Supply chains,2024Q2,0.359,NY Fed GSCPI,"E11, E1, E2",-0.618,-0.192,1.065,1.658
+shortage,Supply chains,2024Q3,0.412,NY Fed GSCPI,"E11, E1, E2",-0.442,-0.084,1.066,1.586
+shortage,Supply chains,2024Q4,0.481,NY Fed GSCPI,"E11, E1, E2",-0.263,0.04,1.095,1.609
+greed,Greedflation,2020Q1,-0.015,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.05,-0.037,0.008,0.023
+greed,Greedflation,2020Q2,0.05,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",0.001,0.02,0.08,0.098
+greed,Greedflation,2020Q3,0.056,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",0.006,0.027,0.089,0.108
+greed,Greedflation,2020Q4,-0.004,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.056,-0.032,0.028,0.05
+greed,Greedflation,2021Q1,-0.003,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.059,-0.035,0.031,0.052
+greed,Greedflation,2021Q2,-0.037,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.096,-0.071,-0.004,0.019
+greed,Greedflation,2021Q3,-0.077,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.134,-0.109,-0.047,-0.024
+greed,Greedflation,2021Q4,-0.015,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.066,-0.045,0.012,0.03
+greed,Greedflation,2022Q1,0.016,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.029,-0.012,0.044,0.061
+greed,Greedflation,2022Q2,0.003,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.033,-0.019,0.026,0.041
+greed,Greedflation,2022Q3,0.026,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",0.003,0.012,0.04,0.051
+greed,Greedflation,2022Q4,-0.005,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.024,-0.017,0.008,0.018
+greed,Greedflation,2023Q1,0.005,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.02,-0.01,0.019,0.031
+greed,Greedflation,2023Q2,-0.018,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.052,-0.038,0.002,0.016
+greed,Greedflation,2023Q3,-0.031,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.074,-0.056,-0.005,0.01
+greed,Greedflation,2023Q4,-0.012,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.087,-0.055,0.03,0.055
+greed,Greedflation,2024Q1,-0.068,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.149,-0.114,-0.025,0.002
+greed,Greedflation,2024Q2,-0.018,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.104,-0.066,0.028,0.054
+greed,Greedflation,2024Q3,0.003,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.082,-0.047,0.05,0.08
+greed,Greedflation,2024Q4,-0.002,"BEA A463RD, A455RD (NIPA 1.15)","E13, E11, E1, E2",-0.08,-0.047,0.04,0.069
+other_unexplained,Other & not explained,2020Q1,0.155,everything above,E15,0.064,0.099,0.213,0.252
+other_unexplained,Other & not explained,2020Q2,0.226,everything above,E15,-0.057,0.055,0.411,0.531
+other_unexplained,Other & not explained,2020Q3,0.457,everything above,E15,-0.007,0.167,0.745,0.995
+other_unexplained,Other & not explained,2020Q4,0.422,everything above,E15,-0.177,0.046,0.834,1.099
+other_unexplained,Other & not explained,2021Q1,0.467,everything above,E15,-0.25,0.04,0.986,1.274
+other_unexplained,Other & not explained,2021Q2,0.853,everything above,E15,0.111,0.399,1.431,1.764
+other_unexplained,Other & not explained,2021Q3,1.007,everything above,E15,0.157,0.499,1.579,1.981
+other_unexplained,Other & not explained,2021Q4,0.937,everything above,E15,-0.171,0.277,1.534,1.953
+other_unexplained,Other & not explained,2022Q1,0.966,everything above,E15,-0.186,0.29,1.545,1.923
+other_unexplained,Other & not explained,2022Q2,0.878,everything above,E15,-0.34,0.18,1.431,1.838
+other_unexplained,Other & not explained,2022Q3,0.67,everything above,E15,-0.655,-0.105,1.326,1.809
+other_unexplained,Other & not explained,2022Q4,0.75,everything above,E15,-0.66,-0.078,1.494,1.986
+other_unexplained,Other & not explained,2023Q1,0.72,everything above,E15,-0.886,-0.228,1.413,1.988
+other_unexplained,Other & not explained,2023Q2,0.273,everything above,E15,-1.532,-0.793,1.054,1.631
+other_unexplained,Other & not explained,2023Q3,-0.418,everything above,E15,-2.351,-1.553,0.429,0.995
+other_unexplained,Other & not explained,2023Q4,-1.024,everything above,E15,-2.987,-2.198,-0.158,0.372
+other_unexplained,Other & not explained,2024Q1,-1.16,everything above,E15,-3.142,-2.399,-0.336,0.263
+other_unexplained,Other & not explained,2024Q2,-1.241,everything above,E15,-3.305,-2.509,-0.502,0.152
+other_unexplained,Other & not explained,2024Q3,-1.191,everything above,E15,-3.181,-2.512,-0.45,0.181
+other_unexplained,Other & not explained,2024Q4,-0.831,everything above,E15,-2.863,-2.122,-0.086,0.494
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2020Q1,-0.239,sum of the lines named,sum,-0.253,-0.248,-0.23,-0.223
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2020Q2,-1.305,sum of the lines named,sum,-1.562,-1.456,-1.168,-1.08
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2020Q3,-1.493,sum of the lines named,sum,-1.926,-1.747,-1.259,-1.13
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2020Q4,-1.483,sum of the lines named,sum,-2.067,-1.813,-1.196,-1.006
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2021Q1,-0.931,sum of the lines named,sum,-1.635,-1.355,-0.612,-0.366
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2021Q2,0.421,sum of the lines named,sum,-0.346,-0.011,0.759,0.977
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2021Q3,0.802,sum of the lines named,sum,0.029,0.372,1.154,1.396
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2021Q4,1.694,sum of the lines named,sum,0.907,1.269,2.141,2.5
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2022Q1,1.465,sum of the lines named,sum,0.798,1.054,1.971,2.301
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2022Q2,1.054,sum of the lines named,sum,0.432,0.665,1.546,1.871
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2022Q3,1.137,sum of the lines named,sum,0.424,0.7,1.68,2.039
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2022Q4,0.616,sum of the lines named,sum,-0.147,0.159,1.173,1.598
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2023Q1,0.535,sum of the lines named,sum,-0.147,0.124,1.188,1.664
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2023Q2,0.744,sum of the lines named,sum,0.057,0.36,1.44,1.937
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2023Q3,0.956,sum of the lines named,sum,0.256,0.553,1.664,2.193
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2023Q4,1.003,sum of the lines named,sum,0.347,0.597,1.746,2.271
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2024Q1,0.974,sum of the lines named,sum,0.351,0.616,1.758,2.232
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2024Q2,0.862,sum of the lines named,sum,0.259,0.564,1.64,2.133
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2024Q3,0.53,sum of the lines named,sum,-0.077,0.248,1.316,1.783
+grp_labor,Total: all labor-market causes (relief + pent-up + Fed + COVID + worker shortage),2024Q4,0.234,sum of the lines named,sum,-0.432,-0.053,1.004,1.497
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2020Q1,-0.239,sum of the lines named,sum,-0.253,-0.248,-0.23,-0.223
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2020Q2,-1.295,sum of the lines named,sum,-1.543,-1.439,-1.162,-1.078
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2020Q3,-1.648,sum of the lines named,sum,-2.211,-1.96,-1.348,-1.182
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2020Q4,-1.848,sum of the lines named,sum,-2.628,-2.296,-1.448,-1.202
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2021Q1,-1.363,sum of the lines named,sum,-2.327,-1.905,-0.894,-0.559
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2021Q2,0.003,sum of the lines named,sum,-1.025,-0.568,0.51,0.802
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2021Q3,0.408,sum of the lines named,sum,-0.64,-0.178,0.902,1.214
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2021Q4,1.145,sum of the lines named,sum,0.189,0.611,1.691,2.054
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2022Q1,0.765,sum of the lines named,sum,-0.106,0.274,1.321,1.62
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2022Q2,0.092,sum of the lines named,sum,-0.685,-0.374,0.605,0.887
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2022Q3,-0.004,sum of the lines named,sum,-0.804,-0.464,0.478,0.726
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2022Q4,-0.424,sum of the lines named,sum,-1.261,-0.907,0.053,0.297
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2023Q1,-0.505,sum of the lines named,sum,-1.264,-0.904,0.012,0.253
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2023Q2,-0.284,sum of the lines named,sum,-1.014,-0.676,0.244,0.532
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2023Q3,0.033,sum of the lines named,sum,-0.725,-0.362,0.597,0.902
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2023Q4,0.171,sum of the lines named,sum,-0.592,-0.201,0.779,1.101
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2024Q1,0.194,sum of the lines named,sum,-0.491,-0.133,0.875,1.195
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2024Q2,0.13,sum of the lines named,sum,-0.463,-0.111,0.849,1.174
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2024Q3,-0.106,sum of the lines named,sum,-0.62,-0.297,0.621,0.997
+grp_pandemic,Total: pandemic and the response to it (relief + pent-up + COVID drag),2024Q4,-0.313,sum of the lines named,sum,-0.752,-0.44,0.392,0.732
+grp_relief,Total: Biden + Trump relief,2020Q1,0.0,sum of the lines named,sum,0.0,0.0,0.0,0.0
+grp_relief,Total: Biden + Trump relief,2020Q2,0.0,sum of the lines named,sum,0.0,0.0,0.001,0.002
+grp_relief,Total: Biden + Trump relief,2020Q3,0.097,sum of the lines named,sum,0.011,0.044,0.213,0.313
+grp_relief,Total: Biden + Trump relief,2020Q4,0.298,sum of the lines named,sum,0.106,0.178,0.635,0.829
+grp_relief,Total: Biden + Trump relief,2021Q1,0.5,sum of the lines named,sum,0.215,0.325,1.058,1.376
+grp_relief,Total: Biden + Trump relief,2021Q2,0.722,sum of the lines named,sum,0.31,0.48,1.537,2.036
+grp_relief,Total: Biden + Trump relief,2021Q3,0.953,sum of the lines named,sum,0.421,0.641,2.028,2.619
+grp_relief,Total: Biden + Trump relief,2021Q4,1.172,sum of the lines named,sum,0.524,0.783,2.494,3.284
+grp_relief,Total: Biden + Trump relief,2022Q1,1.276,sum of the lines named,sum,0.556,0.84,2.721,3.565
+grp_relief,Total: Biden + Trump relief,2022Q2,1.262,sum of the lines named,sum,0.543,0.824,2.744,3.624
+grp_relief,Total: Biden + Trump relief,2022Q3,1.207,sum of the lines named,sum,0.504,0.797,2.717,3.574
+grp_relief,Total: Biden + Trump relief,2022Q4,1.055,sum of the lines named,sum,0.401,0.686,2.441,3.244
+grp_relief,Total: Biden + Trump relief,2023Q1,0.971,sum of the lines named,sum,0.356,0.647,2.344,3.059
+grp_relief,Total: Biden + Trump relief,2023Q2,0.973,sum of the lines named,sum,0.367,0.669,2.338,3.052
+grp_relief,Total: Biden + Trump relief,2023Q3,0.889,sum of the lines named,sum,0.267,0.596,2.203,2.895
+grp_relief,Total: Biden + Trump relief,2023Q4,0.815,sum of the lines named,sum,0.182,0.503,2.077,2.753
+grp_relief,Total: Biden + Trump relief,2024Q1,0.773,sum of the lines named,sum,0.128,0.454,1.985,2.729
+grp_relief,Total: Biden + Trump relief,2024Q2,0.738,sum of the lines named,sum,0.074,0.392,1.867,2.633
+grp_relief,Total: Biden + Trump relief,2024Q3,0.71,sum of the lines named,sum,0.017,0.366,1.779,2.579
+grp_relief,Total: Biden + Trump relief,2024Q4,0.67,sum of the lines named,sum,-0.018,0.344,1.72,2.481
+grp_supply,Total: supply shocks (supply chains + war),2020Q1,0.009,sum of the lines named,sum,-0.063,-0.035,0.052,0.081
+grp_supply,Total: supply shocks (supply chains + war),2020Q2,0.206,sum of the lines named,sum,0.02,0.095,0.329,0.398
+grp_supply,Total: supply shocks (supply chains + war),2020Q3,0.534,sum of the lines named,sum,0.259,0.361,0.707,0.823
+grp_supply,Total: supply shocks (supply chains + war),2020Q4,0.718,sum of the lines named,sum,0.355,0.499,0.929,1.077
+grp_supply,Total: supply shocks (supply chains + war),2021Q1,0.881,sum of the lines named,sum,0.461,0.623,1.144,1.312
+grp_supply,Total: supply shocks (supply chains + war),2021Q2,0.998,sum of the lines named,sum,0.544,0.721,1.283,1.482
+grp_supply,Total: supply shocks (supply chains + war),2021Q3,1.057,sum of the lines named,sum,0.508,0.722,1.416,1.656
+grp_supply,Total: supply shocks (supply chains + war),2021Q4,1.328,sum of the lines named,sum,0.613,0.892,1.772,2.109
+grp_supply,Total: supply shocks (supply chains + war),2022Q1,2.246,sum of the lines named,sum,1.434,1.761,2.779,3.107
+grp_supply,Total: supply shocks (supply chains + war),2022Q2,3.019,sum of the lines named,sum,2.151,2.473,3.606,3.974
+grp_supply,Total: supply shocks (supply chains + war),2022Q3,2.929,sum of the lines named,sum,2.032,2.359,3.551,3.958
+grp_supply,Total: supply shocks (supply chains + war),2022Q4,2.663,sum of the lines named,sum,1.73,2.087,3.274,3.704
+grp_supply,Total: supply shocks (supply chains + war),2023Q1,1.729,sum of the lines named,sum,0.764,1.171,2.356,2.808
+grp_supply,Total: supply shocks (supply chains + war),2023Q2,0.865,sum of the lines named,sum,-0.127,0.281,1.523,2.024
+grp_supply,Total: supply shocks (supply chains + war),2023Q3,0.756,sum of the lines named,sum,-0.228,0.176,1.404,1.934
+grp_supply,Total: supply shocks (supply chains + war),2023Q4,0.793,sum of the lines named,sum,-0.147,0.233,1.431,1.969
+grp_supply,Total: supply shocks (supply chains + war),2024Q1,0.891,sum of the lines named,sum,0.018,0.363,1.526,2.043
+grp_supply,Total: supply shocks (supply chains + war),2024Q2,0.893,sum of the lines named,sum,0.065,0.398,1.505,2.028
+grp_supply,Total: supply shocks (supply chains + war),2024Q3,0.884,sum of the lines named,sum,0.117,0.427,1.451,1.969
+grp_supply,Total: supply shocks (supply chains + war),2024Q4,0.903,sum of the lines named,sum,0.229,0.471,1.456,1.96
+model_total,Model estimate (sum of all causes + pre-existing),2020Q1,1.397,sum of the lines named,sum,1.299,1.339,1.453,1.49
+model_total,Model estimate (sum of all causes + pre-existing),2020Q2,0.335,sum of the lines named,sum,0.035,0.149,0.506,0.616
+model_total,Model estimate (sum of all causes + pre-existing),2020Q3,0.635,sum of the lines named,sum,0.122,0.335,0.917,1.116
+model_total,Model estimate (sum of all causes + pre-existing),2020Q4,0.776,sum of the lines named,sum,0.111,0.375,1.127,1.387
+model_total,Model estimate (sum of all causes + pre-existing),2021Q1,1.459,sum of the lines named,sum,0.629,0.953,1.891,2.183
+model_total,Model estimate (sum of all causes + pre-existing),2021Q2,3.023,sum of the lines named,sum,2.153,2.462,3.467,3.767
+model_total,Model estimate (sum of all causes + pre-existing),2021Q3,3.477,sum of the lines named,sum,2.515,2.896,3.961,4.312
+model_total,Model estimate (sum of all causes + pre-existing),2021Q4,4.77,sum of the lines named,sum,3.741,4.159,5.425,5.862
+model_total,Model estimate (sum of all causes + pre-existing),2022Q1,5.572,sum of the lines named,sum,4.592,4.952,6.246,6.725
+model_total,Model estimate (sum of all causes + pre-existing),2022Q2,6.011,sum of the lines named,sum,4.951,5.419,6.735,7.2
+model_total,Model estimate (sum of all causes + pre-existing),2022Q3,6.105,sum of the lines named,sum,4.924,5.397,6.924,7.49
+model_total,Model estimate (sum of all causes + pre-existing),2022Q4,5.359,sum of the lines named,sum,4.141,4.589,6.194,6.834
+model_total,Model estimate (sum of all causes + pre-existing),2023Q1,4.414,sum of the lines named,sum,3.135,3.685,5.386,6.061
+model_total,Model estimate (sum of all causes + pre-existing),2023Q2,3.429,sum of the lines named,sum,2.07,2.663,4.492,5.222
+model_total,Model estimate (sum of all causes + pre-existing),2023Q3,3.653,sum of the lines named,sum,2.27,2.785,4.765,5.556
+model_total,Model estimate (sum of all causes + pre-existing),2023Q4,3.609,sum of the lines named,sum,2.202,2.766,4.794,5.573
+model_total,Model estimate (sum of all causes + pre-existing),2024Q1,3.463,sum of the lines named,sum,2.074,2.68,4.68,5.519
+model_total,Model estimate (sum of all causes + pre-existing),2024Q2,3.601,sum of the lines named,sum,2.249,2.906,4.86,5.601
+model_total,Model estimate (sum of all causes + pre-existing),2024Q3,2.811,sum of the lines named,sum,1.507,2.113,4.116,4.782
+model_total,Model estimate (sum of all causes + pre-existing),2024Q4,2.492,sum of the lines named,sum,1.227,1.772,3.789,4.499

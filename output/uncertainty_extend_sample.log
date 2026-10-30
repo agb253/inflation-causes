@@ -1,0 +1,28 @@
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.25 (se 2.33), g1 -4.28 (se 2.36), R2 0.95 (uncentered; centered 0.80); labor-market miss max |2.51| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+pre2020 V/U coef sum 0.72 se 0.325 nobs 120
+to2024 V/U coef sum 0.526 se 0.254 nobs 140
+pre2020
+                 point    lo     hi
+shortage          4.21  1.01   8.58
+covid_other      -4.34 -9.29   0.25
+worker_shortage   2.52  1.01   4.33
+trump             1.65  0.51   2.92
+biden             2.06  0.91   3.38
+pentup            1.21  0.54   2.02
+energy_war        1.48  0.48   2.38
+baseline          8.23  4.93  11.83
+unexplained       1.03 -3.42   5.17
+to2024
+                 point    lo     hi
+shortage          4.25  1.10   8.83
+covid_other      -4.38 -8.42   0.75
+worker_shortage   2.38  0.60   3.98
+trump             1.65  0.35   2.74
+biden             1.85  0.62   2.97
+pentup            1.07  0.38   1.73
+energy_war        1.48  0.55   2.38
+baseline          8.85  6.17  11.23
+unexplained       0.67 -2.85   3.86

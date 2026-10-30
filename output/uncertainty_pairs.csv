@@ -1,0 +1,10 @@
+A,B,P(A > B)
+Supply chains,Relief signed by Biden,0.72
+Supply chains,Relief signed by Trump,0.76
+Relief signed by Biden,Relief signed by Trump,0.76
+Supply chains,Worker shortage,0.78
+Worker shortage,Relief signed by Biden,0.49
+War in Ukraine (energy & food),Pent-up demand,0.62
+Supply shocks (group),Relief + pent-up + Fed,0.39
+Supply shocks + worker shortage,Relief + pent-up + Fed,0.67
+Supply chains,All relief (Trump + Biden),0.41

@@ -1,0 +1,318 @@
+      CONGRESSIONAL BUDGET OFFICE                                           Phillip L. Swagel, Director
+      U.S. Congress
+      Washington, DC 20515
+
+
+
+
+                                                          August 4, 2022
+
+
+
+      Honorable Lindsey Graham
+      Ranking Member
+      Committee on the Budget
+      United States Senate
+      Washington, DC 20510
+
+      Re: Economic Analysis of Budget Reconciliation Legislation
+
+      Dear Senator:
+
+      Yesterday, the Congressional Budget Office published a cost estimate for
+      H.R. 5376, the Inflation Reduction Act of 2022, which is the latest version
+      of the reconciliation legislation in the Senate. 1 This letter provides answers
+      to four questions you asked related to that bill and broader economic
+      conditions.
+
+      Is the United States Currently in a Recession?
+      The U.S. economy shows signs of slowing, but whether the economy is
+      currently in a recession is difficult to say. It is possible that, in retrospect, it
+      will become apparent that the economy moved into recession sometime this
+      year. However, that is not clear from data that were available at the
+      beginning of August. Some key metrics indicate a decline in economic
+      activity as the first half of this year progressed, whereas others indicate
+      continued growth, though generally at a slower rate than previously.
+
+      Real gross domestic product (that is, GDP adjusted to remove the effects of
+      inflation) and industrial production have both declined. In particular, real
+      GDP declined by an average of 1.25 percent (at an annual rate) in the first
+      two quarters of 2022. Industrial production grew from January to April,
+      was essentially unchanged in May, and then declined in June.
+
+
+
+      1
+       Congressional Budget Office, cost estimate for H.R. 5376, the Inflation Reduction Act of 2022
+      (August 3, 2022), www.cbo.gov/publication/58366.
+
+
+
+www.cbo.gov
+Honorable Lindsey Graham
+Page 2
+
+Other key indicators of economic activity have continued to increase in the
+first half of 2022, though generally at a slower rate than they had
+previously. For instance, real gross domestic income (GDI) increased at an
+annual rate of 1.8 percent in the first quarter of 2022 after growing by an
+average rate of 6.3 percent in the second half of 2021. 2 (Second-quarter
+data for GDI are not yet available.) Real personal income minus transfer
+payments to people by federal, state, and local governments grew at an
+average annual rate of 0.5 percent in the first half of 2022 versus
+3.1 percent in the second half of 2021. And real personal consumption
+expenditures grew at an average annual rate of 1.4 percent in the first half
+of 2022 (with somewhat slower growth in the second quarter than in the
+first), compared with 2.2 percent in the second half of 2021. One reason for
+the deceleration in personal consumption expenditures is higher inflation,
+which has eroded consumers’ purchasing power. Another reason is that real
+disposable personal income has declined in the first half of 2022. Savings
+accumulated during the coronavirus pandemic, including from transfer
+payments, have continued to support consumption.
+
+The labor market remains tight, with low unemployment and elevated job
+vacancies, but both measures have softened in recent months. Net gains in
+nonfarm payroll employment averaged 375,000 jobs per month in the
+second quarter of 2022 compared with 539,000 jobs, on net, added per
+month in the first quarter and 590,000 jobs, on net, added per month in the
+second half of 2021. In June 2022, the unemployment rate was 3.6 percent
+(unchanged since March and near its prepandemic low) and there were
+about 1.8 job vacancies for every unemployed worker (one of the highest
+readings in the near 22-year history of this series though down from its
+highest level of 2.0 in March).
+
+How Would Enacting the Bill Affect Inflation in 2022 and 2023?
+In calendar year 2022, enacting the bill would have a negligible effect on
+inflation, in CBO’s assessment. In calendar year 2023, inflation would
+probably be between 0.1 percentage point lower and 0.1 percentage point
+higher under the bill than it would be under current law, CBO estimates.
+That range of likely outcomes reflects uncertainty about how various
+provisions of the bill would affect overall demand and output, the supply of
+labor, the persistence of disruptions in the supply of goods and services,
+and how the Federal Reserve would respond to offset any increase in
+inflationary pressure. Responsiveness to the enhancement of health
+insurance subsidies established by the Affordable Care Act is the most
+
+2
+    The data on GDP and GDI are subject to revision by the Bureau of Economic Analysis.
+Honorable Lindsey Graham
+Page 3
+
+important factor boosting inflationary pressure, and responsiveness to the
+new alternative minimum tax on corporations is the most important factor
+reducing inflationary pressure. The range applies to multiple measures of
+inflation: the GDP price index, the personal consumption expenditures
+price index, and the consumer price index for all urban consumers.
+
+In its analysis of the inflationary effects of the bill, CBO used an approach
+similar to that underlying the agency’s estimates of the short-term effects of
+legislation enacted in 2021. 3 The agency augmented its analysis to account
+for the effects of supply disruptions and for the amount of tightness or slack
+in the economy on the inflationary effects of fiscal policy.
+
+Key inputs into the analysis of inflation were the effects of the bill on
+overall demand for goods and services. In the short term, changes in fiscal
+policies affect the economy primarily by influencing the demand for goods
+and services by consumers, businesses, and governments, which leads to
+changes in output. Factors increasing overall demand push inflation up and
+those decreasing overall demand push inflation down. To estimate the
+effects of changes in federal spending and revenues on overall demand and
+output, CBO considered evidence about the effects of similar policies in the
+past and used results produced by macroeconomic models. 4
+
+CBO expects different provisions of the legislation to affect overall demand
+and output differently. 5 For example, provisions that directly increase
+government purchases of goods and services would add to overall demand
+on a dollar-for-dollar basis. Increases in financial support to people, such as
+through enhanced health insurance subsidies, would boost spending more
+among lower-income people than among higher-income people, partly
+because lower-income households typically consume a higher fraction of
+their additional disposable income than higher-income households do.
+Thus, financial assistance to lower-income households would boost the
+overall demand for goods and services more than financial assistance to
+higher-income households would. Changes to business taxes that affect
+after-tax profits on past investments—as opposed to the return on new
+
+
+3
+ See Congressional Budget Office, Additional Information About the Updated Budget and
+Economic Outlook: 2021 to 2031 (July 2021), Appendix B, www.cbo.gov/publication/57263.
+4
+  For further discussion, see Congressional Budget Office, The Effects of Pandemic-Related
+Legislation on Output (September 2020), www.cbo.gov/publication/56537.
+5
+  For additional discussion, see John Seliski and others, Key Methods That CBO Used to Estimate
+the Effects of Pandemic-Related Legislation on Output, Working Paper 2020-07 (Congressional
+Budget Office, October 2020), www.cbo.gov/publication/56612.
+Honorable Lindsey Graham
+Page 4
+
+investments—would have relatively small effects on overall demand, in
+CBO’s assessment.
+
+CBO used its estimates of the bill’s net effects on the deficit as the starting
+point for its analysis of overall effects on demand (see Table 1). The
+enhanced health insurance subsidies and energy-related subsidies were the
+largest contributors to increases in the deficit. The new alternative
+minimum tax on corporations was the largest contributor to reductions in
+the deficit. For each dollar change in the deficit, the increases in subsidies
+would probably have larger effects on overall demand (boosting it) than the
+increases in revenues (which would reduce overall demand). Those factors
+could contribute to the effects on output and inflation being positive even
+when the overall deficit was reduced.
+ Table 1.
+ Net Increases and Decreases (-) in the Deficit From the Inflation Reduction Act of 2022
+ Billions of Dollars
+                                                        Fiscal Year 2023       Fiscal Year 2024
+ Title I.
+  A. Tax Provisions                                            -54                    -46
+  A. Internal Revenue Service Funding                            5                      4
+  B. Prescription Drug Pricing                                  -3                     -2
+  C. Affordable Care Act Subsidies                              20                     22
+  D. Energy Security                                            12                     14
+ Titles II.-VIII.                                                3                     10
+  Total                                                        -18                      3
+
+ Memorandum: Deficit Effects From
+ Higher Revenues Resulting From
+ Increased Funding for the Internal
+ Revenue Service (Not included above)                           -3                     -8
+
+ Data source: Congressional Budget Office.
+
+ The estimated budgetary effects are of H.R. 5376, as amended in the nature of a substitute
+ (ERN22335) and posted on the website of the Senate Majority Leader on July 27, 2022.
+ Components may not sum to totals because of rounding.
+
+ The budgetary effects in fiscal years 2023 and 2024 informed CBO’s analysis of the
+ economic effects in calendar year 2023. The analysis included the effects on the deficit from
+ higher revenues resulting from increased funding for the Internal Revenue Service. Under
+ guidelines agreed to by the legislative and executive branches, those effects are not included
+ in the total line from CBO’s cost estimate reporting the net effect on the deficit. Thus, the
+ effects shown in the memorandum are additional. Those revenues constitute a shift in
+ resources from the private sector to the government that would reduce demand and thus
+ reduce inflationary pressure.
+Honorable Lindsey Graham
+Page 5
+
+Enacting the bill would also reduce some businesses’ incentives to invest
+through changes in the after-tax return on private investment, pushing down
+output and inflation. (See the answer to the fourth question in this letter for
+further discussion.) In addition, enacting the bill would reduce the
+incentives of some people to work, mainly because of the enhanced health
+insurance subsidies, pushing down output and pushing up inflation.
+
+Enacting the bill would affect economic activity and inflation beyond 2023.
+CBO has not evaluated those effects.
+
+What Is the Highest Amount of Income That People Qualifying for
+Expanded Health Insurance Subsidies Would Earn?
+The answer to your question depends on people’s age and geographic
+location, and the number of enrollees in the family. On the basis of
+nationwide average premiums projected for 2023 under the bill, CBO
+estimates the following:
+
+   • A 64-year-old would receive a premium tax credit if his or her
+     income did not exceed $163,700 in that year.
+
+   • A 21-year-old would receive a premium tax credit if his or her
+     income did not exceed $54,600.
+
+   • A family of four consisting of individuals ages 50, 50, 21, and 21
+     would receive a premium tax credit if their household income was
+     no greater than $304,100.
+
+   • A younger family of four, consisting of people ages 24, 24, 5, and 5,
+     would receive a premium tax credit if the household’s income was
+     no more than $192,700.
+
+Premium tax credits are used to lower people’s out-of-pocket monthly
+premium contributions for health insurance obtained through the
+marketplaces established by the Affordable Care Act. The amount of the
+credit is calculated as the difference between the benchmark premium for
+health insurance (that is, the premium for the second-lowest-cost silver plan
+available in a region) for the individual or family and a specified maximum
+contribution, expressed as a percentage of modified adjusted gross income.
+Those benchmark premiums are also a function of age, geographic location,
+and the number of enrollees. For example, the premium for a 64-year-old is
+three times that for a 21-year-old in most states. The premium tax credit is
+thus correspondingly larger for older people than for younger people.
+Honorable Lindsey Graham
+Page 6
+
+The likelihood that the benchmark premium will exceed a person’s
+maximum contribution—and that the person will therefore receive a
+premium tax credit—declines at higher income levels. For those whose
+income is above 400 percent of the federal poverty guideline, or $54,400
+for a single person in 2023, their maximum contribution would be
+8.5 percent of income through 2025 under the bill.
+
+This analysis is based on nationwide average premiums. For people living
+in states with premiums that are above or below the average, the income at
+which they would no longer be eligible for a premium tax credit would be
+higher or lower.
+
+What Effect Would a New Alternative Minimum Tax on Corporations
+Have on Business Investment and GDP?
+Section 10101 of H.R. 5376 would increase taxes on corporations by
+imposing a new alternative minimum tax equal to 15 percent of income
+reported on financial statements by certain large corporations—specifically,
+those whose adjusted financial statement income exceeds $1 billion. The
+staff of the Joint Committee on Taxation (JCT) estimates that the provision
+would increase federal revenues by $313.1 billion over the 2023–2031
+period (with $96.6 billion of that amount being generated in fiscal years
+2023 and 2024). JCT has projected that approximately 150 corporations
+would be subject to the new tax each year and that just under half of the
+revenues would come from the manufacturing sector. 6
+
+In CBO’s assessment, the proposed new corporate minimum tax would
+reduce the incentive for those large corporations to invest, primarily by
+limiting the tax benefit of accelerated depreciation and by decreasing the
+after-tax return on their new investment. According to the generally
+accepted accounting principles that are used for preparing financial
+statements, firms must deduct the cost of investments over the full useful
+life of the asset. In contrast, various provisions of the tax code—including
+“bonus” depreciation—allow firms to deduct investment expenses more
+quickly, increasing the tax benefit of those deductions and the expected
+after-tax return on the investments. By setting a new minimum tax, section
+10101 would limit the tax benefit of accelerated depreciation for affected
+corporations and, all else being equal, reduce their business investment.
+
+
+
+
+6
+ See Thomas A. Barthold, Joint Committee on Taxation, letter to the Honorable Ron Wyden,
+Senate Committee on Finance (August 1, 2022), https://tinyurl.com/4z5wtn7t.
+Honorable Lindsey Graham
+Page 7
+
+The provision would also affect private investment by increasing federal
+revenues and, all else being equal, by reducing the federal deficit and the
+amount of federal debt. Less government borrowing would increase the
+amount of funds available for private investment and put downward
+pressure on interest rates, which would have a positive effect on business
+investment, in CBO’s view.
+
+The net effect on business investment, and hence on GDP, would depend
+on the relative magnitudes of the direct incentive effect and the indirect
+effect resulting from the change in the federal budget deficit. Additionally,
+the net effect would depend on overall economic conditions.
+
+Other provisions of the Inflation Reduction Act would also affect incentives
+to invest. Thus, the legislation’s overall impact on business investment and
+GDP would differ from that of just this provision considered by itself.
+
+I hope that this information is useful to you.
+
+                                           Sincerely,
+
+
+
+
+                                           Phillip L. Swagel
+                                           Director
+
+cc:    Honorable Bernie Sanders
+       Chairman
+

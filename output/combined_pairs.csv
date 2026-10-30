@@ -1,0 +1,6 @@
+A,B,before,after
+Supply chains,Relief signed by Biden,0.722,0.786
+Supply chains,All relief (Trump + Biden),0.413,0.458
+Relief signed by Biden,Relief signed by Trump,0.759,0.747
+Supply chains + war + worker shortage,Relief + pent-up + Fed,0.667,0.75
+Supply chains + war,Relief + pent-up + Fed,0.388,0.428

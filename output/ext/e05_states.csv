@@ -1,0 +1,7 @@
+,estimate,se
+covid_g0_state_quarterFE,4.7108,1.615
+covid_g1_state_quarterFE,4.3185,1.3162
+covid_g0_state_noFE,12.1194,0.4967
+covid_g1_state_noFE,-5.8268,0.3606
+wage_slope_u_below6,-0.3519,0.2004
+wage_slope_change_above6,0.1538,0.2044

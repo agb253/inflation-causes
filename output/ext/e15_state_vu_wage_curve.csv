@@ -1,0 +1,7 @@
+estimate,value,se,n
+"state slope, 2009-2024 excl. 2020Q2-2021Q4",0.5797,0.4577,2907.0
+"state slope, 2009-2019",-0.0039,0.5824,2244.0
+"model long-run slope, point",1.2929,,
+"model long-run slope, redraws p5",0.4313,,
+"model long-run slope, redraws p50",1.2967,,
+"model long-run slope, redraws p95",2.3043,,

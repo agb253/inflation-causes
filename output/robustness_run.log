@@ -1,0 +1,77 @@
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.25 (se 2.33), g1 -4.28 (se 2.36), R2 0.95; labor-market miss max |2.51| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 3.6;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 14.35 (se 2.79), g1 -1.76 (se 2.82), R2 0.95; labor-market miss max |2.81| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.25 (se 2.33), g1 -4.28 (se 2.36), R2 0.95; labor-market miss max |3.07| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.90 (se 2.27), g1 -5.85 (se 2.30), R2 0.95; labor-market miss max |2.63| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.07 (se 2.41), g1 -3.84 (se 2.43), R2 0.95; labor-market miss max |2.60| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.46 (se 2.27), g1 -4.80 (se 2.30), R2 0.96; labor-market miss max |2.55| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.26 (se 2.32), g1 -4.31 (se 2.35), R2 0.95; labor-market miss max |2.51| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 14.57 (se 2.13), g1 -4.50 (se 2.15), R2 0.96; labor-market miss max |2.77| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 17.32 (se 3.07), g1 -1.03 (se 3.10), R2 0.96; labor-market miss max |3.10| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+Okun: -0.815 (se 0.037);  log V/U on u: -0.290;  SVAR first-stage F 9.5;  margin purge R2 0.51;  price-eq greed coefs {'greed': 0.01, 'greed_l1': -0.041, 'greed_l2': -0.014, 'greed_l3': 0.019, 'greed_l4': 0.015} sum -0.011
+COVID on unemployment: g0 15.25 (se 2.33), g1 -4.28 (se 2.35), R2 0.95; labor-market miss max |2.51| pts
+unpurged margin: price-eq coef sum 0.031
+fiscal timing fit to CBO (rmse, lambda, scale): (np.float64(0.5846655759718914), np.float64(0.74), np.float64(2.04))
+                                 baseline  fed_mps_orth  covid_residual  stringency_hold  no_pentup  pentup_high  pentup_slow  pentup_trend1719  fiscal_hutchins  fiscal_cbo_scale  ridge_05
+trump               2022Q2           0.47          0.48            0.47             0.47       0.47         0.47         0.47              0.47             0.48              0.96      0.47
+                    avg 2021-23      0.45          0.46            0.45             0.45       0.45         0.45         0.45              0.45             0.46              0.91      0.45
+biden               2022Q2           0.79          0.80            0.79             0.79       0.79         0.79         0.79              0.79             0.55              1.61      0.79
+                    avg 2021-23      0.54          0.55            0.54             0.54       0.54         0.54         0.54              0.54             0.43              1.10      0.54
+fed_easing          2022Q2           0.14          0.71            0.14             0.14       0.14         0.14         0.14              0.14             0.14              0.14      0.14
+                    avg 2021-23      0.18          0.80            0.18             0.18       0.18         0.18         0.18              0.18             0.18              0.18      0.18
+fed_hikes           2022Q2           0.00          0.00            0.00             0.00       0.00         0.00         0.00              0.00             0.00              0.00      0.00
+                    avg 2021-23     -0.03         -0.23           -0.03            -0.03      -0.03        -0.03        -0.03             -0.03            -0.03             -0.03     -0.03
+fed_pre2020         2022Q2           0.00         -0.04            0.00             0.00       0.00         0.00         0.00              0.00             0.00              0.00      0.00
+                    avg 2021-23     -0.00         -0.03           -0.00            -0.00      -0.00        -0.00        -0.00             -0.00            -0.00             -0.00     -0.00
+energy_war          2022Q2           1.13          1.13            1.13             1.13       1.13         1.13         1.13              1.13             1.13              1.13      1.13
+                    avg 2021-23      0.34          0.34            0.34             0.34       0.34         0.34         0.34              0.34             0.34              0.34      0.34
+energy_after        2022Q2           0.00          0.00            0.00             0.00       0.00         0.00         0.00              0.00             0.00              0.00      0.00
+                    avg 2021-23     -0.13         -0.13           -0.13            -0.13      -0.13        -0.13        -0.13             -0.13            -0.13             -0.13     -0.13
+shortage            2022Q2           1.89          1.89            1.89             1.89       1.89         1.89         1.89              1.89             1.89              1.89      1.89
+                    avg 2021-23      1.21          1.21            1.21             1.21       1.21         1.21         1.21              1.21             1.21              1.21      1.21
+greed               2022Q2           0.00          0.00            0.00             0.00       0.00         0.00         0.00              0.00             0.00              0.00      0.00
+                    avg 2021-23     -0.01         -0.01           -0.01            -0.01      -0.01        -0.01        -0.01             -0.01            -0.01             -0.01     -0.01
+pentup              2022Q2           0.39          0.39            0.39             0.39       0.00         0.50         0.26              0.38             0.39              0.39      0.39
+                    avg 2021-23      0.34          0.34            0.34             0.34       0.00         0.43         0.23              0.33             0.34              0.34      0.34
+covid_other         2022Q2          -1.56         -1.94           -1.49            -1.56      -1.36        -1.61        -1.49             -1.55            -1.36             -2.70     -1.56
+                    avg 2021-23     -1.04         -1.41           -1.23            -1.38      -0.84        -1.09        -0.97             -1.03            -0.89             -2.00     -1.04
+worker_shortage     2022Q2           0.81          0.83            0.81             0.81       0.81         0.81         0.81              0.81             0.81              0.81      0.81
+                    avg 2021-23      0.64          0.66            0.64             0.64       0.64         0.64         0.64              0.64             0.64              0.64      0.64
+gpty                2022Q2           0.01          0.01            0.01             0.01       0.01         0.01         0.01              0.01             0.01              0.01      0.01
+                    avg 2021-23      0.01          0.01            0.01             0.01       0.01         0.01         0.01              0.01             0.01              0.01      0.01
+baseline            2022Q2           1.93          1.98            1.93             1.93       1.93         1.93         1.93              1.93             1.93              1.93      1.93
+                    avg 2021-23      1.96          2.01            1.96             1.96       1.96         1.96         1.96              1.96             1.96              1.96      1.96
+unexplained         2022Q2           0.87          0.65            0.80             0.87       1.06         0.82         0.93              0.87             0.91              0.70      0.87
+                    avg 2021-23      0.32          0.21            0.52             0.67       0.47         0.28         0.37              0.33             0.27              0.26      0.32
+model_total         2022Q2           6.01          6.23            6.08             6.01       5.82         6.06         5.95              6.01             5.97              6.18      6.01
+                    avg 2021-23      4.47          4.58            4.27             4.12       4.32         4.51         4.42              4.46             4.52              4.53      4.47
+max_abs_unexplained 2020-24          1.04          1.23            1.11             1.04       1.09         1.08         1.02              1.04             1.07              1.08      1.04

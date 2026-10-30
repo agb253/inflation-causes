@@ -1,0 +1,7 @@
+                       excess_2021_24  supply  demand  ambiguous
+category                                                        
+New motor vehicles               0.38    0.18    0.15       0.04
+Used motor vehicles              0.33    0.22    0.15      -0.03
+Parts and accessories            0.11    0.07    0.03       0.01
+All motor vehicles               0.82    0.46    0.34       0.02
+motor-vehicle production index, 2019 avg = 100: {Timestamp('2019-12-31 00:00:00'): 100.0, Timestamp('2020-12-31 00:00:00'): 86.2, Timestamp('2021-12-31 00:00:00'): 92.0, Timestamp('2022-12-31 00:00:00'): 103.5, Timestamp('2023-12-31 00:00:00'): 107.6, Timestamp('2024-12-31 00:00:00'): 105.4}
