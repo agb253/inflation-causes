@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Who Caused the Inflation? No One Thing Did</title>
+<style>body{max-width:680px;margin:40px auto;padding:0 16px;font:18px/1.6 Georgia,serif;background:#fff;color:#111}img{max-width:100%}</style>
+</head><body><article>
+<h1>Who Caused the Inflation? No One Thing Did</h1>
+<p><em>Putting every claimed cause of 2021–24 inflation into one model, on the same scale, with ranges.</em></p>
+
+<p>Ask who caused the inflation that followed the pandemic and you'll get a single answer, depending on who you ask: Biden's stimulus, Trump's stimulus, the Fed printing money, the war in Ukraine, broken supply chains, or corporate greed. Each claim comes with its own chart and its own method, so they can't be compared.</p>
+<p>I put all of them into one model and measured them the same way. The short version: <strong>no single cause did it.</strong> At least six things added to inflation, and the biggest one wasn't any president's spending.</p>
+
+<figure><img src="https://agb253.github.io/inflation-causes/causes_chart_best.png" alt="Line chart of each cause's contribution to US inflation by quarter, 2020 to 2024">
+<figcaption>Each line is how many points of yearly inflation (PCE price index, the Fed's target measure) one cause added in each quarter. Shading shows the 90% range. The lines add up to actual inflation.</figcaption></figure>
+
+<h2>The numbers</h2>
+<p>Adding up the four yearly inflation rates for 2021–2024 gives 17.3 points. About 8.2 of those would have happened anyway: it's where inflation was heading under end-2019 conditions, roughly 2% a year. The rest is what needs explaining.</p>
+
+<figure><img src="https://agb253.github.io/inflation-causes/medium_table.png" alt="Table of each cause's contribution to US inflation, 2021 to 2024, with 90% ranges"></figure>
+
+<p>What it shows:</p>
+<ul>
+<li><strong>Supply chains were the largest single cause</strong>, at about 4.2 points. That's measured by the New York Fed's index of global supply-chain pressure, which in December 2021 hit its highest level since the index begins in 1998.</li>
+<li><strong>Relief under both presidents added to inflation.</strong> Relief paid under Biden added about 2.1 points; relief paid under Trump about 1.7. Neither was the largest cause. Much of that relief offset the damage the COVID shutdowns did, which pulled inflation <em>down</em> by about 4.3 points.</li>
+<li><strong>The war in Ukraine added about 1.5 points</strong> through energy and food prices in 2022.</li>
+<li><strong>A worker shortage added about 2.5 points.</strong> After COVID, far more jobs were open than there were people looking for work, beyond what unemployment alone would predict.</li>
+<li><strong>Pent-up demand added about 1.2 points.</strong> People who couldn't spend in 2020 spent the savings in 2021–23.</li>
+<li><strong>The Fed's net effect was small</strong>: about +0.8 from the 2020–21 rate cuts and bond buying, −0.4 from the 2022–23 hikes through 2024.</li>
+<li><strong>"Greedflation" comes out at about zero.</strong> Profit margins rose in 2021, but by about what supply chains, energy costs and wages would predict.</li>
+</ul>
+<p>One note on the relief lines: they are split by <em>when the money was paid</em>, not by who signed the law. Payments before March 2021 count as Trump's; payments from March 2021 count as Biden's, including some money from a law Trump signed in December 2020. That puts more on Biden's line than a split by signer would.</p>
+
+<h2>What this can't tell you</h2>
+<ul>
+<li><strong>It's one model's answer, not a measurement.</strong> The model is the wage-price model of Ben Bernanke and Olivier Blanchard (NBER Working Paper 31417), re-estimated here and fed each cause through public data: BEA relief payments, CBO estimates of how much each kind of payment boosts the economy, the New York Fed's supply-chain index, and market reactions to Fed announcements.</li>
+<li><strong>Single causes are measured loosely.</strong> The 90% range for supply chains runs from 2.5 to 9.3 points. Groups of causes are measured much more tightly, because their errors cancel.</li>
+<li><strong>Supply versus demand is close.</strong> In this model, supply causes (supply chains, war, worker shortage) beat demand causes (relief, pent-up spending, the Fed) in 2 of every 3 redraws. That leans toward supply but doesn't settle it. Studies that count demand's direct push on goods prices give demand a bigger role, and on San Francisco Fed data the two come out about even.</li>
+<li><strong>The Fed's own model disagrees on demand.</strong> I reran the same test through FRB/US, the model the Federal Reserve Board's staff use. It agrees on the direction of every cause and that supply chains were the largest, but it gives relief much less effect. It also can't explain about half of the inflation by itself. The disagreement comes down to one question economists still argue about: is the job market's tightness better measured by the unemployment rate or by job openings per unemployed worker?</li>
+</ul>
+
+<h2>The bottom line</h2>
+<p>Inflation in 2021–23 had several causes, and they overlapped. Supply chains broke, a war drove up energy and food prices, too few workers were available for the jobs on offer, and relief under both Trump and Biden, plus pent-up spending, pushed demand up at the same time. Blaming any one of them, or any one president, leaves out most of the story.</p>
+
+<h2>How this was made, and how to check it</h2>
+<p>I'm not an economist. The analysis, code and much of this text were produced with Claude, an AI model, under my direction. Every number comes from public data and every step is in the code, so anyone can rerun it or find a mistake.</p>
+<ul>
+<li>Full article with every number by quarter, the equations and all sources: <a href="https://agb253.github.io/inflation-causes/">agb253.github.io/inflation-causes</a></li>
+<li>Code and data: <a href="https://github.com/agb253/inflation-causes">github.com/agb253/inflation-causes</a></li>
+</ul>
+<p>If you find an error, please open an issue on GitHub or leave a comment. I'll correct the piece or take it down.</p>
+</article></body></html>
