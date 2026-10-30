@@ -4,7 +4,7 @@ A cause-by-cause breakdown of US inflation, 2020–2024: pandemic relief (split 
 payments made under Trump and under Biden), Federal Reserve policy, supply chains, the war in Ukraine,
 pent-up demand, worker shortages, COVID restrictions, and what is left unexplained.
 
-**Read the article:** `docs/index.html` (served by GitHub Pages at the link in the repository description).
+**Read the article:** `docs/index.html` — live at https://agb253.github.io/inflation-causes/.
 **Every number, equation and source behind the main chart:** `docs/reproduce.html`, `docs/reproduce_long.csv`.
 **Technical report:** `docs/report.html` / `output/REPORT.md`.
 
