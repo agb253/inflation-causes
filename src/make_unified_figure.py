@@ -26,12 +26,12 @@ INK, MUTED, GRID = "#0b0b0b", "#52514e", "#e4e3df"
 LINES = [  # key, label, color, linestyle, marker, band
     ("trump", "Relief paid under Trump (CARES Act, Dec-2020 act; payments before Mar 2021)", "#e34948", "-", "s", True),
     ("biden", "Relief paid under Biden (payments from Mar 2021: American Rescue Plan, plus later payments under Trump-signed laws)", "#2a78d6", "-", "o", True),
-    ("fed_easing", "Fed 2020-21 rate cuts + QE (money injection)", "#1baf7a", "-", "^", False),
+    ("fed_easing", "Fed 2020-21 easing: rate cuts, bond buying (QE), emergency lending", "#1baf7a", "-", "^", False),
     ("fed_hikes", "Fed 2022-23 rate hikes", "#6250d6", "-", "v", False),
     ("energy_war", "War in Ukraine (energy & food spike and fall-back 2022Q1-2023Q1, and its lingering effect)", "#eb6834", "-", "D", True),
     ("shortage", "COVID supply chains", "#eda100", "-", "P", True),
     ("worker_shortage", "Worker shortage", "#e87ba4", "-", "X", BEST),
-    ("greed", "Greedflation (margin rises beyond costs & shortages)", "#008300", "-", "*", True),
+    ("greed", "Profit margins ('greedflation'): rises beyond what shortages & demand explain", "#008300", "-", "*", True),
     ("pentup", "Pent-up demand (spending money that couldn't be spent in lockdowns; relief money excluded)", "#8a5a2b", "-", "h", True),
     ("covid_other", "COVID shutdown & reopening (estimated from lockdown stringency, incl. the 2020-21 oil & food crash/rebound)",
      INK, (0, (5, 2)), None, BEST),
@@ -59,14 +59,16 @@ a.set_ylabel("Percentage points of year-over-year PCE inflation", color=MUTED)
 a.set_title("What caused US inflation, 2020-2024: each cause, and the part the model cannot explain",
             loc="left", fontsize=14, color=INK)
 # one legend, right of the plot; causes listed from largest to smallest at the 2022Q2 peak
+f1 = lambda v: "0.0" if round(v, 1) == 0 else f"{v:+.1f}"
+TOT = {r[0]: o.loc[[f'{y}Q4' for y in range(2021, 2025)], r[0]].sum() for r in LINES}
 order = sorted(LINES, key=lambda r: -o.loc["2022Q2", r[0]])
 hs = [h["actual"], h["sum"]] + [h[r[0]] for r in order]
 ls_ = ["Actual PCE inflation (BEA, % change from a year earlier)", "Model estimate: the model run on all the actual data (its gap to actual inflation is part of 'other & not explained')"] + \
-      [f"{r[1]}  [{o.loc['2022Q2', r[0]]:+.1f}]" for r in order]
+      [f"{r[1]}  [{f1(o.loc['2022Q2', r[0]])} | {f1(TOT[r[0]])}]" for r in order]
 import textwrap
 ls_ = ["\n".join(textwrap.wrap(t, 46)) for t in ls_]
 a.legend(hs, ls_, loc="upper left", bbox_to_anchor=(1.01, 1.0), fontsize=9, frameon=False, labelspacing=.9,
-         title="[ ] = points at the 2022Q2 peak", title_fontsize=8.5, alignment="left", handlelength=3.2)
+         title="[ ] = points at the 2022Q2 peak | 2021-24 total (four Q4 values added)", title_fontsize=8.5, alignment="left", handlelength=3.2)
 rg = lambda k, qq: f"{o.loc[qq, k + '_lo']:+.1f} to {o.loc[qq, k + '_hi']:+.1f}"
 fig.text(.01, .005,
          "One model: relief payments (BEA) x CBO multipliers, and pent-up spending (BEA real PCE below trend) -> GDP -> unemployment (Okun); Fed rate path (SF Fed proxy funds rate, "
